@@ -2,4 +2,4 @@
 
 ![Networks](../../.gitbook/assets/icons\_networks.png)
 
-## About Netwroks
+## About Networks
