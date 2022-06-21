@@ -57,7 +57,7 @@ Track your quest progress by typing <mark style="color:blue;">**/quests started*
 
 <details>
 
-<summary><mark style="color:green;">+ 50</mark> XP levels</summary>
+<summary><mark style="color:green;">+ 500</mark> XP levels</summary>
 
 * Receive 50 levels worth of XP
 
