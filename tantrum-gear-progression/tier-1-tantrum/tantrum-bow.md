@@ -1,6 +1,6 @@
 # Tantrum Bow
 
-![](<../../.gitbook/assets/Tantrum Bow.gif>)
+![](<../../.gitbook/assets/Pristine Compound Bow.gif>)
 
 Tantrum bow is a bow with 9 enchantments: 5 vanilla enchants and 4 AE enchants.
 

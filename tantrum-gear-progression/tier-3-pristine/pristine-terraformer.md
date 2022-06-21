@@ -1,6 +1,6 @@
 # Pristine Terraformer
 
-![](<../../.gitbook/assets/Pristine Terraformer.gif>)
+![](<../../.gitbook/assets/Pristine Terraformer (1).gif>)
 
 {% hint style="info" %}
 The Toolsmith offers a secondary option for Pristine Terraformer without Trench or Smelting called the Precise Pristine Terraformer!

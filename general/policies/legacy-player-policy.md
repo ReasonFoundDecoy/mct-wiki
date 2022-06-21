@@ -17,3 +17,20 @@ You can obtain Legacy status 2 ways:
 * As a reward for reaching Prestige Cod
 
 </details>
+
+### Legacy Players
+
+* nyxphoenixox
+* Toru12
+* ABitOddish
+* DredgenZero
+* charzy97
+* Fracticus
+* blaketheboss567
+* Hyper\_Panda420
+* MagicBlockMom
+* Speranza1
+* thepog1 (Sefiraat)
+* SHRANKDIENST
+* 1rubberducky2
+* Azgodeth
