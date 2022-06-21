@@ -1,0 +1,50 @@
+# Voting
+
+There are 20 vote sites that you can vote on, each one gives you 1 [Vote Crate](../economy/crates/vote-crate/). Why so many? Simple! Each vote benefits you and also benefits the server! You get free stuff, the server gets more visibility.
+
+Sometimes a vote site may be experiencing issues. This is something only the website developer can fix and/or control.
+
+You can vote while not being logged in to the game and you'll still receive your Vote Crates when you do arrive, as long as you already have an empty inventory slot for them to go to.
+
+There are 4 different ways you can vote.
+
+* Vote via website: [https://mct.enjin.com/voting](https://mct.enjin.com/voting)
+* Run <mark style="color:blue;">**/votelist**</mark> or <mark style="color:blue;">**/vote**</mark> in game to see all the sites
+* Find all the vote links in discord channel #server-voting
+* Find all links down below!
+
+## Vote Sites
+
+The following is a list of all vote sites we use and how long before you can vote again for each one.
+
+| Website/Link                                                                             | Time Gate               |
+| ---------------------------------------------------------------------------------------- | ----------------------- |
+| [PlanetMinecraft.com](https://www.planetminecraft.com/server/mctantrum/vote/)            | 24 hours                |
+| [Minestatus.net](https://minestatus.net/server/vote/mct.tantrum.org)                     | 24 hours                |
+| [Minebrowse.com](https://minebrowse.com/server/2481)                                     | 24 hours                |
+| [serverlist.games](https://serverlist.games/vote/5099)                                   | 20 hours                |
+| [MinecraftServers.org](https://minecraftservers.org/vote/608489)                         | 12 hours                |
+| [Minecraft-Server-List.com](https://minecraft-server-list.com/server/474392/vote/)       | 12 hours                |
+| [topg.org](https://topg.org/minecraft-servers/server-625558)                             | 12 hours                |
+| [MCServertime.com](https://mcservertime.com/server-mctantrum.590/vote)                   | 12 hours                |
+| [ServerPact.com](https://www.serverpact.com/vote-46405)                                  | 12 hours                |
+| [List-Minecraft-Server.com](https://list-minecraft-server.com/server-mctantrum.757/vote) | 6 hours                 |
+| [Minecraft-MP.com](https://minecraft-mp.com/server/281008/vote/)                         | 12am EST                |
+| [Minecraft-Tracker.com](https://minecraft-tracker.com/server/6691/vote/)                 | 12am EST                |
+| [topminecraftservers.org](https://topminecraftservers.org/server/25402)                  | 12am EST                |
+| [Minelist.net](https://minelist.net/vote/3762)                                           | 12am CT                 |
+| [Minecraft-Server.net](https://minecraft-server.net/vote/B\_White/)                      | 12am UTC                |
+| [mclike.com](https://mclike.com/vote-191037)                                             | 3am GMT                 |
+| [MinecraftList.org](https://minecraftlist.org/vote/24598)                                | Once per day/unspecific |
+| [MC-Servers.com](https://mc-servers.com/mcvote/4884/)                                    | Once per day/unspecific |
+| [MineServers.com](https://mineservers.com/server/dr86PAcQ/vote)                          | Once per day/unspecific |
+| [BestServers.com](https://bestservers.com/server/1222/vote)                              | Once per day/unspecific |
+
+## Vote Party
+
+Vote parties need 600 votes to activate. This may seem like a lot, but with 20 vote sites, it usually doesn't take too long. You only need to have a minimum of 15 votes to be included in the party when it hits. If you are not logged in at the time, you will receive your rewards next time you join. Offline voting does count towards vote party. Rewards are as follows:
+
+* <mark style="color:green;">**+ 6,000**</mark> Claim Blocks
+* <mark style="color:green;">**+ 2,000**</mark> Tokens
+* <mark style="color:green;">**+ $500,000**</mark>
+* <mark style="color:green;">**+ 30,971**</mark> XP Points (roughly levels 0-100)
