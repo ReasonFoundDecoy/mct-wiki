@@ -1,6 +1,6 @@
 # Polished Longbow
 
-![](<../../.gitbook/assets/Polished Longbow.gif>)
+![](<../../.gitbook/assets/Pristine Compound Bow (1) (1).gif>)
 
 Polished Longbow is a bow with 11 enchantments: 5 vanilla enchants and 6 AE enchants. It has 2 more enchants than its predecessor, Tantrum Bow.
 

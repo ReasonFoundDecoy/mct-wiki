@@ -1,6 +1,6 @@
 # Pristine Pikestaff
 
-![](<../../.gitbook/assets/Pristine Pikestaff (1).gif>)
+![](<../../.gitbook/assets/Polished Javelin.gif>)
 
 {% hint style="danger" %}
 <mark style="color:red;">**USE AT YOUR OWN RISK**</mark><mark style="color:red;">.</mark> All Tiers of tridents become "projectiles" once they are thrown. This means that if you throw your trident at the same time as clearlag fires off, you **WILL** permanently lose your trident.

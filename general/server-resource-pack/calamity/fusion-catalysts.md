@@ -10,7 +10,7 @@ There are currently 2 ways of obtaining them:
 
 * Purchase from our website, [https://mct.enjin.com/shop#fusion-catalysts-1613884](https://mct.enjin.com/shop#fusion-catalysts-1613884)
 
-![](<../../../.gitbook/assets/fusion catalyst.gif>)
+![](<../../../.gitbook/assets/fusion catalyst (1).gif>)
 
 It is recommended to use a **BLANK** Calamity piece as any enchantments on it will get yeeted into the abyss. This is because fusion takes only the texture and applies it to your Pristine piece.&#x20;
 
@@ -32,4 +32,4 @@ Made by fusing a Neptune's Bounty with a Pristine Gladius and adding more enchan
 
 ![](../../../.gitbook/assets/neptunes\_bounty.png)
 
-![](<../../../.gitbook/assets/azgos sword (2) (1) (1).png>)
+![](<../../../.gitbook/assets/azgos sword (1) (1).png>)

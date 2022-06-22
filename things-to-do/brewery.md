@@ -52,7 +52,7 @@ Slots: 9
 * Place a sign on the lower right side and write "Barrel" in the upper line.
 * After building and placing the sign, "Barrel created" will appear.
 
-![](<../.gitbook/assets/small barrel 2.png>) ![](<../.gitbook/assets/small barrel.png>)
+![](<../.gitbook/assets/small barrel 2 (1).png>) ![](<../.gitbook/assets/small barrel.png>)
 
 #### Big Barrel
 
@@ -81,7 +81,7 @@ If you plan on selling brews at your shop, you may have to seal them first in or
 * Putting a brew into the Sealing table will equalize it, making it equal to other brews that have been brewed similarly.
 * Sealed brews cannot be aged or modified any further and they don't show their details anymore.
 
-![](<../.gitbook/assets/sealing table name.png>)
+![](<../.gitbook/assets/sealing table name (1).png>)
 
 ![](<../.gitbook/assets/sealing table recipe.png>)
 

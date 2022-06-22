@@ -1,6 +1,6 @@
 # Tantrum Pole
 
-![](<../../.gitbook/assets/Pristine Pole (1) (1).gif>)
+![](<../../.gitbook/assets/Polished Pole (1).gif>)
 
 Tantrum Pole is a fishing rod with 5 enchantments: 4 vanilla enchants and 1 AE enchant.
 

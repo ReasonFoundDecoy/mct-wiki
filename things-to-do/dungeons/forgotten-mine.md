@@ -63,7 +63,7 @@ The are Elite Crafting Table recipes. <mark style="color:red;">**DO NOT SHIFT-CL
 
 <img src="../../.gitbook/assets/ReasonFoundDecoy.png" alt="" data-size="line"> Decoy Skull
 
-<img src="../../.gitbook/assets/ABitOddish.png" alt="" data-size="line"> Odd Skull
+<img src="../../.gitbook/assets/ABitOddish (1).png" alt="" data-size="line"> Odd Skull
 
 <img src="../../.gitbook/assets/the crow.png" alt="" data-size="line"> The Crow
 
@@ -75,7 +75,7 @@ The are Elite Crafting Table recipes. <mark style="color:red;">**DO NOT SHIFT-CL
 
 <img src="../../.gitbook/assets/fresh pineapple.png" alt="" data-size="line"> Fresh Pineapple
 
-<img src="../../.gitbook/assets/yeti remains.png" alt="" data-size="line"> Yeti Remains
+<img src="../../.gitbook/assets/yeti remains (1).png" alt="" data-size="line"> Yeti Remains
 
 <img src="../../.gitbook/assets/ice rune.png" alt="" data-size="line"> Ice Rune
 
@@ -85,7 +85,7 @@ The are Elite Crafting Table recipes. <mark style="color:red;">**DO NOT SHIFT-CL
 {% endtab %}
 
 {% tab title="Shard of Hope" %}
-<img src="../../.gitbook/assets/thepog1.png" alt="" data-size="line"> Poggerz
+<img src="../../.gitbook/assets/thepog1 (1).png" alt="" data-size="line"> Poggerz
 
 <img src="../../.gitbook/assets/rainbow stack.png" alt="" data-size="line"> Rainbow Stack
 

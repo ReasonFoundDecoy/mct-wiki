@@ -16,4 +16,4 @@ Some stuff we know:
 * People who are Prestiging visit <mark style="color:blue;">**/warp EliteCrafting**</mark>
 * And we know what their rank prefixes look like!
 
-![](<../.gitbook/assets/pRanks names2 (1).png>)
+![](<../.gitbook/assets/pRanks names2.png>)

@@ -6,7 +6,7 @@ description: Rank 2
 
 ![](<../../.gitbook/assets/sheep name.png>)
 
-![](<../../.gitbook/assets/sheep (1).png>)
+![](../../.gitbook/assets/sheep.png)
 
 ## Requirements
 

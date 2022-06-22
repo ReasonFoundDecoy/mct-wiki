@@ -1,6 +1,6 @@
 # Polished Pole
 
-![](<../../.gitbook/assets/Polished Pole.gif>)
+![](<../../.gitbook/assets/Pristine Pole (1) (1).gif>)
 
 Polished Pole is a fishing rod with 6 enchantments: 4 vanilla enchants and 2 AE enchants. It has 1 more enchant than its predecessor, Tantrum Pole.
 

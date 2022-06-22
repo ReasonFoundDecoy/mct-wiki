@@ -1,6 +1,6 @@
 # Tantrum Wings
 
-![](<../../.gitbook/assets/Pristine Wings (1).gif>)
+![](<../../.gitbook/assets/Polished Wings.gif>)
 
 Tantrum Wings is an elytra with 10 enchantments: 3 vanilla enchants and 7 AE enchants. This is the only Tantrum item not found in the crate. To make Tantrum Wings, combine a Tantrum Plate and an Elytra in a crafting table as a shapeless recipe. The Wings can be upgraded the same as all other upgradable items.
 

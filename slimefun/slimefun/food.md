@@ -216,7 +216,7 @@ Direct consumption or consumed via [Cooler](useful-items.md#cooler).
 {% endtab %}
 {% endtabs %}
 
-### ![](../../.gitbook/assets/carrot\_juice.png) Carrot Juice
+### ![](../../.gitbook/assets/pumpkin\_juice.png) Carrot Juice
 
 **XP Cost:** 29 Levels
 
@@ -252,7 +252,7 @@ Direct consumption or consumed via [Cooler](useful-items.md#cooler).
 {% endtab %}
 {% endtabs %}
 
-### ![](../../.gitbook/assets/pumpkin\_juice.png) Pumpkin Juice
+### ![](../../.gitbook/assets/carrot\_juice.png) Pumpkin Juice
 
 **XP Cost:** 29 Levels
 
