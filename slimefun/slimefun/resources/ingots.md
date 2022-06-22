@@ -6,36 +6,36 @@ All basic ingots are in the **Research Group: New Metals**. Unlocking any one of
 
 {% tabs %}
 {% tab title="Obtaining" %}
-Smeltery/Electric Smeltery/Electric Ingot Factory/Advanced Smeltery (Infinity Expansion):
+**Smeltery/Electric Smeltery/Electric Ingot Factory/Advanced Smeltery (Infinity Expansion):**
 
 * 1 Copper Dust = 1 Copper Ingot
 
-Foundry (Fluffy Machines):
+**Foundry (Fluffy Machines):**
 
 * Can turn any dust or basic ingot into its other form; 1 dust = 1 ingot
 
-Ingot Former (Infinity Expansion):
+**Ingot Former (Infinity Expansion):**
 
 * 8 Copper Dust = 4 Copper Ingot
 
-Infinity Ingot Former (Infinity Expansion):
+**Infinity Ingot Former (Infinity Expansion):**
 
 * 64 Copper Dust = 32 Copper Ingot
 {% endtab %}
 
 {% tab title="Usage" %}
-Electric Ingot Pulverizer:
+**Electric Ingot Pulverizer:**
 
 * Copper Ingot = 1 Copper Dust
 
-Smeltery/Electric Smeltery:
+**Smeltery/Electric Smeltery:**
 
 * Bronze Ingot
 * Brass Ingot
 * Cupronickel Alloy Ingot (Simple Storage)
 * Nickel-Superalloy Ingot (Simple Storage)
 
-Enhanced Crafting Table:
+**Enhanced Crafting Table:**
 
 * Copper Wire
 * Battery
@@ -44,15 +44,15 @@ Enhanced Crafting Table:
 * Fluffy Wrench (Fluffy Machines)
 * Machine Circuit (Infinity Expansion)
 
-Manual Mill (LiteXpansion):
+**Manual Mill (LiteXpansion):**
 
 * Copper Plate (LiteXpansion)
 
-Singularity Constructor (Infinity Expansion):
+**Singularity Constructor (Infinity Expansion):**
 
-* Copper Singulatiry (Infinity Expansion)
+* Copper Singularity (Infinity Expansion)
 
-Foundry (Fluffy Machines):
+**Foundry (Fluffy Machines):**
 
 * Can turn any dust or basic ingot into its other form; 1 ingot = 1 dust
 {% endtab %}
@@ -62,47 +62,47 @@ Foundry (Fluffy Machines):
 
 {% tabs %}
 {% tab title="Obtaining" %}
-Smeltery/Electric Smeltery/Electric Ingot Factory/Advanced Smeltery (Infinity Expansion):
+**Smeltery/Electric Smeltery/Electric Ingot Factory/Advanced Smeltery (Infinity Expansion):**
 
 * 1 Tin Dust = 1 Tin Ingot
 
-Foundry (Fluffy Machines):
+**Foundry (Fluffy Machines):**
 
 * Can turn any dust or basic ingot into its other form; 1 dust = 1 ingot
 
-Ingot Former (Infinity Expansion):
+**Ingot Former (Infinity Expansion):**
 
 * 8 Tin Dust = 4 Tin Ingot
 
-Infinity Ingot Former (Infinity Expansion):
+**Infinity Ingot Former (Infinity Expansion):**
 
 * 64 Tin Dust = 32 Tin Ingot
 {% endtab %}
 
 {% tab title="Usage" %}
-Electric Ingot Pulverizer:
+**Electric Ingot Pulverizer:**
 
 * Tin Ingot = 1 Tin Dust
 
-Smeltery/Electric Smeltery:
+**Smeltery/Electric Smeltery:**
 
 * Pewter Alloy Ingot (Simple Storage)
 * Alloy Titanium (Supreme)
 
-Enhanced Crafting Table:
+**Enhanced Crafting Table:**
 
 * Tin Can
 
-Metal Forge (LiteXpansion):
+**Metal Forge (LiteXpansion):**
 
 * Mixed Metal Ingot (LiteXpansion)
 * Tin Plate (LiteXpansion)
 
-Singularity Constructor (Infinity Expansion):
+**Singularity Constructor (Infinity Expansion):**
 
 * Tin Singularity (Infinity Expansion)
 
-Foundry (Fluffy Machines):
+**Foundry (Fluffy Machines):**
 
 * Can turn any dust or basic ingot into its other form; 1 ingot = 1 dust
 {% endtab %}
@@ -112,36 +112,36 @@ Foundry (Fluffy Machines):
 
 {% tabs %}
 {% tab title="Obtaining" %}
-Smeltery/Electric Smeltery/Electric Ingot Factory/Advanced Smeltery (Infinity Expansion):
+**Smeltery/Electric Smeltery/Electric Ingot Factory/Advanced Smeltery (Infinity Expansion):**
 
 * 1 Lead Dust = 1 Lead Ingot
 
-Foundry (Fluffy Machines):
+**Foundry (Fluffy Machines):**
 
 * Can turn any dust or basic ingot into its other form; 1 dust = 1 ingot
 
-Ingot Former (Infinity Expansion):
+**Ingot Former (Infinity Expansion):**
 
 * 8 Lead Dust = 4 Lead Ingot
 
-Infinity Ingot Former (Infinity Expansion):
+**Infinity Ingot Former (Infinity Expansion):**
 
 * 64 Lead Dust = 32 Lead Ingot
 {% endtab %}
 
 {% tab title="Usage" %}
-Electric Ingot Pulverizer:
+**Electric Ingot Pulverizer:**
 
 * 1 Lead Ingot = 1 Lead Dust
 
-Smeltery/Electric Smeltery:
+**Smeltery/Electric Smeltery:**
 
 * Solder Ingot
 * Aluminum Brass Ingot
 * Aluminum Bronze Ingot
 * Alloy Platinum (Supreme)
 
-Enhanced Crafting Table:
+**Enhanced Crafting Table:**
 
 * Trash Can
 * Output Chest
@@ -153,16 +153,16 @@ Enhanced Crafting Table:
 * Heated Pressure Chamber
 * Heated Pressure Chamber - II
 * Electric Ingot Pulverizer
-* Auto-Breeder <mark style="color:orange;">(disabled due to other plugin confliction)</mark>
+* ~~Auto-Breeder~~ <mark style="color:orange;">(disabled due to other plugin confliction)</mark>
 * GPS Activation Device (Personal)
 * Nuclear Reactor
 * Reactor Access Port
 
-Singularity Constructor (Infinity Expansion):
+**Singularity Constructor (Infinity Expansion):**
 
 * Lead Singularity (Infinity Expansion)
 
-Foundry (Fluffy Machines):
+**Foundry (Fluffy Machines):**
 
 * Can turn any dust or basic ingot into its other form; 1 ingot = 1 dust
 {% endtab %}
@@ -172,35 +172,35 @@ Foundry (Fluffy Machines):
 
 {% tabs %}
 {% tab title="Obtaining" %}
-Smeltery/Electric Smeltery/Electric Ingot Factory/Advanced Smeltery (Infinity Expansion):
+**Smeltery/Electric Smeltery/Electric Ingot Factory/Advanced Smeltery (Infinity Expansion):**
 
 * 1 Silver Dust = 1 Silver Ingot
 
-Foundry (Fluffy Machines):
+**Foundry (Fluffy Machines):**
 
 * Can turn any dust or basic ingot into its other form; 1 dust = 1 ingot
 
-Ingot Former (Infinity Expansion):
+**Ingot Former (Infinity Expansion):**
 
 * 8 Silver Dust = 4 Silver Ingot
 
-Infinity Ingot Former (Infinity Expansion):
+**Infinity Ingot Former (Infinity Expansion):**
 
 * 64 Silver Dust = 32 Silver Ingot
 {% endtab %}
 
 {% tab title="Usage" %}
-Electric Ingot Pulverizer:
+**Electric Ingot Pulverizer:**
 
 * 1 Silver Ingot = 1 Silver Dust
 
-Smeltery/Electric Smeltery:
+**Smeltery/Electric Smeltery:**
 
 * Billon Ingot
 * Pewter Alloy Ingot (Simple Storage)
 * Alloy Iridium (Supreme)
 
-Enhanced Crafting Table:
+**Enhanced Crafting Table:**
 
 * Energy Regulator
 * Food Fabricator
@@ -209,11 +209,11 @@ Enhanced Crafting Table:
 * Cargo Motor
 * Cargo Node (Connector)
 
-Singularity Constructor (Infinity Expansion):
+**Singularity Constructor (Infinity Expansion):**
 
 * Silver Singularity (Infinity Expansion)
 
-Foundry (Fluffy Machines):
+**Foundry (Fluffy Machines):**
 
 * Can turn any dust or basic ingot into its other form; 1 ingot = 1 dust
 {% endtab %}
@@ -223,36 +223,36 @@ Foundry (Fluffy Machines):
 
 {% tabs %}
 {% tab title="Obtaining" %}
-Smeltery/Electric Smeltery/Electric Ingot Factory/Advanced Smeltery (Infinity Expansion):
+**Smeltery/Electric Smeltery/Electric Ingot Factory/Advanced Smeltery (Infinity Expansion):**
 
 * 1 Aluminum Dust = 1 Aluminum Ingot
 
-Foundry (Fluffy Machines):
+**Foundry (Fluffy Machines):**
 
 * Can turn any dust or basic ingot into its other form; 1 dust = 1 ingot
 
-Ingot Former (Infinity Expansion):
+**Ingot Former (Infinity Expansion):**
 
 * 8 Aluminum Dust = 4 Aluminum Ingot
 
-Infinity Ingot Former (Infinity Expansion):
+**Infinity Ingot Former (Infinity Expansion):**
 
 * 64 Aluminum Dust = 32 Aluminum Ingot
 {% endtab %}
 
 {% tab title="Usage" %}
-Electric Ingot Pulverizer:
+**Electric Ingot Pulverizer:**
 
 * 1 Aluminum Ingot = 1 Aluminum Dust
 
-Smeltery/Electric Smeltery:
+**Smeltery/Electric Smeltery:**
 
 * Duralumin Ingot
 * Aluminum Brass Ingot
 * Aluminum Bronze Ingot
 * Alloy Adamantium (Supreme)
 
-Enhanced Crafting Table:
+**Enhanced Crafting Table:**
 
 * Trash Can
 * Synthetic Sapphire
@@ -262,11 +262,11 @@ Enhanced Crafting Table:
 * Solar Generator
 * Electric Gold Pan
 
-Singularity Constructor (Infinity Expansion):
+**Singularity Constructor (Infinity Expansion):**
 
 * Aluminum Singularity (Infinity Expansion)
 
-Foundry (Fluffy Machines):
+**Foundry (Fluffy Machines):**
 
 * Can turn any dust or basic ingot into its other form; 1 ingot = 1 dust
 {% endtab %}
@@ -276,19 +276,19 @@ Foundry (Fluffy Machines):
 
 {% tabs %}
 {% tab title="Obtaining" %}
-Smeltery/Electric Smeltery/Electric Ingot Factory/Advanced Smeltery (Infinity Expansion):
+**Smeltery/Electric Smeltery/Electric Ingot Factory/Advanced Smeltery (Infinity Expansion):**
 
 * 1 Zinc Dust = 1 Zinc Ingot
 
-Foundry (Fluffy Machines):
+**Foundry (Fluffy Machines):**
 
 * Can turn any dust or basic ingot into its other form; 1 dust = 1 ingot
 
-Ingot Former (Infinity Expansion):
+**Ingot Former (Infinity Expansion):**
 
 * 8 Zinc Dust = 4 Zinc Ingot
 
-Infinity Ingot Former (Infinity Expansion):
+**Infinity Ingot Former (Infinity Expansion):**
 
 * 64 Zinc Dust = 32 Zinc Ingot
 {% endtab %}
