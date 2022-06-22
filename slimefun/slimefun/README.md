@@ -4,6 +4,8 @@
 
 The Slimefun portion of our wiki will contain detailed information about each item and other things relating to specifics on our server, such as disabled items and items/systems that work harmoniously between addons we have.
 
+As a side note, all images here will be from the server resource pack. The [Slimefun portion](../../general/server-resource-pack/slimefun-textures.md) of the resource pack was done by RaulH22.
+
 Until I complete this section, here are some places you can find general information:
 
 {% embed url="https://github.com/Slimefun/Slimefun4/wiki" %}

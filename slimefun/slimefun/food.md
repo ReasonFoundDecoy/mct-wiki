@@ -1,6 +1,6 @@
 # Food
 
-### ![](../../.gitbook/assets/WIP.png) Fortune Cookie
+### ![](../../.gitbook/assets/fortune\_cookie.png) Fortune Cookie
 
 **XP Cost:** 1 Levels
 
@@ -8,7 +8,17 @@
 
 **Description:** Tells you stuff about your future. When consumed, it displays a message about your future.
 
-### ![](../../.gitbook/assets/WIP2.png) Diet Cookie
+{% tabs %}
+{% tab title="Obtaining" %}
+Crafted in an [Enhanced Crafting Table](basic-machines.md#enhanced-crafting-table).
+{% endtab %}
+
+{% tab title="Usage" %}
+Direct consumption.
+{% endtab %}
+{% endtabs %}
+
+### ![](../../.gitbook/assets/diet\_cookie.png) Diet Cookie
 
 **XP Cost:** 3 Levels
 
@@ -16,7 +26,17 @@
 
 **Description:** A very lightweight cookie. When consumed, it gives you Levitation I for 3 seconds.
 
-### ![](../../.gitbook/assets/WIP.png) Beef Jerky
+{% tabs %}
+{% tab title="Obtaining" %}
+Crafted in a [Magic Workbench](basic-machines.md#magic-workbench).
+{% endtab %}
+
+{% tab title="Usage" %}
+Direct consumption.
+{% endtab %}
+{% endtabs %}
+
+### ![](../../.gitbook/assets/beef\_jerky.png) Beef Jerky
 
 **XP Cost:** 2 Levels
 
@@ -24,7 +44,17 @@
 
 **Description:** Extra saturating. When consumed, it fully replenishes saturation.
 
-### ![](../../.gitbook/assets/WIP.png) Pork Jerky
+{% tabs %}
+{% tab title="Obtaining" %}
+Crafted in an [Enhanced Crafting Table](basic-machines.md#enhanced-crafting-table).
+{% endtab %}
+
+{% tab title="Usage" %}
+Direct consumption.
+{% endtab %}
+{% endtabs %}
+
+### ![](../../.gitbook/assets/pork\_jerky.png) Pork Jerky
 
 **XP Cost:** 2 Levels
 
@@ -32,7 +62,17 @@
 
 **Description:** Extra saturating. When consumed, it fully replenishes saturation.
 
-### ![](../../.gitbook/assets/WIP.png) Chicken Jerky
+{% tabs %}
+{% tab title="Obtaining" %}
+Crafted in an [Enhanced Crafting Table](basic-machines.md#enhanced-crafting-table).
+{% endtab %}
+
+{% tab title="Usage" %}
+Direct consumption.
+{% endtab %}
+{% endtabs %}
+
+### ![](../../.gitbook/assets/chicken\_jerky.png) Chicken Jerky
 
 **XP Cost:** 2 Levels
 
@@ -40,7 +80,17 @@
 
 **Description:** Extra saturating. When consumed, it fully replenishes saturation.
 
-### ![](../../.gitbook/assets/WIP.png) Mutton Jerky
+{% tabs %}
+{% tab title="Obtaining" %}
+Crafted in an [Enhanced Crafting Table](basic-machines.md#enhanced-crafting-table).
+{% endtab %}
+
+{% tab title="Usage" %}
+Direct consumption.
+{% endtab %}
+{% endtabs %}
+
+### ![](../../.gitbook/assets/mutton\_jerky.png) Mutton Jerky
 
 **XP Cost:** 2 Levels
 
@@ -48,7 +98,17 @@
 
 **Description:** Extra saturating. When consumed, it fully replenishes saturation.
 
-### ![](../../.gitbook/assets/WIP.png) Rabbit Jerky
+{% tabs %}
+{% tab title="Obtaining" %}
+Crafted in an [Enhanced Crafting Table](basic-machines.md#enhanced-crafting-table).
+{% endtab %}
+
+{% tab title="Usage" %}
+Direct consumption.
+{% endtab %}
+{% endtabs %}
+
+### ![](../../.gitbook/assets/rabbit\_jerky.png) Rabbit Jerky
 
 **XP Cost:** 2 Levels
 
@@ -56,7 +116,17 @@
 
 **Description:** Extra saturating. When consumed, it fully replenishes saturation.
 
-### ![](../../.gitbook/assets/WIP.png) Fish Jerky
+{% tabs %}
+{% tab title="Obtaining" %}
+Crafted in an [Enhanced Crafting Table](basic-machines.md#enhanced-crafting-table).
+{% endtab %}
+
+{% tab title="Usage" %}
+Direct consumption.
+{% endtab %}
+{% endtabs %}
+
+### ![](../../.gitbook/assets/fish\_jerky.png) Fish Jerky
 
 **XP Cost:** 2 Levels
 
@@ -64,7 +134,17 @@
 
 **Description:** Extra saturating. When consumed, it fully replenishes saturation.
 
-### ![](../../.gitbook/assets/WIP2.png) Kelp Cookie
+{% tabs %}
+{% tab title="Obtaining" %}
+Crafted in an [Enhanced Crafting Table](basic-machines.md#enhanced-crafting-table).
+{% endtab %}
+
+{% tab title="Usage" %}
+Direct consumption.
+{% endtab %}
+{% endtabs %}
+
+### ![](../../.gitbook/assets/kelp\_cookie.png) Kelp Cookie
 
 **XP Cost:** 4 Levels
 
@@ -72,7 +152,17 @@
 
 **Description:** The Kelp Cookie acts just like a normal cookie, providing one full shank of hunger and 0.4 saturation.
 
-### ![](../../.gitbook/assets/WIP.png) Magic Sugar
+{% tabs %}
+{% tab title="Obtaining" %}
+Crafted in an [Enhanced Crafting Table](basic-machines.md#enhanced-crafting-table).
+{% endtab %}
+
+{% tab title="Usage" %}
+Direct consumption.
+{% endtab %}
+{% endtabs %}
+
+### ![](../../.gitbook/assets/magic\_sugar.png) Magic Sugar
 
 **XP Cost:** 4 Levels
 
@@ -80,7 +170,17 @@
 
 **Description:** Feel the power of Hermes! When consumed, it gives you Speed V for 30 seconds.
 
-### ![](../../.gitbook/assets/WIP2.png) Monster Jerky
+{% tabs %}
+{% tab title="Obtaining" %}
+Crafted in an [Enhanced Crafting Table](basic-machines.md#enhanced-crafting-table).
+{% endtab %}
+
+{% tab title="Usage" %}
+Direct consumption.
+{% endtab %}
+{% endtabs %}
+
+### ![](../../.gitbook/assets/monster\_jerky.png) Monster Jerky
 
 **XP Cost:** 5 Levels
 
@@ -88,7 +188,17 @@
 
 **Description:** No longer hungry. When consumed, it removes any Hunger status effect and gives Saturation I for 0.25 seconds.
 
-### ![](../../.gitbook/assets/WIP.png) Apple Juice
+{% tabs %}
+{% tab title="Obtaining" %}
+Crafted in an [Enhanced Crafting Table](basic-machines.md#enhanced-crafting-table).
+{% endtab %}
+
+{% tab title="Usage" %}
+Direct consumption.
+{% endtab %}
+{% endtabs %}
+
+### ![](../../.gitbook/assets/apple\_juice.png) Apple Juice
 
 **XP Cost:** 29 Levels
 
@@ -96,7 +206,17 @@
 
 **Description:** Restores 3.0 hunger. You can obtain Juices by processing the corresponding Fruit/Vegetable in a Juicer.
 
-### ![](../../.gitbook/assets/WIP.png) Carrot Juice
+{% tabs %}
+{% tab title="Obtaining" %}
+Crafted in a [Juicer](basic-machines.md#juicer).
+{% endtab %}
+
+{% tab title="Usage" %}
+Direct consumption or consumed via [Cooler](useful-items.md#cooler).
+{% endtab %}
+{% endtabs %}
+
+### ![](../../.gitbook/assets/carrot\_juice.png) Carrot Juice
 
 **XP Cost:** 29 Levels
 
@@ -104,7 +224,17 @@
 
 **Description:** Restores 3.0 hunger. You can obtain Juices by processing the corresponding Fruit/Vegetable in a Juicer.
 
-### ![](../../.gitbook/assets/WIP.png) Melon Juice
+{% tabs %}
+{% tab title="Obtaining" %}
+Crafted in a [Juicer](basic-machines.md#juicer).
+{% endtab %}
+
+{% tab title="Usage" %}
+Direct consumption or consumed via [Cooler](useful-items.md#cooler).
+{% endtab %}
+{% endtabs %}
+
+### ![](../../.gitbook/assets/melon\_juice.png) Melon Juice
 
 **XP Cost:** 29 Levels
 
@@ -112,7 +242,17 @@
 
 **Description:** Restores 3.0 hunger. You can obtain Juices by processing the corresponding Fruit/Vegetable in a Juicer.
 
-### ![](../../.gitbook/assets/WIP.png) Pumpkin Juice
+{% tabs %}
+{% tab title="Obtaining" %}
+Crafted in a [Juicer](basic-machines.md#juicer).
+{% endtab %}
+
+{% tab title="Usage" %}
+Direct consumption or consumed via [Cooler](useful-items.md#cooler).
+{% endtab %}
+{% endtabs %}
+
+### ![](../../.gitbook/assets/pumpkin\_juice.png) Pumpkin Juice
 
 **XP Cost:** 29 Levels
 
@@ -120,7 +260,17 @@
 
 **Description:** Restores 3.0 hunger. You can obtain Juices by processing the corresponding Fruit/Vegetable in a Juicer.
 
-### ![](../../.gitbook/assets/WIP.png) Sweet Berry Juice
+{% tabs %}
+{% tab title="Obtaining" %}
+Crafted in a [Juicer](basic-machines.md#juicer).
+{% endtab %}
+
+{% tab title="Usage" %}
+Direct consumption or consumed via [Cooler](useful-items.md#cooler).
+{% endtab %}
+{% endtabs %}
+
+### ![](../../.gitbook/assets/sweet\_berry\_juice.png) Sweet Berry Juice
 
 **XP Cost:** 29 Levels
 
@@ -128,10 +278,30 @@
 
 **Description:** Restores 3.0 hunger. You can obtain Juices by processing the corresponding Fruit/Vegetable in a Juicer.
 
-### ![](../../.gitbook/assets/WIP2.png) Golden Apple Juice
+{% tabs %}
+{% tab title="Obtaining" %}
+Crafted in a [Juicer](basic-machines.md#juicer).
+{% endtab %}
+
+{% tab title="Usage" %}
+Direct consumption or consumed via [Cooler](useful-items.md#cooler).
+{% endtab %}
+{% endtabs %}
+
+### ![](../../.gitbook/assets/golden\_apple\_juice.png) Golden Apple Juice
 
 **XP Cost:** 24 Levels
 
 **Research Group:** Golden potion
 
 **Description:** Absorption I for 20 seconds. You can obtain Juices by processing the corresponding Fruit/Vegetable in a Juicer.
+
+{% tabs %}
+{% tab title="Obtaining" %}
+Crafted in a [Juicer](basic-machines.md#juicer).
+{% endtab %}
+
+{% tab title="Usage" %}
+Direct consumption or consumed via [Cooler](useful-items.md#cooler).
+{% endtab %}
+{% endtabs %}
