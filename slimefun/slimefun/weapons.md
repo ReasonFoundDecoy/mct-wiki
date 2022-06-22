@@ -8,6 +8,16 @@
 
 **Description:** A stick enchanted with Knockback 2
 
+{% tabs %}
+{% tab title="Obtaining" %}
+Crafted in an [Enhanced Crafting Table](basic-machines.md#enhanced-crafting-table).
+{% endtab %}
+
+{% tab title="Usage" %}
+It's a weapon so you can just like...hit mobs or players with it.
+{% endtab %}
+{% endtabs %}
+
 ### ![](../../.gitbook/assets/grandpas\_walking\_stick.png) Grandpas Walking Stick
 
 **XP Cost:** 1 Level
@@ -15,6 +25,12 @@
 **Research Group:** Walking Sticks
 
 **Description:** A stick enchanted with Knockback 5
+
+{% tabs %}
+{% tab title="Obtaining" %}
+Crafted in an [Enhanced Crafting Table](basic-machines.md#enhanced-crafting-table).
+{% endtab %}
+{% endtabs %}
 
 ### ![](../../.gitbook/assets/sword\_of\_beheading.png) Sword of Beheading
 
@@ -44,6 +60,12 @@ Wither Skeleton - 25% (up from 2.5% vanilla chance)
 This only works for vanilla heads and **does not** work with the sellable custom heads!
 {% endhint %}
 
+{% tabs %}
+{% tab title="Obtaining" %}
+Crafted in an [Enhanced Crafting Table](basic-machines.md#enhanced-crafting-table).
+{% endtab %}
+{% endtabs %}
+
 ### ![](../../.gitbook/assets/blade\_of\_vampires.png) Blade of Vampires
 
 **XP Cost:** 26 Levels
@@ -51,6 +73,12 @@ This only works for vanilla heads and **does not** work with the sellable custom
 **Research Group:** (none)
 
 **Description:** A golden sword enchanted with Fire Aspect 2, Sharpness 2, Unbreaking 4, and Life Steal 1. Every time you attack something, you have a 45% chance to recover 2 hearts of your health.
+
+{% tabs %}
+{% tab title="Obtaining" %}
+Crafted in a [Magic Workbench](basic-machines.md#magic-workbench).
+{% endtab %}
+{% endtabs %}
 
 ### ![](../../.gitbook/assets/seismic\_axe.png)Seismic Axe
 
@@ -60,6 +88,12 @@ This only works for vanilla heads and **does not** work with the sellable custom
 
 **Description:** An iron axe that visually launches the ground you're looking at up in the air, and pushes an entity around you 4 blocks away. Uses durability upon each use.
 
+{% tabs %}
+{% tab title="Obtaining" %}
+Crafted in a [Magic Workbench](basic-machines.md#magic-workbench).
+{% endtab %}
+{% endtabs %}
+
 ### ![](../../.gitbook/assets/soulbound\_sword.png) Soulbound Sword
 
 **XP Cost:** 29 Levels
@@ -67,6 +101,12 @@ This only works for vanilla heads and **does not** work with the sellable custom
 **Research Group:** Bound Weapons
 
 **Description:** A diamond sword that stays in your inventory on death. This item is rendered useless due to Keep Inventory being on.
+
+{% tabs %}
+{% tab title="Obtaining" %}
+Crafted in a [Magic Workbench](basic-machines.md#magic-workbench).
+{% endtab %}
+{% endtabs %}
 
 ### ![](../../.gitbook/assets/soulbound\_trident.png) Soulbound Trident
 
@@ -76,6 +116,12 @@ This only works for vanilla heads and **does not** work with the sellable custom
 
 **Description:** A trident that stays in your inventory on death. This item is rendered useless due to Keep Inventory being on.
 
+{% tabs %}
+{% tab title="Obtaining" %}
+Crafted in a [Magic Workbench](basic-machines.md#magic-workbench).
+{% endtab %}
+{% endtabs %}
+
 ### ![](../../.gitbook/assets/soulbound\_bow.png) Soulbound Bow
 
 **XP Cost:** 29 Levels
@@ -83,6 +129,12 @@ This only works for vanilla heads and **does not** work with the sellable custom
 **Research Group:** Bound Weapons
 
 **Description:** A bow that stays in your inventory on death. This item is rendered useless due to Keep Inventory being on.
+
+{% tabs %}
+{% tab title="Obtaining" %}
+Crafted in a [Magic Workbench](basic-machines.md#magic-workbench).
+{% endtab %}
+{% endtabs %}
 
 ### ![](../../.gitbook/assets/explosive\_bow.png) Explosive Bow
 
@@ -92,6 +144,12 @@ This only works for vanilla heads and **does not** work with the sellable custom
 
 **Description:** Any arrows fired using this bow will launch hit enemies into the air.
 
+{% tabs %}
+{% tab title="Obtaining" %}
+Crafted in a [Magic Workbench](basic-machines.md#magic-workbench).
+{% endtab %}
+{% endtabs %}
+
 ### ![](../../.gitbook/assets/icy\_bow.png) Icy Bow
 
 **XP Cost:** 22 Levels
@@ -99,3 +157,9 @@ This only works for vanilla heads and **does not** work with the sellable custom
 **Research Group:** Special Bows
 
 **Description:** Any arrows fired using this bow will prevent hit enemies from moving for 2 seconds.
+
+{% tabs %}
+{% tab title="Obtaining" %}
+Crafted in a [Magic Workbench](basic-machines.md#magic-workbench).
+{% endtab %}
+{% endtabs %}
