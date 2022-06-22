@@ -1,6 +1,6 @@
 # Pristine Compound Bow
 
-![](<../../.gitbook/assets/Pristine Compound Bow (1).gif>)
+![](<../../.gitbook/assets/Pristine Compound Bow (1) (1).gif>)
 
 Pristine Compound Bow is a bow with 13 enchantments: 5 vanilla enchants and 8 AE enchants. It has 2 more enchants than its predecessor, Polished Longbow.
 

@@ -1,6 +1,6 @@
 # Tantrum Pick
 
-![](<../../.gitbook/assets/Pristine Terraformer.gif>)
+![](<../../.gitbook/assets/Pristine Terraformer (1).gif>)
 
 {% hint style="info" %}
 You can put this item in a crafting table once to get a Precise Tantrum Pick. Precise Tantrum Pick is the same as a Tantrum Pick except it doesn't have Trench or Smelting.&#x20;
