@@ -1,6 +1,6 @@
 # Magical Items
 
-### ![](../../.gitbook/assets/WIP.png) Magical Lump - I
+### ![](../../.gitbook/assets/magical\_lump.png) Magical Lump - I
 
 **XP Cost:** 3 Levels
 
@@ -8,7 +8,7 @@
 
 **Description:** Crafted in the Enhanced Crafting Table. Used to craft a lot of Magical Items and Magical Gadgets.
 
-### ![](../../.gitbook/assets/WIP.png) Magical Lump - II
+### ![](../../.gitbook/assets/magical\_lump2.png) Magical Lump - II
 
 **XP Cost:** 3 Levels
 
@@ -16,7 +16,7 @@
 
 **Description:** Crafted in the Enhanced Crafting Table. Used to craft a lot of Magical Items and Magical Gadgets.
 
-### ![](../../.gitbook/assets/WIP.png) Magical Lump - III
+### ![](../../.gitbook/assets/magical\_lump3.png) Magical Lump - III
 
 **XP Cost:** 3 Levels
 
@@ -24,7 +24,7 @@
 
 **Description:** Crafted in the Enhanced Crafting Table. Used to craft a lot of Magical Items and Magical Gadgets.
 
-### ![](../../.gitbook/assets/WIP.png) Ender Lump - I
+### ![](../../.gitbook/assets/ender\_lump.png) Ender Lump - I
 
 **XP Cost:** 3 Levels
 
@@ -32,7 +32,7 @@
 
 **Description:** Crafted in the Enhanced Crafting Table. Used to craft a lot of Magical Items and Magical Gadgets.
 
-### ![](../../.gitbook/assets/WIP.png) Ender Lump - II
+### ![](../../.gitbook/assets/ender\_lump2.png) Ender Lump - II
 
 **XP Cost:** 3 Levels
 
@@ -40,7 +40,7 @@
 
 **Description:** Crafted in the Enhanced Crafting Table. Used to craft a lot of Magical Items and Magical Gadgets.
 
-### ![](../../.gitbook/assets/WIP.png) Ender Lump - III
+### ![](../../.gitbook/assets/ender\_lump3.png) Ender Lump - III
 
 **XP Cost:** 3 Levels
 
@@ -48,7 +48,7 @@
 
 **Description:** Crafted in the Enhanced Crafting Table. Used to craft a lot of Magical Items and Magical Gadgets.
 
-### ![](../../.gitbook/assets/WIP2.png) Magical Book Cover
+### ![](../../.gitbook/assets/magical\_book\_cover.png) Magical Book Cover
 
 **XP Cost:** 5 Levels
 
@@ -56,7 +56,7 @@
 
 **Description:** Crafted in the Enhanced Crafting Table. Used for various magic books.
 
-### ![](../../.gitbook/assets/WIP.png) Magical Glass
+### ![](../../.gitbook/assets/magical\_glass.png) Magical Glass
 
 **XP Cost:** 24 Levels
 
@@ -64,7 +64,7 @@
 
 **Description:** Crafted in the Magic Workbench. Used for various magical gadgets.
 
-### ![](../../.gitbook/assets/WIP2.png) Lava Crystal
+### ![](../../.gitbook/assets/lava\_crystal.png) Lava Crystal
 
 **XP Cost:** 14 Levels
 
@@ -72,7 +72,7 @@
 
 **Description:** Crafted in the Enhanced Crafting Table.
 
-### ![](../../.gitbook/assets/WIP.png) Common Talisman
+### ![](../../.gitbook/assets/common\_talisman.png) Common Talisman
 
 **XP Cost:** 14 Levels
 
@@ -80,7 +80,7 @@
 
 **Description:** This item is used as a base to craft Talismans and it can be crafted in the Magic Workbench.
 
-### ![](../../.gitbook/assets/WIP2.png) Necrotic Skull
+### <img src="../../.gitbook/assets/necrotic_skull.png" alt="" data-size="line"> Necrotic Skull
 
 **XP Cost:** 19 Levels
 
@@ -88,7 +88,7 @@
 
 **Description:** Crafted in the Magic Workbench.
 
-### ![](../../.gitbook/assets/WIP2.png) Essence of Afterlife
+### ![](../../.gitbook/assets/essence\_of\_afterlife.png) Essence of Afterlife
 
 **XP Cost:** 19 Levels
 
@@ -96,7 +96,7 @@
 
 **Description:** Crafted in the Ancient Altar. Used for various high end Magical Gadgets.
 
-### ![](../../.gitbook/assets/WIP.png) Synthetic Shulker Shell
+### ![](../../.gitbook/assets/synthetic\_shulker\_shell.png) Synthetic Shulker Shell
 
 **XP Cost:** 30 Levels
 
@@ -104,7 +104,7 @@
 
 **Description:** Crafted in the Ancient Altar. Used as a substitute for vanilla Shulker Shells.
 
-### ![](../../.gitbook/assets/WIP2.png) Blank Rune
+### ![](../../.gitbook/assets/rune\_blank.png) Blank Rune
 
 **XP Cost:** 15 Levels
 
@@ -112,7 +112,7 @@
 
 **Description:** Crafted in the Ancient Altar. Used as a base crafting material for the simple runes.
 
-### ![](../../.gitbook/assets/WIP2.png) Ancient Rune \[Air]
+### ![](../../.gitbook/assets/rune\_air.png) Ancient Rune \[Air]
 
 **XP Cost:** 15 Levels
 
@@ -120,7 +120,7 @@
 
 **Description:** Crafted in the Ancient Altar. Used in low-end Magical Gadgets and to craft the other runes.
 
-### ![](../../.gitbook/assets/WIP2.png) Ancient Rune \[Earth]
+### ![](../../.gitbook/assets/rune\_earth.png) Ancient Rune \[Earth]
 
 **XP Cost:** 15 Levels
 
@@ -128,7 +128,7 @@
 
 **Description:** Crafted in the Ancient Altar. Used in low-end Magical Gadgets and to craft the other runes.
 
-### ![](../../.gitbook/assets/WIP2.png) Ancient Rune \[Fire]
+### ![](../../.gitbook/assets/rune\_fire.png) Ancient Rune \[Fire]
 
 **XP Cost:** 15 Levels
 
@@ -136,7 +136,7 @@
 
 **Description:** Crafted in the Ancient Altar. Used in low-end Magical Gadgets and to craft the other runes.
 
-### ![](../../.gitbook/assets/WIP2.png) Ancient Rune \[Water]
+### ![](../../.gitbook/assets/rune\_water.png) Ancient Rune \[Water]
 
 **XP Cost:** 15 Levels
 
@@ -144,7 +144,7 @@
 
 **Description:** Crafted in the Ancient Altar. Used in low-end Magical Gadgets and to craft the other runes.
 
-### ![](../../.gitbook/assets/WIP.png) Ancient Rune \[Ender]
+### ![](../../.gitbook/assets/rune\_ender.png) Ancient Rune \[Ender]
 
 **XP Cost:** 18 Levels
 
@@ -152,7 +152,7 @@
 
 **Description:** Crafted in the Ancient Altar. Used in low-end Magical Gadgets and to craft the other runes.
 
-### ![](../../.gitbook/assets/WIP2.png) Ancient Rune \[Lightning]
+### ![](../../.gitbook/assets/rune\_lightning.png) Ancient Rune \[Lightning]
 
 **XP Cost:** 24 Levels
 
@@ -160,7 +160,7 @@
 
 **Description:** Crafted in the Ancient Altar. High-end rune. Used to craft Magical Gadgets.
 
-### ![](../../.gitbook/assets/WIP.png) Ancient Rune \[Rainbow]
+### ![](../../.gitbook/assets/rune\_rainbow.png) Ancient Rune \[Rainbow]
 
 **XP Cost:** 18 Levels
 
@@ -168,7 +168,7 @@
 
 **Description:** Crafted in the Ancient Altar. High-end rune. Used to craft Magical Gadgets.
 
-### ![](../../.gitbook/assets/WIP2.png) Ancient Rune \[Soulbound]
+### ![](../../.gitbook/assets/rune\_soulbound.png) Ancient Rune \[Soulbound]
 
 **XP Cost:** 60 Levels
 
@@ -176,7 +176,7 @@
 
 **Description:** Crafted in the Ancient Altar. Can be used to make any item Soulbound. To make an item Soulbound, drop the rune on the ground next to the desired item.
 
-### ![](../../.gitbook/assets/WIP.png) Ancient Rune \[Enchantment]
+### ![](../../.gitbook/assets/rune\_enchantment.png) Ancient Rune \[Enchantment]
 
 **XP Cost:** 24 Levels
 
@@ -184,7 +184,7 @@
 
 **Description:** Crafted in the Ancient Altar. Used to enchant any item that can have enchants in vanilla minecraft. To enchant an item, drop the rune on the ground next to the desired item.
 
-### ![](../../.gitbook/assets/WIP2.png) Ancient Rune \[Villagers]
+### ![](../../.gitbook/assets/rune\_villager.png) Ancient Rune \[Villagers]
 
 **XP Cost:** 26 Levels
 
@@ -192,7 +192,7 @@
 
 **Description:** Crafted in the Ancient Altar. Used to reset a villager's trades and profession. Right click a villager with the Rune in your hand.
 
-### ![](../../.gitbook/assets/WIP2.png) Strange Nether Goo
+### ![](../../.gitbook/assets/strange\_nether\_goo.png) Strange Nether Goo
 
 **XP Cost:** 26 Levels
 
