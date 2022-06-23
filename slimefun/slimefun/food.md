@@ -292,7 +292,7 @@ Direct consumption or consumed via [Cooler](useful-items.md#cooler).
 
 **XP Cost:** 24 Levels
 
-**Research Group:** Golden potion
+**Research Group:** (none)
 
 **Description:** Absorption I for 20 seconds. You can obtain Juices by processing the corresponding Fruit/Vegetable in a Juicer.
 

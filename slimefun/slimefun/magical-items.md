@@ -52,7 +52,7 @@
 
 **XP Cost:** 5 Levels
 
-**Research Group:** Magical Book Binding
+**Research Group:** (none)
 
 **Description:** Crafted in the Enhanced Crafting Table. Used for various magic books.
 
@@ -68,7 +68,7 @@
 
 **XP Cost:** 14 Levels
 
-**Research Group:** Firey Situation
+**Research Group:** (none)
 
 **Description:** Crafted in the Enhanced Crafting Table.
 
@@ -76,7 +76,7 @@
 
 **XP Cost:** 14 Levels
 
-**Research Group:** Common Talisman
+**Research Group:** (none)
 
 **Description:** This item is used as a base to craft Talismans and it can be crafted in the Magic Workbench.
 
@@ -100,7 +100,7 @@
 
 **XP Cost:** 30 Levels
 
-**Research Group:** Synthetic Shulkers
+**Research Group:** (none)
 
 **Description:** Crafted in the Ancient Altar. Used as a substitute for vanilla Shulker Shells.
 
@@ -112,7 +112,7 @@
 
 **Description:** Crafted in the Ancient Altar. Used as a base crafting material for the simple runes.
 
-### ![](../../.gitbook/assets/WIP2.png) Ancient Rune [Air]
+### ![](../../.gitbook/assets/WIP2.png) Ancient Rune \[Air]
 
 **XP Cost:** 15 Levels
 
@@ -120,7 +120,7 @@
 
 **Description:** Crafted in the Ancient Altar. Used in low-end Magical Gadgets and to craft the other runes.
 
-### ![](../../.gitbook/assets/WIP2.png) Ancient Rune [Earth]
+### ![](../../.gitbook/assets/WIP2.png) Ancient Rune \[Earth]
 
 **XP Cost:** 15 Levels
 
@@ -128,7 +128,7 @@
 
 **Description:** Crafted in the Ancient Altar. Used in low-end Magical Gadgets and to craft the other runes.
 
-### ![](../../.gitbook/assets/WIP2.png) Ancient Rune [Fire]
+### ![](../../.gitbook/assets/WIP2.png) Ancient Rune \[Fire]
 
 **XP Cost:** 15 Levels
 
@@ -136,7 +136,7 @@
 
 **Description:** Crafted in the Ancient Altar. Used in low-end Magical Gadgets and to craft the other runes.
 
-### ![](../../.gitbook/assets/WIP2.png) Ancient Rune [Water]
+### ![](../../.gitbook/assets/WIP2.png) Ancient Rune \[Water]
 
 **XP Cost:** 15 Levels
 
@@ -144,7 +144,7 @@
 
 **Description:** Crafted in the Ancient Altar. Used in low-end Magical Gadgets and to craft the other runes.
 
-### ![](../../.gitbook/assets/WIP.png) Ancient Rune [Ender]
+### ![](../../.gitbook/assets/WIP.png) Ancient Rune \[Ender]
 
 **XP Cost:** 18 Levels
 
@@ -152,15 +152,15 @@
 
 **Description:** Crafted in the Ancient Altar. Used in low-end Magical Gadgets and to craft the other runes.
 
-### ![](../../.gitbook/assets/WIP2.png) Ancient Rune [Lightning]
+### ![](../../.gitbook/assets/WIP2.png) Ancient Rune \[Lightning]
 
 **XP Cost:** 24 Levels
 
-**Research Group:** Lightning Rune
+**Research Group:** (none)
 
 **Description:** Crafted in the Ancient Altar. High-end rune. Used to craft Magical Gadgets.
 
-### ![](../../.gitbook/assets/WIP.png) Ancient Rune [Rainbow]
+### ![](../../.gitbook/assets/WIP.png) Ancient Rune \[Rainbow]
 
 **XP Cost:** 18 Levels
 
@@ -168,15 +168,15 @@
 
 **Description:** Crafted in the Ancient Altar. High-end rune. Used to craft Magical Gadgets.
 
-### ![](../../.gitbook/assets/WIP2.png) Ancient Rune [Soulbound]
+### ![](../../.gitbook/assets/WIP2.png) Ancient Rune \[Soulbound]
 
 **XP Cost:** 60 Levels
 
-**Research Group:** Soulbound Rune
+**Research Group:** (none)
 
 **Description:** Crafted in the Ancient Altar. Can be used to make any item Soulbound. To make an item Soulbound, drop the rune on the ground next to the desired item.
 
-### ![](../../.gitbook/assets/WIP.png) Ancient Rune [Enchantment]
+### ![](../../.gitbook/assets/WIP.png) Ancient Rune \[Enchantment]
 
 **XP Cost:** 24 Levels
 
@@ -184,7 +184,7 @@
 
 **Description:** Crafted in the Ancient Altar. Used to enchant any item that can have enchants in vanilla minecraft. To enchant an item, drop the rune on the ground next to the desired item.
 
-### ![](../../.gitbook/assets/WIP2.png) Ancient Rune [Villagers]
+### ![](../../.gitbook/assets/WIP2.png) Ancient Rune \[Villagers]
 
 **XP Cost:** 26 Levels
 
@@ -198,4 +198,4 @@
 
 **Research Group:** Reset Villager Trades
 
-**Description:** Obtained by bartering with piglins. Used to craft the Ancient Rune [Villagers].
+**Description:** Obtained by bartering with piglins. Used to craft the Ancient Rune \[Villagers].

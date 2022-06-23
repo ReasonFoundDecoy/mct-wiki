@@ -1,8 +1,10 @@
 # Ingots
 
-All basic ingots are in the **Research Group: New Metals**. Unlocking any one of these ingots will unlock the whole group. **XP Cost:** 6 Levels.
-
 ### ![](../../../.gitbook/assets/copper\_ingot.png) Copper Ingot
+
+**XP Cost:** 6 Levels
+
+**Research Group:** New Metals
 
 {% tabs %}
 {% tab title="Obtaining" %}
@@ -60,6 +62,10 @@ All basic ingots are in the **Research Group: New Metals**. Unlocking any one of
 
 ### ![](../../../.gitbook/assets/tin\_ingot.png) Tin Ingot
 
+**XP Cost:** 6 Levels
+
+**Research Group:** New Metals
+
 {% tabs %}
 {% tab title="Obtaining" %}
 **Smeltery/Electric Smeltery/Electric Ingot Factory/Advanced Smeltery (Infinity Expansion):**
@@ -109,6 +115,10 @@ All basic ingots are in the **Research Group: New Metals**. Unlocking any one of
 {% endtabs %}
 
 ### ![](../../../.gitbook/assets/lead\_ingot.png) Lead Ingot
+
+**XP Cost: 6** Levels
+
+**Research Group:** New Metals
 
 {% tabs %}
 {% tab title="Obtaining" %}
@@ -170,6 +180,10 @@ All basic ingots are in the **Research Group: New Metals**. Unlocking any one of
 
 ### ![](../../../.gitbook/assets/silver\_ingot.png) Silver Ingot
 
+**XP Cost:** 6 Levels
+
+**Research Group:** New Metals
+
 {% tabs %}
 {% tab title="Obtaining" %}
 **Smeltery/Electric Smeltery/Electric Ingot Factory/Advanced Smeltery (Infinity Expansion):**
@@ -220,6 +234,10 @@ All basic ingots are in the **Research Group: New Metals**. Unlocking any one of
 {% endtabs %}
 
 ### ![](../../../.gitbook/assets/aluminum\_ingot.png) Aluminum Ingot
+
+**XP Cost:** 6 Levels
+
+**Research Group:** New Metals
 
 {% tabs %}
 {% tab title="Obtaining" %}
@@ -274,6 +292,10 @@ All basic ingots are in the **Research Group: New Metals**. Unlocking any one of
 
 ### ![](../../../.gitbook/assets/zinc\_ingot.png) Zinc Ingot
 
+**XP Cost:** 6 Levels
+
+**Research Group:** New Metals
+
 {% tabs %}
 {% tab title="Obtaining" %}
 **Smeltery/Electric Smeltery/Electric Ingot Factory/Advanced Smeltery (Infinity Expansion):**
@@ -320,6 +342,10 @@ All basic ingots are in the **Research Group: New Metals**. Unlocking any one of
 {% endtabs %}
 
 ### ![](../../../.gitbook/assets/magnesium\_ingot.png) Magnesium Ingot
+
+**XP Cost:** 6 Levels
+
+**Research Group:** New Metals
 
 {% tabs %}
 {% tab title="Obtaining" %}
@@ -369,6 +395,10 @@ All basic ingots are in the **Research Group: New Metals**. Unlocking any one of
 
 ### ![](../../../.gitbook/assets/gold\_ingot\_4.png) Gold Ingot (4-Carat)
 
+**XP Cost:** 7 Levels
+
+**Research Group:** Pure Gold
+
 {% tabs %}
 {% tab title="Obtaining" %}
 **Smeltery/Electric Smeltery/Electric Ingot Factory/Advanced Smeltery (Infinity Expansion):**
@@ -401,6 +431,10 @@ All basic ingots are in the **Research Group: New Metals**. Unlocking any one of
 
 ### ![](../../../.gitbook/assets/gold\_ingot\_6.png) Gold Ingot (6-Carat)
 
+**XP Cost:** 7 Levels
+
+**Research Group:** Pure Gold
+
 {% tabs %}
 {% tab title="Obtaining" %}
 **Smeltery/Electric Smeltery/Advanced Smeltery (Infinity Expansion):**
@@ -422,6 +456,10 @@ All basic ingots are in the **Research Group: New Metals**. Unlocking any one of
 {% endtabs %}
 
 ### ![](../../../.gitbook/assets/gold\_ingot\_8.png) Gold Ingot (8-Carat)
+
+**XP Cost:** 7 Levels
+
+**Research Group:** Pure Gold
 
 {% tabs %}
 {% tab title="Obtaining" %}
@@ -445,6 +483,10 @@ All basic ingots are in the **Research Group: New Metals**. Unlocking any one of
 
 ### ![](../../../.gitbook/assets/gold\_ingot\_10.png) Gold Ingot (10-Carat)
 
+**XP Cost:** 7 Levels
+
+**Research Group:** Pure Gold
+
 {% tabs %}
 {% tab title="Obtaining" %}
 **Smeltery/Electric Smeltery/Advanced Smeltery (Infinity Expansion):**
@@ -464,6 +506,10 @@ All basic ingots are in the **Research Group: New Metals**. Unlocking any one of
 {% endtabs %}
 
 ### ![](../../../.gitbook/assets/gold\_ingot\_12.png) Gold Ingot (12-Carat)
+
+**XP Cost:** 7 Levels
+
+**Research Group:** Pure Gold
 
 {% tabs %}
 {% tab title="Obtaining" %}
@@ -490,6 +536,10 @@ All basic ingots are in the **Research Group: New Metals**. Unlocking any one of
 
 ### ![](../../../.gitbook/assets/gold\_ingot\_14.png) Gold Ingot (14-Carat)
 
+**XP Cost:** 7 Levels
+
+**Research Group:** Pure Gold
+
 {% tabs %}
 {% tab title="Obtaining" %}
 **Smeltery/Electric Smeltery/Advanced Smeltery (Infinity Expansion):**
@@ -509,6 +559,10 @@ All basic ingots are in the **Research Group: New Metals**. Unlocking any one of
 {% endtabs %}
 
 ### ![](../../../.gitbook/assets/gold\_ingot\_16.png) Gold Ingot (16-Carat)
+
+**XP Cost:** 7 Levels
+
+**Research Group:** Pure Gold
 
 {% tabs %}
 {% tab title="Obtaining" %}
@@ -531,6 +585,10 @@ All basic ingots are in the **Research Group: New Metals**. Unlocking any one of
 
 ### ![](../../../.gitbook/assets/gold\_ingot\_18.png) Gold Ingot (18-Carat)
 
+**XP Cost:** 7 Levels
+
+**Research Group:** Pure Gold
+
 {% tabs %}
 {% tab title="Obtaining" %}
 **Smeltery/Electric Smeltery/Advanced Smeltery (Infinity Expansion):**
@@ -551,6 +609,10 @@ All basic ingots are in the **Research Group: New Metals**. Unlocking any one of
 
 ### ![](../../../.gitbook/assets/gold\_ingot\_20.png) Gold Ingot (20-Carat)
 
+**XP Cost:** 7 Levels
+
+**Research Group:** Pure Gold
+
 {% tabs %}
 {% tab title="Obtaining" %}
 **Smeltery/Electric Smeltery/Advanced Smeltery (Infinity Expansion):**
@@ -566,6 +628,10 @@ All basic ingots are in the **Research Group: New Metals**. Unlocking any one of
 {% endtabs %}
 
 ### ![](../../../.gitbook/assets/gold\_ingot\_22.png) Gold Ingot (22-Carat)
+
+**XP Cost:** 7 Levels
+
+**Research Group:** Pure Gold
 
 {% tabs %}
 {% tab title="Obtaining" %}
@@ -586,6 +652,10 @@ All basic ingots are in the **Research Group: New Metals**. Unlocking any one of
 {% endtabs %}
 
 ### ![](../../../.gitbook/assets/gold\_ingot\_24.png) Gold Ingot (24-Carat)
+
+**XP Cost:** 7 Levels
+
+**Research Group:** Pure Gold
 
 {% tabs %}
 {% tab title="Obtaining" %}

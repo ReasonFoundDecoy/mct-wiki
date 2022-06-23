@@ -42,7 +42,7 @@
 
 **XP Cost:** 6 Levels
 
-**Research Group:** Ore Doubling
+**Research Group:** (none)
 
 **Description:** A multiblock structure. Crushes ores to their respective dusts and doubles them, i.e. 1 ore = 2 dusts. Place items in the dispenser and right-click the nether brick fence to activate.
 
@@ -110,7 +110,7 @@
 
 **XP Cost:** 5 Levels
 
-**Research Group:** (none)
+**Research Group:** Ore Washer
 
 **Description:** A multiblock structure. Filters Sifted Ore to get dusts and stone chunks. Place Sifted Ore in the dispenser and right-click the fence to activate. To optimize getting exactly what you need from Sifted Ore, we have the Legacy setting turned on which allows for you to place the dusts you wish to receive in the dispenser slots and you can use the machine without it stopping due to it being filled up.
 
@@ -176,7 +176,7 @@
 
 **XP Cost:** 29 Levels
 
-**Research Group:** (none)
+**Research Group:** Delicious Drinks
 
 **Description:** A multiblock structure. Allows you to create delicious juice. Juice can be put in your Cooler. Place ingredients in the dispenser and right-click the nether brick fence to activate.
 

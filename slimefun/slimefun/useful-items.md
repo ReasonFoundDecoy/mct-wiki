@@ -274,7 +274,7 @@ Crafted in an [Enhanced Crafting Table](basic-machines.md#enhanced-crafting-tabl
 
 **XP Cost:** 24 Levels
 
-**Research Group:** (none)
+**Research Group:** Portable Beverages
 
 **Description:** Allows you to store Juices/Smoothies and automatically consumes them when hungry if you have this in your inventory.
 

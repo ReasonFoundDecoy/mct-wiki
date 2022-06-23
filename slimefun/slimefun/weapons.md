@@ -98,9 +98,9 @@ Crafted in a [Magic Workbench](basic-machines.md#magic-workbench).
 
 **XP Cost:** 29 Levels
 
-**Research Group:** Bound Weapons
+**Research Group:** Soulbound Weapons
 
-**Description:** A diamond sword that stays in your inventory on death. This item is rendered useless due to Keep Inventory being on.
+**Description:** A diamond sword that stays in your inventory on death. <mark style="color:orange;">This item is rendered obsolete due to Keep Inventory being on</mark>.
 
 {% tabs %}
 {% tab title="Obtaining" %}
@@ -112,9 +112,9 @@ Crafted in a [Magic Workbench](basic-machines.md#magic-workbench).
 
 **XP Cost:** 29 Levels
 
-**Research Group:** Bound Weapons
+**Research Group:** Soulbound Weapons
 
-**Description:** A trident that stays in your inventory on death. This item is rendered useless due to Keep Inventory being on.
+**Description:** A trident that stays in your inventory on death. <mark style="color:orange;">This item is rendered obsolete due to Keep Inventory being on</mark>.
 
 {% tabs %}
 {% tab title="Obtaining" %}
@@ -126,9 +126,9 @@ Crafted in a [Magic Workbench](basic-machines.md#magic-workbench).
 
 **XP Cost:** 29 Levels
 
-**Research Group:** Bound Weapons
+**Research Group:** Soulbound Weapons
 
-**Description:** A bow that stays in your inventory on death. This item is rendered useless due to Keep Inventory being on.
+**Description:** A bow that stays in your inventory on death. <mark style="color:orange;">This item is rendered obsolete due to Keep Inventory being on</mark>.
 
 {% tabs %}
 {% tab title="Obtaining" %}
@@ -140,7 +140,7 @@ Crafted in a [Magic Workbench](basic-machines.md#magic-workbench).
 
 **XP Cost:** 22 Levels
 
-**Research Group:** Special Bows
+**Research Group:** Robin Hood
 
 **Description:** Any arrows fired using this bow will launch hit enemies into the air.
 
@@ -154,7 +154,7 @@ Crafted in a [Magic Workbench](basic-machines.md#magic-workbench).
 
 **XP Cost:** 22 Levels
 
-**Research Group:** Special Bows
+**Research Group:** Robin Hood
 
 **Description:** Any arrows fired using this bow will prevent hit enemies from moving for 2 seconds.
 
