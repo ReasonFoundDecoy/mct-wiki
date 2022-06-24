@@ -497,3 +497,96 @@ A research group is a named category in which all items in that category will be
 
 * Auto Enchanter - II
 * Auto Disenchanter - II
+
+## Armor Sets
+
+### Glowstone Armor (3 XP Levels)
+
+* Glowstone Helmet
+* Glowstone Chestplate
+* Glowstone Leggings
+* Glowstone Boots
+
+### Ender Armor (4 XP Levels)
+
+* Ender Helmet
+* Ender Chestplate
+* Ender Leggings
+* Ender Boots
+
+### Slime Armor (5 XP Levels)
+
+* Slime Helmet
+* Slime Chestplate
+* Slime Leggings
+* Slime Boots
+
+### Cactus Suit (5 XP Levels)
+
+* Cactus Helmet
+* Cactus Chestplate
+* Cactus Leggings
+* Cactus Boots
+
+### Gilded Iron Armor (16 XP Levels)
+
+* Gilded Iron Helmet
+* Gilded Iron Chestplate
+* Gilded Iron Leggings
+* Gilded Iron Boots
+
+### Reinforced Armor (26 XP Levels)
+
+* Reinforced Alloy Helmet
+* Reinforced Alloy Chestplate
+* Reinforced Alloy Leggings
+* Reinforced Alloy Boots
+
+### Chainmail Armor (8 XP Levels)
+
+* \[Chainmail Helmet]
+* \[Chainmail Chesplate]
+* \[Chainmail Leggings]
+* \[Chainmail Boots]
+
+### Hazmat Suit (21 XP Levels)
+
+* Scuba Helmet
+* Hazmat Suit
+* Hazmat Suit Leggings
+* Hazmat Boots
+
+### Shiny Armor (13 XP Levels)
+
+* Golden Helmet (12-Carat)
+* Golden Chesplate (12-Carat)
+* Golden Leggings (12-Carat)
+* Golden Boots (12-Carat)
+
+### Shiny Steel Armor (27 XP Levels)
+
+* Slime Helmet
+* Slime Chestplate
+* Slime Leggings
+* Slime Boots
+
+### Soulbound Armor (29 XP Levels)
+
+* Soulbound Helmet
+* Soulbound Chestplate
+* Soulbound Leggings
+* Soulbound Boots
+
+### Bee Armor (24 XP Levels)
+
+* Bee Helmet
+* Bee Chestplate
+* Bee Leggings
+* Bee Boots
+
+### Damascus Steel Armor (18 XP Levels)
+
+* Damascus Steel Helmet
+* Damascus Steel Chestplate
+* Damascus Steel Leggings
+* Damascus Steel Boots
