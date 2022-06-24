@@ -20,7 +20,7 @@ Breeding Pokemon means putting 2 specific pokemon in a crafting table that resul
 
 You can evolve some Pokemon by trading with the NPC at spawn or with evolution stones. Buy evolution stones from the Pokeshop at spawn using [₽okedollars](../../economy/tokens-and-token-shop/rubokedollars.md), which are available in <mark style="color:blue;">**/tokenshop**</mark>.
 
-Craft Pokeballs of different types by getting apricorns from leaves. Cook the apricorns in a smoker and craft with iron ingots and stone buttons. Find recipes for Pokeballs in the [Custom Recipe Book](../custom-crafting.md#pokemon-recipes).
+#### Find recipes for Pokemon items in the Custom Recipe Book (in game) or [here](../custom-crafting.md#pokemon-recipes).
 
 Here's a quick video:
 
