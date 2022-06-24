@@ -144,6 +144,7 @@
 ## 🟩 Slimefun
 
 * [Slimefun](slimefun/slimefun/README.md)
+  * [(Research Groups)](slimefun/slimefun/research-groups.md)
   * [Weapons](slimefun/slimefun/weapons.md)
   * [Useful Items](slimefun/slimefun/useful-items.md)
   * [Basic Machines](slimefun/slimefun/basic-machines.md)
