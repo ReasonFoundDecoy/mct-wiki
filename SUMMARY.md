@@ -31,6 +31,8 @@
   * [Plugin Specific/Misc](general/commands/plugin-specific-misc.md)
   * [Permission Based](general/commands/permission-based.md)
 * [Custom Crafting](general/custom-crafting.md)
+* [Enchantments](general/enchantments/README.md)
+  * [AdvancedEnchantments (AE)](general/enchantments/advancedenchantments-ae.md)
 * [Mob and Item Stacking](general/mob-and-item-stacking.md)
 * [Dimensions](general/dimensions.md)
 * [Dragons](general/dragons/README.md)
