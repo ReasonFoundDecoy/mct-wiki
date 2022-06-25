@@ -11,3 +11,15 @@ Research Group: Power from Magnesium
 XP Cost: 30 Levels
 
 Research Group: Fuel
+
+### Food Fabricator
+
+XP Cost: 25 Levels
+
+Research Group: Organic Food
+
+### Food Composter
+
+XP Cost: 36 Levels
+
+Research Group: Organic Fertilizer
