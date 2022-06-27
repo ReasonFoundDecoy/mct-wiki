@@ -34,3 +34,4 @@ You can obtain Legacy status 2 ways:
 * SHRANKDIENST
 * 1rubberducky2
 * Azgodeth
+* EventDelta
