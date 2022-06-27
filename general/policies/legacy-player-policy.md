@@ -33,5 +33,6 @@ You can obtain Legacy status 2 ways:
 * thepog1 (Sefiraat)
 * SHRANKDIENST
 * 1rubberducky2
+* iamdes
 * Azgodeth
 * EventDelta
