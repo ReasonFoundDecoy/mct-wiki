@@ -6,7 +6,24 @@
 
 **Research Group:** Lumps and Magic
 
-**Description:** Crafted in the Enhanced Crafting Table. Used to craft a lot of Magical Items and Magical Gadgets.
+{% tabs %}
+{% tab title="Obtaining" %}
+Grind Stone
+{% endtab %}
+
+{% tab title="Usage" %}
+**Enhanced Crafting Table:**
+
+* Magical Lump - II
+* Lava Crystal
+
+**Ancient Altar:**
+
+* Blank Rune
+* Ancient Rune \[Air]
+* Ancient Rune \[Earth]
+{% endtab %}
+{% endtabs %}
 
 ### ![](../../.gitbook/assets/magical\_lump2.png) Magical Lump - II
 
@@ -14,7 +31,28 @@
 
 **Research Group:** Lumps and Magic
 
-**Description:** Crafted in the Enhanced Crafting Table. Used to craft a lot of Magical Items and Magical Gadgets.
+{% tabs %}
+{% tab title="Obtaining" %}
+Enhanced Crafting Table
+{% endtab %}
+
+{% tab title="Usage" %}
+**Enhanced Crafting Table:**
+
+* Magical Lump - III
+* Magical Book Cover
+
+**Magic Workbench:**
+
+* Magical Glass
+* Common Talisman
+
+**Ancient Altar:**
+
+* Ancient Rune \[Fire]
+* Ancient Rune \[Water]
+{% endtab %}
+{% endtabs %}
 
 ### ![](../../.gitbook/assets/magical\_lump3.png) Magical Lump - III
 
@@ -22,7 +60,25 @@
 
 **Research Group:** Lumps and Magic
 
-**Description:** Crafted in the Enhanced Crafting Table. Used to craft a lot of Magical Items and Magical Gadgets.
+{% tabs %}
+{% tab title="Obtaining" %}
+Enhanced Crafting Table
+{% endtab %}
+
+{% tab title="Usage" %}
+**Magic Workbench:**
+
+* Necrotic Skull
+
+**Ancient Alter:**
+
+* Ancient Rune \[Lightning]
+* Ancient Rune \[Rainbow]
+* Ancient Rune \[Soulbound]
+* Ancient Rune \[Enchantment]
+* Ancient Rune \[Villagers]
+{% endtab %}
+{% endtabs %}
 
 ### ![](../../.gitbook/assets/ender\_lump.png) Ender Lump - I
 
@@ -30,7 +86,17 @@
 
 **Research Group:** Lumps and Magic
 
-**Description:** Crafted in the Enhanced Crafting Table. Used to craft a lot of Magical Items and Magical Gadgets.
+{% tabs %}
+{% tab title="Obtaining" %}
+Grind Stone
+{% endtab %}
+
+{% tab title="Usage" %}
+**Enhanced Crafting Table:**
+
+* Ender Lump - II
+{% endtab %}
+{% endtabs %}
 
 ### ![](../../.gitbook/assets/ender\_lump2.png) Ender Lump - II
 
@@ -38,7 +104,17 @@
 
 **Research Group:** Lumps and Magic
 
-**Description:** Crafted in the Enhanced Crafting Table. Used to craft a lot of Magical Items and Magical Gadgets.
+{% tabs %}
+{% tab title="Obtaining" %}
+Enhanced Crafting Table
+{% endtab %}
+
+{% tab title="Usage" %}
+**Enhanced Crafting Table:**
+
+* Ender Lump - III
+{% endtab %}
+{% endtabs %}
 
 ### ![](../../.gitbook/assets/ender\_lump3.png) Ender Lump - III
 
@@ -46,7 +122,21 @@
 
 **Research Group:** Lumps and Magic
 
-**Description:** Crafted in the Enhanced Crafting Table. Used to craft a lot of Magical Items and Magical Gadgets.
+{% tabs %}
+{% tab title="Obtaining" %}
+Enhanced Crafting Table
+{% endtab %}
+
+{% tab title="Usage" %}
+**Ancient Altar:**
+
+* Essence of Afterlife
+* Synthetic Shulker Shell
+* Ancient Rune \[Ender]
+* Ancient Rune \[Rainbow]
+* Ancient Rune \[Soulbound]
+{% endtab %}
+{% endtabs %}
 
 ### ![](../../.gitbook/assets/magical\_book\_cover.png) Magical Book Cover
 
@@ -54,7 +144,15 @@
 
 **Research Group:** (none)
 
-**Description:** Crafted in the Enhanced Crafting Table. Used for various magic books.
+{% tabs %}
+{% tab title="Obtaining" %}
+Enhanced Crafting Table
+{% endtab %}
+
+{% tab title="Usage" %}
+
+{% endtab %}
+{% endtabs %}
 
 ### ![](../../.gitbook/assets/magical\_glass.png) Magical Glass
 
@@ -62,7 +160,18 @@
 
 **Research Group:** Ancient Enchanting
 
-**Description:** Crafted in the Magic Workbench. Used for various magical gadgets.
+{% tabs %}
+{% tab title="Obtaining" %}
+Magic Workbench
+{% endtab %}
+
+{% tab title="Usage" %}
+**Ancient Altar:**
+
+* Ancient Rune \[Enchantment]
+* Ancient Rune \[Villagers]
+{% endtab %}
+{% endtabs %}
 
 ### ![](../../.gitbook/assets/lava\_crystal.png) Lava Crystal
 
@@ -70,7 +179,17 @@
 
 **Research Group:** (none)
 
-**Description:** Crafted in the Enhanced Crafting Table.
+{% tabs %}
+{% tab title="Obtaining" %}
+Enhanced Crafting Table
+{% endtab %}
+
+{% tab title="Usage" %}
+**Enhanced Crafting Table:**
+
+* Smelter's Pickaxe
+{% endtab %}
+{% endtabs %}
 
 ### ![](../../.gitbook/assets/common\_talisman.png) Common Talisman
 
@@ -78,7 +197,15 @@
 
 **Research Group:** (none)
 
-**Description:** This item is used as a base to craft Talismans and it can be crafted in the Magic Workbench.
+{% tabs %}
+{% tab title="Obtaining" %}
+Magic Workbench
+{% endtab %}
+
+{% tab title="Usage" %}
+
+{% endtab %}
+{% endtabs %}
 
 ### <img src="../../.gitbook/assets/necrotic_skull.png" alt="" data-size="line"> Necrotic Skull
 
@@ -86,7 +213,17 @@
 
 **Research Group:** Necromancy
 
-**Description:** Crafted in the Magic Workbench.
+{% tabs %}
+{% tab title="Obtaining" %}
+Magic Workbench
+{% endtab %}
+
+{% tab title="Usage" %}
+**Ancient Altar:**
+
+* Essence of Afterlife
+{% endtab %}
+{% endtabs %}
 
 ### ![](../../.gitbook/assets/essence\_of\_afterlife.png) Essence of Afterlife
 
@@ -94,7 +231,17 @@
 
 **Research Group:** Necromancy
 
-**Description:** Crafted in the Ancient Altar. Used for various high end Magical Gadgets.
+{% tabs %}
+{% tab title="Obtaining" %}
+Ancient Altar
+{% endtab %}
+
+{% tab title="Usage" %}
+**Ancient Altar:**
+
+* Ancient Rune \[Soulbound]
+{% endtab %}
+{% endtabs %}
 
 ### ![](../../.gitbook/assets/synthetic\_shulker\_shell.png) Synthetic Shulker Shell
 
@@ -102,7 +249,17 @@
 
 **Research Group:** (none)
 
-**Description:** Crafted in the Ancient Altar. Used as a substitute for vanilla Shulker Shells.
+**Description:** Used as a substitute for vanilla Shulker Shells.
+
+{% tabs %}
+{% tab title="Obtaining" %}
+Ancient Altar
+{% endtab %}
+
+{% tab title="Usage" %}
+
+{% endtab %}
+{% endtabs %}
 
 ### ![](../../.gitbook/assets/rune\_blank.png) Blank Rune
 
@@ -110,7 +267,20 @@
 
 **Research Group:** Elemental Runes
 
-**Description:** Crafted in the Ancient Altar. Used as a base crafting material for the simple runes.
+{% tabs %}
+{% tab title="Obtaining" %}
+Ancient Altar
+{% endtab %}
+
+{% tab title="Usage" %}
+**Ancient Altar:**
+
+* Ancient Rune \[Air]
+* Ancient Rune \[Earth]
+* Ancient Rune \[Water]
+* Ancient Rune \[Ender]
+{% endtab %}
+{% endtabs %}
 
 ### ![](../../.gitbook/assets/rune\_air.png) Ancient Rune \[Air]
 
@@ -118,7 +288,18 @@
 
 **Research Group:** Elemental Runes
 
-**Description:** Crafted in the Ancient Altar. Used in low-end Magical Gadgets and to craft the other runes.
+{% tabs %}
+{% tab title="Obtaining" %}
+Ancient Altar
+{% endtab %}
+
+{% tab title="Usage" %}
+**Ancient Altar:**
+
+* Essence of Afterlife
+* Ancient Rune \[Lightning]
+{% endtab %}
+{% endtabs %}
 
 ### ![](../../.gitbook/assets/rune\_earth.png) Ancient Rune \[Earth]
 
@@ -126,7 +307,18 @@
 
 **Research Group:** Elemental Runes
 
-**Description:** Crafted in the Ancient Altar. Used in low-end Magical Gadgets and to craft the other runes.
+{% tabs %}
+{% tab title="Obtaining" %}
+Ancient Altar
+{% endtab %}
+
+{% tab title="Usage" %}
+**Ancient Altar:**
+
+* Essence of Afterlife
+* Ancient Rune \[Fire]
+{% endtab %}
+{% endtabs %}
 
 ### ![](../../.gitbook/assets/rune\_fire.png) Ancient Rune \[Fire]
 
@@ -134,7 +326,22 @@
 
 **Research Group:** Elemental Runes
 
-**Description:** Crafted in the Ancient Altar. Used in low-end Magical Gadgets and to craft the other runes.
+{% tabs %}
+{% tab title="Obtaining" %}
+Ancient Altar
+{% endtab %}
+
+{% tab title="Usage" %}
+**Enhanced Crafting Table:**
+
+* Lava Crystal
+
+**Ancient Altar:**
+
+* Essence of Afterlife
+* Ancient Rune \[Villagers]
+{% endtab %}
+{% endtabs %}
 
 ### ![](../../.gitbook/assets/rune\_water.png) Ancient Rune \[Water]
 
@@ -142,7 +349,18 @@
 
 **Research Group:** Elemental Runes
 
-**Description:** Crafted in the Ancient Altar. Used in low-end Magical Gadgets and to craft the other runes.
+{% tabs %}
+{% tab title="Obtaining" %}
+Ancient Altar
+{% endtab %}
+
+{% tab title="Usage" %}
+**Ancient Altar:**
+
+* Essence of Afterlife
+* Ancient Rune \[Lightning]
+{% endtab %}
+{% endtabs %}
 
 ### ![](../../.gitbook/assets/rune\_ender.png) Ancient Rune \[Ender]
 
@@ -150,7 +368,19 @@
 
 **Research Group:** Purple Runes
 
-**Description:** Crafted in the Ancient Altar. Used in low-end Magical Gadgets and to craft the other runes.
+{% tabs %}
+{% tab title="Obtaining" %}
+Ancient Altar
+{% endtab %}
+
+{% tab title="Usage" %}
+**Ancient Altar:**
+
+* Synthetic Shulker Shell
+* Ancient Rune \[Rainbow]
+* Ancient Rune \[Soulbound]
+{% endtab %}
+{% endtabs %}
 
 ### ![](../../.gitbook/assets/rune\_lightning.png) Ancient Rune \[Lightning]
 
@@ -158,7 +388,17 @@
 
 **Research Group:** (none)
 
-**Description:** Crafted in the Ancient Altar. High-end rune. Used to craft Magical Gadgets.
+{% tabs %}
+{% tab title="Obtaining" %}
+Ancient Altar
+{% endtab %}
+
+{% tab title="Usage" %}
+**Ancient Altar:**
+
+* Ancient Rune \[Enchantment]
+{% endtab %}
+{% endtabs %}
 
 ### ![](../../.gitbook/assets/rune\_rainbow.png) Ancient Rune \[Rainbow]
 
@@ -166,7 +406,15 @@
 
 **Research Group:** Purple Runes
 
-**Description:** Crafted in the Ancient Altar. High-end rune. Used to craft Magical Gadgets.
+{% tabs %}
+{% tab title="Obtaining" %}
+Ancient Altar
+{% endtab %}
+
+{% tab title="Usage" %}
+
+{% endtab %}
+{% endtabs %}
 
 ### ![](../../.gitbook/assets/rune\_soulbound.png) Ancient Rune \[Soulbound]
 
@@ -174,7 +422,19 @@
 
 **Research Group:** (none)
 
-**Description:** Crafted in the Ancient Altar. Can be used to make any item Soulbound. To make an item Soulbound, drop the rune on the ground next to the desired item.
+**Description:** Can be used to make any item Soulbound. <mark style="color:orange;">This item is rendered obsolete due to Keep Inventory being on</mark>.
+
+{% tabs %}
+{% tab title="Obtaining" %}
+Ancient Altar
+{% endtab %}
+
+{% tab title="Usage" %}
+**Direct:**
+
+* Drop the Rune on the ground next to the desired item
+{% endtab %}
+{% endtabs %}
 
 ### ![](../../.gitbook/assets/rune\_enchantment.png) Ancient Rune \[Enchantment]
 
@@ -182,7 +442,19 @@
 
 **Research Group:** Ancient Enchanting
 
-**Description:** Crafted in the Ancient Altar. Used to enchant any item that can have enchants in vanilla minecraft. To enchant an item, drop the rune on the ground next to the desired item.
+**Description:** Used to enchant any item that can have enchants in vanilla Minecraft.
+
+{% tabs %}
+{% tab title="Obtaining" %}
+Ancient Altar
+{% endtab %}
+
+{% tab title="Usage" %}
+**Direct:**
+
+* Drop the Rune on the ground next to the desired item
+{% endtab %}
+{% endtabs %}
 
 ### ![](../../.gitbook/assets/rune\_villager.png) Ancient Rune \[Villagers]
 
@@ -190,7 +462,19 @@
 
 **Research Group:** Reset Villager Trades
 
-**Description:** Crafted in the Ancient Altar. Used to reset a villager's trades and profession. Right click a villager with the Rune in your hand.
+**Description:** Used to reset a villager's trades and profession.
+
+{% tabs %}
+{% tab title="Obtaining" %}
+Ancient Altar
+{% endtab %}
+
+{% tab title="Usage" %}
+**Direct:**
+
+* Right-click a villager with the Rune in your hand
+{% endtab %}
+{% endtabs %}
 
 ### ![](../../.gitbook/assets/strange\_nether\_goo.png) Strange Nether Goo
 
@@ -198,4 +482,14 @@
 
 **Research Group:** Reset Villager Trades
 
-**Description:** Obtained by bartering with piglins. Used to craft the Ancient Rune \[Villagers].
+{% tabs %}
+{% tab title="Obtaining" %}
+Obtained by bartering with piglins.
+{% endtab %}
+
+{% tab title="Usage" %}
+Ancient Altar:
+
+* Ancient Rune \[Villagers]
+{% endtab %}
+{% endtabs %}

@@ -20,15 +20,39 @@ Research Group: (none)
 
 ### ![](../../.gitbook/assets/chain.png) Chain
 
-XP Cost: 15 Levels
+**XP Cost:** 15 Levels
 
-Research Group: Grappling Hook
+**Research Group:** Grappling Hook
+
+{% tabs %}
+{% tab title="Obtaining" %}
+Enhanced Crafting Table
+{% endtab %}
+
+{% tab title="Usage" %}
+**Enhanced Crafting Table:**
+
+* Grappling Hook
+{% endtab %}
+{% endtabs %}
 
 ### ![](../../.gitbook/assets/hook.png) Hook
 
-XP Cost: 15 Levels
+**XP Cost:** 15 Levels
 
-Research Group: Grappling Hook
+**Research Group:** Grappling Hook
+
+{% tabs %}
+{% tab title="Obtaining" %}
+Enhanced Crafting Table
+{% endtab %}
+
+{% tab title="Usage" %}
+**Enhanced Crafting Table:**
+
+* Grappling Hook
+{% endtab %}
+{% endtabs %}
 
 ### ![](../../.gitbook/assets/stone\_chunk.png) Stone Chunk
 
@@ -110,9 +134,21 @@ Research Group: (none)
 
 ### ![](../../.gitbook/assets/reinforced\_plate.png) Reinforced Plate
 
-XP Cost: 15 Levels
+**XP Cost:** 15 Levels
 
-Research Group: Withstanding Explosions
+**Research Group:** Withstanding Explosions
+
+{% tabs %}
+{% tab title="Obtaining" %}
+
+{% endtab %}
+
+{% tab title="Usage" %}
+**Ancient Altar:**
+
+* Synthetic Shulker Shell
+{% endtab %}
+{% endtabs %}
 
 ### ![](../../.gitbook/assets/duct\_tape.png) Duct Tape
 

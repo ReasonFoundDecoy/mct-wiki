@@ -134,6 +134,10 @@ Dusts do not require any research, they are already unlocked.
 * Corinthian Bronze Ingot
 * Alloy Aurum (Supreme)
 
+**Magic Workbench:**
+
+* Magical Glass
+
 **Smart Factory (Fluffy Machines):**
 
 * Gilded Iron
