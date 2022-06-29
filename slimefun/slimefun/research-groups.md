@@ -4,37 +4,37 @@ A research group is a named category in which all items in that category will be
 
 ### Walking Sticks (1 XP Level)
 
-* Grandmas Walking Stick
-* Grandpas Walking Stick
+* [Grandmas Walking Stick](weapons.md#grandmas-walking-stick)
+* [Grandpas Walking Stick](weapons.md#grandpas-walking-stick)
 
 ### Meat Jerky (2 XP Levels)
 
-* Beef Jerky
-* Fish Jerky
-* Rabbit Jerky
-* Mutton Jerky
-* Chicken Jerky
-* Pork Jerky
+* [Beef Jerky](food.md#beef-jerky)
+* [Fish Jerky](food.md#fish-jerky)
+* [Rabbit Jerky](food.md#rabbit-jerky)
+* [Mutton Jerky](food.md#mutton-jerky)
+* [Chicken Jerky](food.md#chicken-jerky)
+* [Pork Jerky](food.md#pork-jerky)
 
 ### Lumps and Magic (3 XP Levels)
 
-* Magical Lump - I
-* Magical Lump - II
-* Magical Lump - III
-* Ender Lump - I
-* Ender Lump - II
-* Ender Lump - III
+* [Magical Lump - I](magical-items.md#magical-lump-i)
+* [Magical Lump - II](magical-items.md#magical-lump-ii)
+* [Magical Lump - III](magical-items.md#magical-lump-iii)
+* [Ender Lump - I](magical-items.md#ender-lump-i)
+* [Ender Lump - II](magical-items.md#ender-lump-ii)
+* [Ender Lump - III](magical-items.md#ender-lump-iii)
 
 ### Important Power-related Items (12 XP Levels)
 
-* Sulfate
-* Power Crystal
+* [Sulfate](resources/valuables-and-misc.md#sulfate)
+* [Power Crystal](technical-components.md#power-crystal)
 
 ### Grappling Hook (15 XP Levels)
 
-* Grappling Hook
-* Hook
-* Chain
+* [Grappling Hook](tools.md#grappling-hook)
+* [Hook](miscellaneous-items.md#hook)
+* [Chain](miscellaneous-items.md#chain)
 
 ### Jetpacks (22 XP Levels)
 
@@ -56,86 +56,86 @@ A research group is a named category in which all items in that category will be
 
 ### New Metals (6 XP Levels)
 
-* Copper Ingot
-* Tin Ingot
-* Silver Ingot
-* Lead Ingot
-* Aluminum Ingot
-* Zinc Ingot
-* Magnesium
+* [Copper Ingot](resources/ingots.md#copper-ingot)
+* [Tin Ingot](resources/ingots.md#tin-ingot)
+* [Silver Ingot](resources/ingots.md#silver-ingot)
+* [Lead Ingot](resources/ingots.md#lead-ingot)
+* [Aluminum Ingot](resources/ingots.md#aluminum-ingot)
+* [Zinc Ingot](resources/ingots.md#zinc-ingot)
+* [Magnesium Ingot](resources/ingots.md#magnesium-ingot)
 
 ### Advanced Alloys (12 XP Levels)
 
-* Billon Ingot
-* Duralumin Ingot
-* Aluminum Brass Ingot
-* Aluminum Bronze Ingot
-* Solder Ingot
-* Corinthian Bronze Ingot
-* Brass Ingot
+* [Billon Ingot](resources/alloy-ingots.md#billon-ingot)
+* [Duralumin Ingot](resources/alloy-ingots.md#duralumin-ingot)
+* [Aluminum Brass Ingot](resources/alloy-ingots.md#aluminum-brass-ingot)
+* [Aluminum Bronze Ingot](resources/alloy-ingots.md#aluminum-bronze-ingot)
+* [Solder Ingot](resources/alloy-ingots.md#solder-ingot)
+* [Corinthian Bronze Ingot](resources/alloy-ingots.md#corinthian-bronze-ingot)
+* [Brass Ingot](resources/alloy-ingots.md#brass-ingot)
 
 ### Solar Power (17 XP Levels)
 
-* Photovoltaic Cell
+* [Photovoltaic Cell](technical-components.md#photovoltaic-cell)
 * Solar Helmet
 
 ### Carbon Creation (9 XP Levels)
 
-* Compressor
-* Carbon
+* [Compressor](basic-machines.md#compressor)
+* [Carbon](resources/valuables-and-misc.md#carbon)
 
 ### Synthetic Diamonds (10 XP Levels)
 
-* Compressed Carbon
-* Carbon Chunk
-* Synthetic Diamond
+* [Compressed Carbon](resources/valuables-and-misc.md#compressed-carbon)
+* [Carbon Chunk](resources/valuables-and-misc.md#carbon-chunk)
+* [Synthetic Diamond](resources/valuables-and-misc.md#synthetic-diamond)
 
 ### Reinforced Alloy (22 XP Levels)
 
-* Hardened Metal
-* Reinforced Alloy Ingot
+* [Hardened Metal](resources/alloy-ingots.md#hardened-metal)
+* [Reinforced Alloy Ingot](resources/alloy-ingots.md#reinforced-alloy-ingot)
 
 ### Carbonado (26 XP Levels)
 
-* Raw Carbonado
-* Carbonado
+* [Raw Carbonado](resources/valuables-and-misc.md#raw-carbonado)
+* [Carbonado](resources/valuables-and-misc.md#carbonado)
 
 ### Ore Washer (5 XP Levels)
 
-* Ore Washer
-* Stone Chunk
-* Sifted Ore
+* [Ore Washer](basic-machines.md#ore-washer)
+* [Stone Chunk](miscellaneous-items.md#stone-chunk)
+* [Sifted Ore](miscellaneous-items.md#sifted-ore)
 
 ### Pure Gold (7 XP Levels)
 
-* Gold Ingot (4-Carat)
-* Gold Ingot (6-Carat)
-* Gold Ingot (8-Carat)
-* Gold Ingot (10-Carat)
-* Gold Ingot (12-Carat)
-* Gold Ingot (14-Carat)
-* Gold Ingot (16-Carat)
-* Gold Ingot (18-Carat)
-* Gold Ingot (20-Carat)
-* Gold Ingot (22-Carat)
-* Gold Ingot (24-Carat)
+* [Gold Ingot (4-Carat)](resources/ingots.md#gold-ingot-4-carat)
+* [Gold Ingot (6-Carat)](resources/ingots.md#gold-ingot-6-carat)
+* [Gold Ingot (8-Carat)](resources/ingots.md#gold-ingot-8-carat)
+* [Gold Ingot (10-Carat)](resources/ingots.md#gold-ingot-10-carat)
+* [Gold Ingot (12-Carat)](resources/ingots.md#gold-ingot-12-carat)
+* [Gold Ingot (14-Carat)](resources/ingots.md#gold-ingot-14-carat)
+* [Gold Ingot (16-Carat)](resources/ingots.md#gold-ingot-16-carat)
+* [Gold Ingot (18-Carat)](resources/ingots.md#gold-ingot-18-carat)
+* [Gold Ingot (20-Carat)](resources/ingots.md#gold-ingot-20-carat)
+* [Gold Ingot (22-Carat)](resources/ingots.md#gold-ingot-22-carat)
+* [Gold Ingot (24-Carat)](resources/ingots.md#gold-ingot-24-carat)
 
 ### Silicon Valley (12 XP Levels)
 
-* Silicon
-* Ferrosilicon
+* [Silicon](resources/valuables-and-misc.md#silicon)
+* [Ferrosilicon](resources/alloy-ingots.md#ferrosilicon)
 
 ### Radioactive (30 XP Levels)
 
-* Tiny Pile of Uranium
-* Small Chunk of Uranium
-* Uranium
+* [Tiny Pile of Uranium](miscellaneous-items.md#tiny-pile-of-uranium)
+* [Small Chunk of Uranium](miscellaneous-items.md#small-chunk-of-uranium)
+* [Uranium](resources/irradiated-materials.md#uranium)
 
 ### Ore Purification (25 XP Levels)
 
-* Crushed Ore
-* Pulverized Ore
-* Pure Ore Cluster
+* [Crushed Ore](miscellaneous-items.md#crushed-ore)
+* [Pulverized Ore](miscellaneous-items.md#pulverized-ore)
+* [Pure Ore Cluster](miscellaneous-items.md#pure-ore-cluster)
 
 ### Top Tier Machines (24 XP Levels)
 
@@ -145,34 +145,34 @@ A research group is a named category in which all items in that category will be
 
 ### First Aid (2 XP Levels)
 
-* Rag
-* Bandage
-* Splint
-* Cloth
-* Tin Can
-* Vitamins
-* Medicine
+* [Rag](useful-items.md#rag)
+* [Bandage](useful-items.md#bandage)
+* [Splint](useful-items.md#splint)
+* [Cloth](miscellaneous-items.md#cloth)
+* [Tin Can](miscellaneous-items.md#tin-can)
+* [Vitamins](useful-items.md#vitamins)
+* [Medicine](useful-items.md#medicine)
 
 ### Explosive Tools (30 XP Levels)
 
-* Explosive Pickaxe
-* Explosive Shovel
+* [Explosive Pickaxe](tools.md#explosive-pickaxe)
+* [Explosive Shovel](tools.md#explosive-shovel)
 
 ### Backpacks (15 XP Levels)
 
-* Small Backpack
-* Backpack
-* Large Backpack
+* [Small Backpack](useful-items.md#small-backpack)
+* [Backpack](useful-items.md#backpack)
+* [Large Backpack](useful-items.md#large-backpack)
 
 ### Even More Ores (10 XP Levels)
 
-* Nickel Ingot
-* Cobalt Ingot
+* [Nickel Ingot](resources/alloy-ingots.md#nickel-ingot)
+* [Cobalt Ingot](resources/alloy-ingots.md#cobalt-ingot)
 
 ### Necromancy (19 XP Levels)
 
-* Necrotic Skull
-* Essence of Afterlife
+* [Necrotic Skull](magical-items.md#necrotic-skull)
+* [Essence of Afterlife](magical-items.md#essence-of-afterlife)
 
 ### Jet Boots (25 XP Levels)
 
@@ -185,66 +185,66 @@ A research group is a named category in which all items in that category will be
 
 ### Soulbound Weapons (29 XP Levels)
 
-* Soulbound Sword
-* Soulbound Bow
-* Soulbound Trident
+* [Soulbound Sword](weapons.md#soulbound-sword)
+* [Soulbound Bow](weapons.md#soulbound-bow)
+* [Soulbound Trident](weapons.md#soulbound-trident)
 
 ### Soulbound Tools (29 XP Levels)
 
-* Soulbound Pickaxe
-* Soulbound Axe
-* Soulbound Shovel
-* Soulbound Hoe
+* [Soulbound Pickaxe](tools.md#soulbound-pickaxe)
+* [Soulbound Axe](tools.md#soulbound-axe)
+* [Soulbound Shovel](tools.md#soulbound-shovel)
+* [Soulbound Hoe](tools.md#soulbound-hoe)
 
 ### Delicious Drinks (29 XP Levels)
 
-* Juicer
-* Apple Juice
-* Melon Juice
-* Carrot Juice
-* Pumpkin Juice
-* Sweet Berry Juice
+* [Juicer](basic-machines.md#juicer)
+* [Apple Juice](food.md#apple-juice)
+* [Melon Juice](food.md#melon-juice)
+* [Carrot Juice](food.md#carrot-juice)
+* [Pumpkin Juice](food.md#pumpkin-juice)
+* [Sweet Berry Juice](food.md#sweet-berry-juice)
 
 ### Enhanced Furnace (7 XP Levels)
 
-* Enhanced Furnace - I
-* Enhanced Furnace - II
+* [Enhanced Furnace - I](basic-machines.md#enhanced-furnace-i)
+* [Enhanced Furnace - II](basic-machines.md#enhanced-furnace-ii)
 
 ### Better Furnaces (18 XP Levels)
 
-* Enhanced Furnace - III
-* Enhanced Furnace - IV
-* Enhanced Furnace - V
-* Enhanced Furnace - VI
-* Enhanced Furnace - VII
+* [Enhanced Furnace - III](basic-machines.md#enhanced-furnace-iii)
+* [Enhanced Furnace - IV](basic-machines.md#enhanced-furnace-iv)
+* [Enhanced Furnace - V](basic-machines.md#enhanced-furnace-v)
+* [Enhanced Furnace - VI](basic-machines.md#enhanced-furnace-vi)
+* [Enhanced Furnace - VII](basic-machines.md#enhanced-furnace-vii)
 
 ### High Tier Furnace (29 XP Levels)
 
-* Enhanced Furnace - VIII
-* Enhanced Furnace - IX
-* Enhanced Furnace - X
-* Enhanced Furnace - XI
+* [Enhanced Furnace - VIII](basic-machines.md#enhanced-furnace-viii)
+* [Enhanced Furnace - IX](basic-machines.md#enhanced-furnace-ix)
+* [Enhanced Furnace - X](basic-machines.md#enhanced-furnace-x)
+* [Enhanced Furnace - XI](basic-machines.md#enhanced-furnace-xi)
 
 ### Heating Up (32 XP Levels)
 
-* Electromagnet
-* Electric Motor
-* Heating Coil
+* [Electromagnet](technical-components.md#electromagnet)
+* [Electric Motor](technical-components.md#electric-motor)
+* [Heating Coil](technical-components.md#heating-coil)
 
 ### Robin Hood (22 XP Levels)
 
-* Explosive Bow
-* Icy Bow
+* [Explosive Bow](weapons.md#explosive-bow)
+* [Icy Bow](weapons.md#icy-bow)
 
 ### Withstanding Explosions (15 XP Levels)
 
-* Reinforced Plate
-* Hardened Glass
+* [Reinforced Plate](miscellaneous-items.md#reinforced-plate)
+* [Hardened Glass](technical-components.md#hardened-glass)
 
 ### Portable Beverages (24 XP Levels)
 
-* Cooling Unit
-* Cooler
+* [Cooling Unit](technical-components.md#cooling-unit)
+* [Cooler](useful-items.md#cooler)
 
 ### Ancient Altar (15 XP Levels)
 
@@ -253,16 +253,16 @@ A research group is a named category in which all items in that category will be
 
 ### Elemental Runes (15 XP Levels)
 
-* Blank Rune
-* Ancient Rune \[Earth]
-* Ancient Rune \[Water]
-* Ancient Rune \[Air]
-* Ancient Rune \[Fire]
+* [Blank Rune](magical-items.md#blank-rune)
+* [Ancient Rune \[Earth\]](magical-items.md#ancient-rune-earth)
+* [Ancient Rune \[Water\]](magical-items.md#ancient-rune-water)
+* [Ancient Rune \[Air\]](magical-items.md#ancient-rune-air)
+* [Ancient Rune \[Fire\]](magical-items.md#ancient-rune-fire)
 
 ### Purple Runes (18 XP Levels)
 
-* Ancient Rune \[Ender]
-* Ancient Rune \[Rainbow]
+* [Ancient Rune \[Ender\]](magical-items.md#ancient-rune-ender)
+* [Ancient Rune \[Rainbow\]](magical-items.md#ancient-rune-rainbow)
 
 ### Rainbow Blocks (24 XP Levels)
 
@@ -275,13 +275,13 @@ A research group is a named category in which all items in that category will be
 
 ### Oil (30 XP Levels)
 
-* Bucket of Oil
+* [Bucket of Oil](resources/valuables-and-misc.md#bucket-of-oil)
 * Oil Pump
 
 ### Fuel (30 XP Levels)
 
-* Bucket of Fuel
-* Refinery
+* [Bucket of Fuel](resources/valuables-and-misc.md#bucket-of-fuel)
+* [Refinery](energy-and-electricity.md#refinery)
 
 ### Tier 1 Capacitors (25 XP Levels)
 
@@ -356,50 +356,50 @@ A research group is a named category in which all items in that category will be
 
 ### Organic Food (25 XP Levels)
 
-* Food Fabricator
-* Organic Food (Wheat)
-* Organic Food (Carrot)
-* Organic Food (Potato)
-* Organic Food (Wheat Seeds)
-* Organic Food (Beetroot)
-* Organic Food (Melon Slice)
-* Organic Food (Apple)
-* Organic Food (Sweet Berries)
-* Organic Food (Dried Kelp)
-* Organic Food (Cocoa Beans)
-* Organic Food (Seagrass)
+* [Food Fabricator](energy-and-electricity.md#food-fabricator)
+* [Organic Food (Wheat)](miscellaneous-items.md#organic-food-wheat)
+* [Organic Food (Carrot)](miscellaneous-items.md#organic-food-carrot)
+* [Organic Food (Potato)](miscellaneous-items.md#organic-food-potato)
+* [Organic Food (Wheat Seeds)](miscellaneous-items.md#organic-food-wheat-seeds)
+* [Organic Food (Beetroot)](miscellaneous-items.md#organic-food-beetroot)
+* [Organic Food (Melon Slice)](miscellaneous-items.md#organic-food-melon-slice)
+* [Organic Food (Apple)](miscellaneous-items.md#organic-food-apple)
+* [Organic Food (Sweet Berries)](miscellaneous-items.md#organic-food-sweet-berries)
+* [Organic Food (Dried Kelp)](miscellaneous-items.md#organic-food-dried-kelp)
+* [Organic Food (Cocoa Beans)](miscellaneous-items.md#organic-food-cocoa-beans)
+* [Organic Food (Seagrass)](miscellaneous-items.md#organic-food-seagrass)
 
 ### Organic Fertilizer (36 XP Levels)
 
-* Food Composter
-* Fertilizer (Wheat)
-* Fertilizer (Carrot)
-* Fertilizer (Potato)
-* Fertilizer (Wheat Seeds)
-* Fertilizer (Beetroot)
-* Fertilizer (Melon Slice)
-* Fertilizer (Apple)
-* Fertilizer (Sweet Berries)
-* Fertilizer (Dried Kelp)
-* Fertilizer (Cocoa Beans)
-* Fertilizer (Seagrass)
+* [Food Composter](energy-and-electricity.md#food-composter)
+* [Fertilizer (Wheat)](miscellaneous-items.md#organic-fertilizer-wheat)
+* [Fertilizer (Carrot)](miscellaneous-items.md#organic-fertilizer-carrot)
+* [Fertilizer (Potato)](miscellaneous-items.md#organic-fertilizer-potato)
+* [Fertilizer (Wheat Seeds)](miscellaneous-items.md#organic-fertilizer-wheat-seeds)
+* [Fertilizer (Beetroot)](miscellaneous-items.md#organic-fertilizer-beetroot)
+* [Fertilizer (Melon Slice)](miscellaneous-items.md#organic-fertilizer-melon-slice)
+* [Fertilizer (Apple)](miscellaneous-items.md#organic-fertilizer-apple)
+* [Fertilizer (Sweet Berries)](miscellaneous-items.md#organic-fertilizer-sweet-berries)
+* [Fertilizer (Dried Kelp)](miscellaneous-items.md#organic-fertilizer-dried-kelp)
+* [Fertilizer (Cocoa Beans)](miscellaneous-items.md#organic-fertilizer-cocoa-beans)
+* [Fertilizer (Seagrass)](miscellaneous-items.md#organic-fertilizer-seagrass)
 
 ### Reactor Essentials (36 XP Levels)
 
-* Reactor Coolant Cell
-* Neptunium
-* Plutonium
+* [Reactor Coolant Cell](technical-components.md#reactor-coolant-cell)
+* [Neptunium](resources/irradiated-materials.md#neptunium)
+* [Plutonium](resources/irradiated-materials.md#plutonium)
 
 ### Cargo Basics (30 XP Levels)
 
-* Cargo Motor
-* Cargo Manager
-* Cargo Node (Connector)
+* [Cargo Motor](cargo-management.md#cargo-motor)
+* [Cargo Manager](cargo-management.md#cargo-manager)
+* [Cargo Node (Connector)](cargo-management.md#cargo-node-connector)
 
 ### Cargo Setup (30 XP Levels)
 
-* Cargo Node (Input)
-* Cargo Node (Output)
+* [Cargo Node (Input)](cargo-management.md#cargo-node-input)
+* [Cargo Node (Output)](cargo-management.md#cargo-node-output)
 
 ### Electric Ingot Fabrication (18 XP Levels)
 
@@ -448,15 +448,15 @@ A research group is a named category in which all items in that category will be
 
 ### Nether Ice Coolant (45 XP Levels)
 
-* Nether Ice
-* Enriched Nether Ice
-* Nether Ice Coolant Cell
+* [Nether Ice](resources/irradiated-materials.md#nether-ice)
+* [Enriched Nether Ice](resources/irradiated-materials.md#enriched-nether-ice)
+* [Nether Ice Coolant Cell](technical-components.md#nether-ice-coolant-cell)
 
 ### Blistering Radioactivity (38 XP Levels)
 
-* Blistering Ingot (33%)
-* Blistering Ingot (66%)
-* Blistering Ingot
+* [Blistering Ingot (33%)](resources/irradiated-materials.md#blistering-ingot-33)
+* [Blistering Ingot (66%)](resources/irradiated-materials.md#blistering-ingot-66)
+* [Blistering Ingot](resources/irradiated-materials.md#blistering-ingot)
 
 ### Electric Press (16 XP Levels)
 
@@ -465,20 +465,20 @@ A research group is a named category in which all items in that category will be
 
 ### Power from Magnesium (20 XP Levels)
 
-* Magnesium Salt
-* Magnesium-powered Generator
+* [Magnesium Salt](resources/valuables-and-misc.md#magnesium-salt)
+* [Magnesium-powered Generator](energy-and-electricity.md#magnesium-powered-generator)
 
 ### Reset Villager Trades (26 XP Levels)
 
-* Ancient Rune \[Villagers]
-* Stranger Nether Goo
+* [Ancient Rune \[Villagers\]](magical-items.md#ancient-rune-villagers)
+* [Stranger Nether Goo](magical-items.md#strange-nether-goo)
 
 ### Automatic Crafting (30 XP Levels)
 
-* Crafting Motor
-* Auto-Crafter (Vanilla)
-* Auto-Crafter (Enhanced)
-* Auto-Crafter (Armor Forge)
+* [Crafting Motor](cargo-management.md#crafting-motor)
+* [Auto-Crafter (Vanilla)](cargo-management.md#auto-crafter-vanilla)
+* [Auto-Crafter (Enhanced)](cargo-management.md#auto-crafter-enhanced)
+* [Auto-Crafter (Armor Forge)](cargo-management.md#auto-crafter-armor-forge)
 
 ### Improved Generators (24 XP Levels)
 
@@ -487,11 +487,11 @@ A research group is a named category in which all items in that category will be
 
 ### Slimefun Cuisine (5 XP Levels)
 
-* Salt
-* Wheat Flour
-* Heavy Cream
-* Cheese
-* Butter
+* [Salt](miscellaneous-items.md#salt)
+* [Wheat Flour](miscellaneous-items.md#wheat-flour)
+* [Heavy Cream](miscellaneous-items.md#heavy-cream)
+* [Cheese](miscellaneous-items.md#cheese)
+* [Butter](miscellaneous-items.md#butter)
 
 ### Fast Automatic Enchanting and Disenchanting (48 XP Levels)
 
@@ -502,91 +502,91 @@ A research group is a named category in which all items in that category will be
 
 ### Glowstone Armor (3 XP Levels)
 
-* Glowstone Helmet
-* Glowstone Chestplate
-* Glowstone Leggings
-* Glowstone Boots
+* [Glowstone Helmet](magical-armor.md#glowstone-helmet)
+* [Glowstone Chestplate](magical-armor.md#glowstone-chestplate)
+* [Glowstone Leggings](magical-armor.md#glowstone-leggings)
+* [Glowstone Boots](magical-armor.md#glowstone-boots)
 
 ### Ender Armor (4 XP Levels)
 
-* Ender Helmet
-* Ender Chestplate
-* Ender Leggings
-* Ender Boots
+* [Ender Helmet](magical-armor.md#ender-helmet)
+* [Ender Chestplate](magical-armor.md#ender-chestplate)
+* [Ender Leggings](magical-armor.md#ender-leggings)
+* [Ender Boots](magical-armor.md#ender-boots)
 
 ### Slime Armor (5 XP Levels)
 
-* Slime Helmet
-* Slime Chestplate
-* Slime Leggings
-* Slime Boots
+* [Slime Helmet](magical-armor.md#slime-helmet)
+* [Slime Chestplate](magical-armor.md#slime-chestplate)
+* [Slime Leggings](magical-armor.md#slime-leggings)
+* [Slime Boots](magical-armor.md#slime-boots)
 
 ### Cactus Suit (5 XP Levels)
 
-* Cactus Helmet
-* Cactus Chestplate
-* Cactus Leggings
-* Cactus Boots
+* [Cactus Helmet](armor.md#cactus-helmet)
+* [Cactus Chestplate](armor.md#cactus-chestplate)
+* [Cactus Leggings](armor.md#cactus-leggings)
+* [Cactus Boots](armor.md#cactus-boots)
 
 ### Gilded Iron Armor (16 XP Levels)
 
-* Gilded Iron Helmet
-* Gilded Iron Chestplate
-* Gilded Iron Leggings
-* Gilded Iron Boots
+* [Gilded Iron Helmet](armor.md#gilded-iron-helmet)
+* [Gilded Iron Chestplate](armor.md#gilded-iron-chestplate)
+* [Gilded Iron Leggings](armor.md#gilded-iron-leggings)
+* [Gilded Iron Boots](armor.md#gilded-iron-boots)
 
 ### Reinforced Armor (26 XP Levels)
 
-* Reinforced Alloy Helmet
-* Reinforced Alloy Chestplate
-* Reinforced Alloy Leggings
-* Reinforced Alloy Boots
+* [Reinforced Helmet](armor.md#reinforced-helmet)
+* [Reinforced Chestplate](armor.md#reinforced-chestplate)
+* [Reinforced Leggings](armor.md#reinforced-leggings)
+* [Reinforced Boots](armor.md#reinforced-boots)
 
 ### Chainmail Armor (8 XP Levels)
 
-* \[Chainmail Helmet]
-* \[Chainmail Chesplate]
-* \[Chainmail Leggings]
-* \[Chainmail Boots]
+* [\[Chainmail Helmet\]](armor.md#chainmail-helmet)
+* [\[Chainmail Chestplate\]](armor.md#chainmail-chestplate)
+* [\[Chainmail Leggings\]](armor.md#chainmail-leggings)
+* [\[Chainmail Boots\]](armor.md#chainmail-boots)
 
 ### Hazmat Suit (21 XP Levels)
 
-* Scuba Helmet
-* Hazmat Suit
-* Hazmat Suit Leggings
-* Hazmat Boots
+* [Scuba Helmet](armor.md#scuba-helmet)
+* [Hazmat Suit](armor.md#hazmat-suit)
+* [Hazmat Suit Leggings](armor.md#hazmat-suit-leggings)
+* [Hazmat Boots](armor.md#hazmat-boots)
 
 ### Shiny Armor (13 XP Levels)
 
-* Golden Helmet (12-Carat)
-* Golden Chesplate (12-Carat)
-* Golden Leggings (12-Carat)
-* Golden Boots (12-Carat)
+* [Golden Helmet (12-Carat)](armor.md#golden-helmet-12-carat)
+* [Golden Chestplate (12-Carat)](armor.md#golden-chestplate-12-carat)
+* [Golden Leggings (12-Carat)](armor.md#golden-leggings-12-carat)
+* [Golden Boots (12-Carat)](armor.md#golden-boots-12-carat)
 
 ### Shiny Steel Armor (27 XP Levels)
 
-* Slime Helmet
-* Slime Chestplate
-* Slime Leggings
-* Slime Boots
+* [Slime Helmet](magical-armor.md#slime-helmet-1)
+* [Slime Chestplate](magical-armor.md#slime-chestplate-1)
+* [Slime Leggings](magical-armor.md#slime-leggings-1)
+* [Slime Boots](magical-armor.md#slime-boots-1)
 
 ### Soulbound Armor (29 XP Levels)
 
-* Soulbound Helmet
-* Soulbound Chestplate
-* Soulbound Leggings
-* Soulbound Boots
+* [Soulbound Helmet](magical-armor.md#soulbound-helmet)
+* [Soulbound Chestplate](magical-armor.md#soulbound-chestplate)
+* [Soulbound Leggings](magical-armor.md#soulbound-leggings)
+* [Soulbound Boots](magical-armor.md#soulbound-boots)
 
 ### Bee Armor (24 XP Levels)
 
-* Bee Helmet
-* Bee Chestplate
-* Bee Leggings
-* Bee Boots
+* [Bee Helmet](magical-armor.md#bee-helmet)
+* [Bee Chestplate](magical-armor.md#bee-chestplate)
+* [Bee Leggings](magical-armor.md#bee-leggings)
+* [Bee Boots](magical-armor.md#bee-boots)
 
 ### Damascus Steel Armor (18 XP Levels)
 
-* Damascus Steel Helmet
-* Damascus Steel Chestplate
-* Damascus Steel Leggings
-* Damascus Steel Boots
+* [Damascus Steel Helmet](armor.md#damascus-steel-helmet)
+* [Damascus Steel Chestplate](armor.md#damascus-steel-chestplate)
+* [Damascus Steel Leggings](armor.md#damascus-steel-leggings)
+* [Damascus Steel Boots](armor.md#damascus-steel-boots)
