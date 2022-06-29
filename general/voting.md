@@ -48,3 +48,5 @@ Vote parties need 600 votes to activate. This may seem like a lot, but with 20 v
 * <mark style="color:green;">**+ 2,000**</mark> Tokens
 * <mark style="color:green;">**+ $500,000**</mark>
 * <mark style="color:green;">**+ 30,971**</mark> XP Points (roughly levels 0-100)
+
+When the voteparty hits, anyone who has met the criteria will have a broadcast with their name saying you've reached maximum R.G.P. What's R.G.P.? It stands for Raw Gamer Potential - it's basically nothing, just a term that you might see from time to time.
