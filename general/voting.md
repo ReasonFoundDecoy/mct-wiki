@@ -40,6 +40,12 @@ The following is a list of all vote sites we use and how long before you can vot
 | [MC-Servers.com](https://mc-servers.com/mcvote/4884/)                                    | Once per day/unspecific | yes                                   |
 | [MineServers.com](https://mineservers.com/server/dr86PAcQ/vote)                          | Once per day/unspecific | yes                                   |
 
+{% hint style="warning" %}
+The image below shows something that is displayed on **MineServers.com**. It is not true! They have no control over what rewards servers give out to voters.
+{% endhint %}
+
+![](../.gitbook/assets/mineservers.png)
+
 ## Vote Party
 
 Vote parties need 600 votes to activate. This may seem like a lot, but with 20 vote sites, it usually doesn't take too long. You only need to have a minimum of 15 votes to be included in the party when it hits. If you are not logged in at the time, you will receive your rewards next time you join. Offline voting does count towards vote party. Rewards are as follows:
