@@ -55,13 +55,13 @@ Items you'll come across that are involved in mini-quests:
 
 Take note at the beginning of the dungeon, the recipe for the Enlightened Orb is shown to you on the wall.&#x20;
 
-![](<../../.gitbook/assets/enlightened orb recipe.png>)
+![](<../../.gitbook/assets/enlightened orb recipe (1).png>)
 
 #### Locate the Altar of the Damned
 
 The Altar of the Damned is in a hidden secret room. This altar is an Elite Crafting Table and there are warnings all over the place to <mark style="color:red;">**NOT SHIFT-CLICK ITEMS INTO THE CRAFTING TABLE**</mark>. Please carefully head this warning! Elite Crafting Tables are buggy and there's a high chance you will lose your items FOREVER.
 
-When you've located the Altar of the Damned, place each Sacred Stone in its correct slot to craft the ![](<../../.gitbook/assets/Enlightened Orb.gif>)Enlightened Orb.
+When you've located the Altar of the Damned, place each Sacred Stone in its correct slot to craft the Enlightened Orb.
 
 After you put the Enlightened Orb in your inventory, the Forsaken Chambers dungeon quest will automatically complete and you will be teleported back to spawn.
 
