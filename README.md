@@ -1,5 +1,5 @@
 ---
-description: A 1.18.2 Slimefun Server
+description: A 1.19 Slimefun Server
 cover: .gitbook/assets/wiki banner.png
 coverY: 0
 ---
