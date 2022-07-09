@@ -126,7 +126,7 @@
   * [Spawn Egg Crate](economy/crates/spawn-egg-crate.md)
   * [Tantrum Crate](economy/crates/tantrum-crate.md)
   * [Casino Crates](economy/crates/casino-crates.md)
-* [Tokens and Token Shop](economy/tokens-and-token-shop/README.md)
+* [Tokens and Tokenshop](economy/tokens-and-token-shop/README.md)
   * [Charms](economy/tokens-and-token-shop/charms.md)
   * [AE Items](economy/tokens-and-token-shop/ae-items.md)
   * [Custom Gear Vouchers](economy/tokens-and-token-shop/custom-gear-vouchers.md)
