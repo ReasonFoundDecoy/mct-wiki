@@ -17,28 +17,28 @@ There are 4 different ways you can vote.
 
 The following is a list of all vote sites we use and how long before you can vote again for each one.
 
-| Website/Link                                                                             | Time Gate               | Alts/family member can vote same day? |
-| ---------------------------------------------------------------------------------------- | ----------------------- | ------------------------------------- |
-| [PlanetMinecraft.com](https://www.planetminecraft.com/server/mctantrum/vote/)            | 24 hours                | no                                    |
-| [Minestatus.net](https://minestatus.net/server/vote/mct.tantrum.org)                     | 24 hours                | yes                                   |
-| [Minebrowse.com](https://minebrowse.com/server/2481)                                     | 24 hours                | yes                                   |
-| [MinecraftList.org](https://minecraftlist.org/vote/24598)                                | 24 hours                | yes                                   |
-| [serverlist.games](https://serverlist.games/vote/5099)                                   | 20 hours                | no                                    |
-| [MinecraftServers.org](https://minecraftservers.org/vote/608489)                         | 12 hours                | no                                    |
-| [Minecraft-Server-List.com](https://minecraft-server-list.com/server/474392/vote/)       | 12 hours                | yes                                   |
-| [topg.org](https://topg.org/minecraft-servers/server-625558)                             | 12 hours                | yes                                   |
-| [MCServertime.com](https://mcservertime.com/server-mctantrum.590/vote)                   | 12 hours                | yes                                   |
-| [ServerPact.com](https://www.serverpact.com/vote-46405)                                  | 12 hours                | yes                                   |
-| [BestServers.com](https://bestservers.com/server/1222/vote)                              | 12 hours                | yes                                   |
-| [List-Minecraft-Server.com](https://list-minecraft-server.com/server-mctantrum.757/vote) | 6 hours                 | no                                    |
-| [Minecraft-MP.com](https://minecraft-mp.com/server/281008/vote/)                         | 12am EST                | yes                                   |
-| [Minecraft-Tracker.com](https://minecraft-tracker.com/server/6691/vote/)                 | 12am EST                | yes                                   |
-| [topminecraftservers.org](https://topminecraftservers.org/server/25402)                  | 12am EST                | no                                    |
-| [Minelist.net](https://minelist.net/vote/3762)                                           | 12am CT                 | yes                                   |
-| [Minecraft-Server.net](https://minecraft-server.net/vote/B\_White/)                      | 12am UTC                | yes                                   |
-| [mclike.com](https://mclike.com/vote-191037)                                             | 3am GMT                 | no                                    |
-| [MC-Servers.com](https://mc-servers.com/mcvote/4884/)                                    | Once per day/unspecific | yes                                   |
-| [MineServers.com](https://mineservers.com/server/dr86PAcQ/vote)                          | Once per day/unspecific | yes                                   |
+| Website/Link                                                                       | Time Gate               | Alts/family member can vote same day? |
+| ---------------------------------------------------------------------------------- | ----------------------- | ------------------------------------- |
+| [PlanetMinecraft.com](https://www.planetminecraft.com/server/mctantrum/vote/)      | 24 hours                | no                                    |
+| [Minestatus.net](https://minestatus.net/server/vote/mct.tantrum.org)               | 24 hours                | yes                                   |
+| [Minebrowse.com](https://minebrowse.com/server/2481)                               | 24 hours                | yes                                   |
+| [MinecraftList.org](https://minecraftlist.org/vote/24598)                          | 24 hours                | yes                                   |
+| [serverlist.games](https://serverlist.games/vote/5099)                             | 20 hours                | no                                    |
+| [MinecraftServers.org](https://minecraftservers.org/vote/608489)                   | 12 hours                | no                                    |
+| [Minecraft-Server-List.com](https://minecraft-server-list.com/server/474392/vote/) | 12 hours                | yes                                   |
+| [topg.org](https://topg.org/minecraft-servers/server-625558)                       | 12 hours                | yes                                   |
+| [MCServertime.com](https://mcservertime.com/server-mctantrum.590/vote)             | 12 hours                | yes                                   |
+| [ServerPact.com](https://www.serverpact.com/vote-46405)                            | 12 hours                | yes                                   |
+| [BestServers.com](https://bestservers.com/server/1222/vote)                        | 12 hours                | yes                                   |
+| [Minecraft-MP.com](https://minecraft-mp.com/server/281008/vote/)                   | 12am EST                | yes                                   |
+| [Minecraft-Tracker.com](https://minecraft-tracker.com/server/6691/vote/)           | 12am EST                | yes                                   |
+| [topminecraftservers.org](https://topminecraftservers.org/server/25402)            | 12am EST                | no                                    |
+| [Minelist.net](https://minelist.net/vote/3762)                                     | 12am CT                 | yes                                   |
+| [Minecraft-Server.net](https://minecraft-server.net/vote/B\_White/)                | 12am UTC                | yes                                   |
+| [mclike.com](https://mclike.com/vote-191037)                                       | 3am GMT                 | no                                    |
+| [MC-Servers.com](https://mc-servers.com/mcvote/4884/)                              | Once per day/unspecific | yes                                   |
+| [MineServers.com](https://mineservers.com/server/dr86PAcQ/vote)                    | Once per day/unspecific | yes                                   |
+| [MCList.io](https://mclist.io/server/33904/vote)                                   | Once per day/unspecific | ?                                     |
 
 {% hint style="warning" %}
 The image below shows something that is displayed on **MineServers.com**. It is not true! They have no control over what rewards servers give out to voters.
