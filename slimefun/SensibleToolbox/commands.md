@@ -19,7 +19,7 @@ If you're holding a chargeable item or targeting a chargeable block, this comman
 /stb charge \<new-charge-amount>\
 If you're holding a chargeable item or targeting a chargeable block, this command will let you set its SCU level directly to the given amount, without the need to connect it to an energy net or install an energy cell. Free energy! You can't set the charge to less than 0 or greater than the item's max charge (see the item tooltip or charge meter in the block's GUI to get the maximum charge level for the item/block).
 
-See [Energy](https://dev.bukkit.org/projects/sensible-toolbox/pages/items/energy) for more information on how charge, or SCU, works.
+See [Energy](../SensibleToolbox/Items/energy.md) for more information on how charge, or SCU, works.
 
 ### Toggling Debugging
 
@@ -29,13 +29,13 @@ This command is equivalent to doing `/stb set debug_level 1` if the current debu
 ### Obtaining Items
 <dl><dt>/stb give &lt;item-id&gt; [&lt;amount&gt;] [&lt;player-name&gt;]<br></dt>
 
-This command gives STB items directly to you or another player without the need to craft them.  For a list of valid item ID's, see [Item Reference](slimefun/SensibleToolbox/item-reference.md).  Note that Tab completion can be very helpful here.<br>
+This command gives STB items directly to you or another player without the need to craft them.  For a list of valid item ID's, see [Item Reference](../SensibleToolbox/item-reference.md).  Note that Tab completion can be very helpful here.<br>
 <br>If an amount is specified, multiple items can be given.<br>
 <br>If a player name is specified and that player is online, items will be given to that player instead.
 </dl>
 
 /stb give \<item-id> \[\<amount>] \[\<player-name>]\
-This command gives STB items directly to you or another player without the need to craft them. For a list of valid item ID's, see [Item Reference](https://dev.bukkit.org/projects/sensible-toolbox/pages/item-reference). Note that Tab completion can be very helpful here.\
+This command gives STB items directly to you or another player without the need to craft them. For a list of valid item ID's, see [Item Reference](../SensibleToolbox/item-reference.md). Note that Tab completion can be very helpful here.\
 \
 If an amount is specified, multiple items can be given.\
 \
@@ -44,33 +44,33 @@ If a player name is specified and that player is online, items will be given to 
 ### Getting a Config Setting
 <dt>/stb getcfg [&lt;item&gt;]<br></dt>
 
-This command lets you view the setting of the given [Configuration](slimefun/SensibleToolbox/configuration.md) item, or all items if no argument is given.
+This command lets you view the setting of the given [Configuration](../SensibleToolbox/configuration.md) item, or all items if no argument is given.
 
 
 ### Changing a Config Setting
 <dl><dt>/stb setcfg &lt;item&gt; &lt;new-value&gt;<br></dt>
 
-This command lets you update the setting of a given [Configuration](slimefun/SensibleToolbox/configuration.md) item.
+This command lets you update the setting of a given [Configuration](../SensibleToolbox/configuration.md) item.
 </dl>
 
 /stb setcfg \<item> \<new-value>\
-This command lets you update the setting of a given [Configuration](https://dev.bukkit.org/projects/sensible-toolbox/pages/configuration) item.
+This command lets you update the setting of a given [Configuration](../SensibleToolbox/configuration.md) item.
 
 ### Forcing a Save
 <dl><dt>/stb save<br></dt>
 
-This command forces an immediate save to database of all persisted data.  Data is normally saved every 30 seconds (but see the <strong>save_interval</strong> [Configuration](slimefun/SensibleToolbox/configuration.md) item), and when the server is stopped or reloaded, but you can use this command to force a save if necessary.
+This command forces an immediate save to database of all persisted data.  Data is normally saved every 30 seconds (but see the <strong>save_interval</strong> [Configuration](../SensibleToolbox/configuration.md) item), and when the server is stopped or reloaded, but you can use this command to force a save if necessary.
 </dl>
 
 /stb save\
-This command forces an immediate save to database of all persisted data. Data is normally saved every 30 seconds (but see the **save\_interval** [Configuration](https://dev.bukkit.org/projects/sensible-toolbox/pages/configuration) item), and when the server is stopped or reloaded, but you can use this command to force a save if necessary.
+This command forces an immediate save to database of all persisted data. Data is normally saved every 30 seconds (but see the **save\_interval** [Configuration](../SensibleToolbox/configuration.md) item), and when the server is stopped or reloaded, but you can use this command to force a save if necessary.
 
 ### Displaying Known Blocks
 <dl><dt>/stb show [-w &lt;world-name&gt;] [-type &lt;item-id&gt;] [&lt;location&gt;]<br></dt>
 This command allows listing of all known STB blocks in the world, and/or inspection of the data stored on that block.  The default action if no options are given is to list all known blocks in all worlds with their locations (location in the form X,Y,Z,WORLD)<br>
 <br>With the -w option, only blocks in the given world will be shown.<br>
 
-<br>With the -type option, only blocks of the given type will be shown.  See [Item Reference](slimefun/SensibleToolbox/item-reference.md) for a list of all item and block types.<br>
+<br>With the -type option, only blocks of the given type will be shown.  See [Item Reference](../SensibleToolbox/item-reference.md) for a list of all item and block types.<br>
 <br>If a location is given (in the form X,Y,Z,WORLD), detailed information for the block at that location will be displayed.  If you are player (rather than on the console), you can also give "." as a location which is taken to mean "the block you are targeting".
 </dl>
 
@@ -79,7 +79,7 @@ This command allows listing of all known STB blocks in the world, and/or inspect
 \
 With the -w option, only blocks in the given world will be shown.\
 \
-With the -type option, only blocks of the given type will be shown. See [Item Reference](https://dev.bukkit.org/projects/sensible-toolbox/pages/item-reference) for a list of all item and block types.\
+With the -type option, only blocks of the given type will be shown. See [Item Reference](../SensibleToolbox/item-reference.md) for a list of all item and block types.\
 \
 If a location is given (in the form X,Y,Z,WORLD), detailed information for the block at that location will be displayed. If you are player (rather than on the console), you can also give "." as a location which is taken to mean "the block you are targeting".
 
@@ -93,11 +93,11 @@ If you're holding a Recipe Book, this will open the Recipe Book GUI, filtered to
 ### Renaming Captured Animals
 <dl><dt>/stb rename &lt;new-name&gt;<br></dt>
 
-If you're holding an Ender Leash with a captured animal, this command allows you to rename the captured animal.  This comes with a level cost (unless you have the <strong>stb.commands.rename.free</strong> permission) - the default is 5 levels, but this is configurable via the <strong>rename_level cost</strong> [Configuration](slimefun/SensibleToolbox/configuration.md) item.
+If you're holding an Ender Leash with a captured animal, this command allows you to rename the captured animal.  This comes with a level cost (unless you have the <strong>stb.commands.rename.free</strong> permission) - the default is 5 levels, but this is configurable via the <strong>rename_level cost</strong> [Configuration](../SensibleToolbox/configuration.md) item.
 </dl>
 
 /stb rename \<new-name>\
-If you're holding an Ender Leash with a captured animal, this command allows you to rename the captured animal. This comes with a level cost (unless you have the **stb.commands.rename.free** permission) - the default is 5 levels, but this is configurable via the **rename\_level cost** [Configuration](https://dev.bukkit.org/projects/sensible-toolbox/pages/configuration) item.
+If you're holding an Ender Leash with a captured animal, this command allows you to rename the captured animal. This comes with a level cost (unless you have the **stb.commands.rename.free** permission) - the default is 5 levels, but this is configurable via the **rename\_level cost** [Configuration](../SensibleToolbox/configuration.md) item.
 
 ### Adding a Friend
 
