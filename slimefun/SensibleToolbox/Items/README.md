@@ -12,7 +12,7 @@ This is divided into several sections:
 * [Machines (ore processing etc.)](../Items/machines.md)
 
 See also the full item reference:
-* [Full Item Reference](../SensibleToolbox/item-reference.md)
+* [Full Item Reference](../item-reference.md)
 </li></ul>
 
 ## General Information
@@ -41,7 +41,7 @@ Many items and blocks can be configured by right-clicking them to pop up an inve
 
 1. Redstone response button, represented by gunpowder/redstone dust/glowstone dust. Default is for the block to IGNORE any redstone signal affecting it.  You can also set the block to either require a signal (HIGH) or require no signal (LOW) to operate.  This can be useful if you want a machine to only process things when a lever is pulled, for example.  In <em>v0.0.4+</em>, there is also a PULSED mode, which not all blocks support; in this mode, the machine will carry out one operation per redstone pulse detected: an item router will process one item(stack) when a pulse is received, and a processing machine will pull one item into processing.  This could be useful to control item flow via an externally clocked signal, for example.
 
-2. PUBLIC/PRIVATE/RESTRICTED access button, represented by green/red/yellow wool.  Click to cycle between access modes.  When the block is set to PRIVATE access, only the block's owner (the person who placed the block) or someone with the <strong>stb.access.any</strong> permission can access the block's GUI, or insert/extract items. Note that private access does not prevent the block being <em>broken</em> by others - STB doesn't provide any block protection at this time (although it may in future); use a separate plugin such as WorldGuard for that.  In RESTRICTED access mode, only the block's owner and friends of the block's owner can access the block's GUI.  Friends are added/remove with the <code>/stb friend</code> and <code>/stb unfriend</code> [commands](../SensibleToolbox/commands.md)
+2. PUBLIC/PRIVATE/RESTRICTED access button, represented by green/red/yellow wool.  Click to cycle between access modes.  When the block is set to PRIVATE access, only the block's owner (the person who placed the block) or someone with the <strong>stb.access.any</strong> permission can access the block's GUI, or insert/extract items. Note that private access does not prevent the block being <em>broken</em> by others - STB doesn't provide any block protection at this time (although it may in future); use a separate plugin such as WorldGuard for that.  In RESTRICTED access mode, only the block's owner and friends of the block's owner can access the block's GUI.  Friends are added/remove with the <code>/stb friend</code> and <code>/stb unfriend</code> [commands](../commands.md)
 
 3. Machines which can be charged [Energy System](../Items/energy.md) also have a charge indicator, represented by a yellow-coloured leather helmet.
 
