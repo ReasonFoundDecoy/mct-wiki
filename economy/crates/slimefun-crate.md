@@ -28,7 +28,7 @@ Contents are as follows:
 | 16x Mythril                 | 10%    |
 | 16x Magnonium               | 10%    |
 | 16x Adamantite              | 10%    |
-| 64x Reinforced Plate        | 25%    |
+| 8x Reinforced Plate         | 25%    |
 | 64x Hardened Glass          | 25%    |
 | 64x Wither-Proof Obsidian   | 25%    |
 | 64x Wither-Proof Glass      | 25%    |

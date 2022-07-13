@@ -1,6 +1,6 @@
 # Polished Earth-Grinder
 
-![](<../../.gitbook/assets/Pristine Terraformer (1) (1).gif>)
+![](<../../.gitbook/assets/Polished Earth-Grinder.gif>)
 
 {% hint style="info" %}
 You can put this item in a crafting table once to get a Precise Polished Earth-Grinder. Precise Polished Earth-Grinder is the same as a Polished Earth-Grinder except it doesn't have Trench or Smelting.&#x20;

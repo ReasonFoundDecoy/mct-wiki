@@ -1,6 +1,6 @@
 # Pristine Pole
 
-![](<../../.gitbook/assets/Polished Pole.gif>)
+![](<../../.gitbook/assets/Polished Pole (1).gif>)
 
 Pristine Pole is a fishing rod with 7 enchantments: 4 vanilla enchants and 3 AE enchants. It has 1 more enchant than its predecessor, Polished Pole.
 

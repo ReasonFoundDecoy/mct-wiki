@@ -1,6 +1,6 @@
 # Pristine Wings
 
-![](<../../.gitbook/assets/Polished Wings (1).gif>)
+![](<../../.gitbook/assets/Polished Wings (1) (1).gif>)
 
 Pristine Wings is an elytra with 15 enchantments: 3 vanilla enchants and 12 AE enchants. It has 3 more enchants than its predecessor, Polished Wings.
 
