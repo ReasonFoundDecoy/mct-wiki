@@ -4,7 +4,6 @@ STB offers an API to make it easy for other plugins to define their own custom i
 * [API Javadocs](http://desht.github.io/sensibletoolbox/)
 
 As of v0.0.4 the API has settled down somewhat and later versions of STB should (hopefully!) not introduce any API breakage without good warning via deprecation.
-<br><br>
 
 <b>The basic steps to creating an STB-based plugin are:</b>
 
@@ -16,7 +15,6 @@ As of v0.0.4 the API has settled down somewhat and later versions of STB should 
 </li></ol>
 
 The above steps will now be explained in more detail...
-<br><br>
 
 ## Add STB as a Build Dependency
 
@@ -41,7 +39,6 @@ If you build your plugin with Maven (recommended!), just add these lines to your
 I recommend using an explicit `<version>` number there. The current release version at time of writing is 0.0.4.
 
 If you don't use Maven, you'll need to [download the desired version of SensibleToolbox.jar](https://thebusybiscuit.github.io/builds/Slimefun/SensibleToolbox/master/) and manually add it as a build dependency in your IDE.
-<br><br>
 
 ## Add a plugin.yml dependency
 
@@ -64,7 +61,6 @@ This is most complex part. Defining a new STB item or block basically consists o
 </li></ul>
 
 The Javadocs contain a full reference of the methods which must be or may be overridden in your new subclass.
-<br><br>
 
 ## Hooking SensibleToolbox and Registering your Item(s)
 

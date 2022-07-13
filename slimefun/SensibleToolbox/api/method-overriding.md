@@ -13,24 +13,20 @@ The STB item inheritance hierarchy looks like this:
   AbstractIOMachine</pre>
 
   Each subclass adds a few methods, most of which provide default behaviour, but a few of which are abstract and must be implemented by you. All of these methods are detailed in the following section.
-  <br><br>
 
   # BaseSTBItem
 
   ## Abstract Methods
   You must always provide an implementation for the following methods:
-  <br><br>
   
 <table><tbody><tr><th>public String getItemName()</th><td>The custom item's display name (as returned by item.getItemMeta().getDisplayName())</td></tr>
 <tr><th>public String[] getLore()</th><td>The custom item's lore (as returned by item.getItemMeta().getLore()) - this is where you can put some descriptive text about what the item does, for example</td></tr>
 <tr><th>public MaterialData getMaterialData()</th><td>The vanilla material and data used to represent the item in an inventory.  Note this returns a MaterialData, not just a plain Material; this allows for coloured glass/clay etc. to be used.  The <strong>STBUtil.makeColouredMaterial()</strong> utilty method may be handy here.</td></tr>
 <tr><th>public Recipe getRecipe()</th><td>Returns a recipe to make the item.  You can return null here if you don't want the item to be crafted with a vanilla recipe.</td></tr>
 </tbody></table>
-<br>
 
 ## Optional Methods
 You <i>may</i> also implement/override the following methods:
-<br><br>
 
 <table><tbody><tr><th>public String getDisplaySuffix()</th><td>Any string returned here is appended to the item's display name.  You can override this to encode some of the item's state (e.g. paint level in a Paint Brush) in the item's display name</td></tr>
 <tr><th>public String[] getExtraLore()</th><td>Any string array returned here is appened to the item's lore.  This can be used to encode more of the item's state (e.g. items filtered by an Item Router module)</td></tr>
@@ -40,11 +36,9 @@ You <i>may</i> also implement/override the following methods:
 <tr><th>public ItemStack getSmeltingResult()</th><td>If your item can be smelted (in a vanilla furnace, or STB Smelter), override this method to return the item that should be produced as a result.  This method returns null by default.</td></tr>
 <tr><th>public boolean isEnchantable()</th><td>Define whether this item may be enchanted in a vanilla enchanting table.  By default, this method returns true.  If your item uses an enchantable material, but enchanting it doesn't make sense, return false here.</td></tr>
 </tbody></table>
-<br>
 
 ## Event Handler Methods
 The following methods define how items respond to certain events. The default behaviour is generally to ignore the event, but you may override any or all of these:
-<br><br>
 
 <table><tbody><tr><th>public void onInteractItem(PlayerInteractEvent event)</th><td>Called when a player interacts with your item while holding it.</td></tr>
 <tr><th>public void onItemConsume(PlayerItemConsumeEvent event)</th><td>Called when a player attempts to consume your item (which will only happen if your item uses a vanilla material which is consumable, e.g. food, water bottle...)</td></tr>
@@ -52,14 +46,12 @@ The following methods define how items respond to certain events. The default be
 <tr><th>public void onItemHeld(PlayerItemHeldEvent event)</th><td>Called when a player holds shift and rolls the mouse wheel while holding your item.  Note that the held item will never be changed in this case; STB overrides the shift-mouse-wheel to call this event.  It may be useful to configure some numeric or cyclable property of your item.</td></tr>
 <tr><th>public void onBreakBlockWithItem(BlockBreakEvent event)</th><td>Called when a block is broken while holding your item.  Note that is only called when the block will definitely be broken; you must <em>never</em> cancel or otherwise change the outcome of the BlockBreakEvent.</td></tr>
 </tbody></table>
-<br>
 
 # BaseSTBBlock
 
 ## Optional Methods
 <table><tbody><tr><th>public int getTickRate()</th><td>Defines how often the <strong>onServerTick()</strong> method (see below) should be called for this object.  Default is 0, which means never call onServerTick().  If your block should have some periodic behaviour, override this method and onServerTick() to define how frequently it should act.</td></tr>
 </tbody></table>
-<br>
 
 ## Event Handler Methods
 
