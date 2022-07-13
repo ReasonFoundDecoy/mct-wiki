@@ -11,7 +11,7 @@ To install Sensible Toolbox:
 ## Getting Started
 This guide is best used if you have op status, although most of Sensible Toolbox's features are accessible to players by default.
 
-Sensible Toolbox (hereafter referred to as STB) adds a ton of new functionality and this guide should give you a good overview of what to expect.  More detailed information about each item, block and system is included in the [Items](slimefun/SensibleToolbox/Items) section of this site.
+Sensible Toolbox (hereafter referred to as STB) adds a ton of new functionality and this guide should give you a good overview of what to expect.  More detailed information about each item, block and system is included in the [Items](../SensibleToolbox/Items/README.md) section of this site.
 
 ## The Recipe Book
 To get started, get yourself a Recipe Book.  Since STB adds many recipes, this item will make your life very much easier when trying to craft or obtain stuff.  Just get a book and a crafting table, and combine them (shapeless), to get the Recipe Book.  Hold it in your hand, and right-click.
