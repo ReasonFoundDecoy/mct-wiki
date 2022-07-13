@@ -182,7 +182,7 @@
   * [Slimefun Ore Chunks](slimefun/addons/slimefun-ore-chunks.md)
   * [Fluffy Machines](slimefun/addons/fluffy-machines.md)
   * [Sensible Toolbox (STB)](slimefun/SensibleToolbox/README.md)
-    * [Overview](slimefun/SensibleToolbox/sensible-toolbox-stb.md)
+    * [Overview](slimefun/SensibleToolbox/access-control.md)
   * [Infinity Expansion](slimefun/addons/infinity-expansion.md)
   * [Networks](slimefun/addons/networks.md)
   * [SlimeTinker](slimefun/addons/slimetinker.md)
