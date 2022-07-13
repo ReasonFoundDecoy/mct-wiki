@@ -90,6 +90,3 @@
 <tr><td>Watering Can</td><td>wateringcan</td><td>Water Bottle</td><td>R-click to irrigate crops.<br>R-click in water to refill<br>Don't over-use!</td></tr>
 <tr><td>Wooden Combine Hoe</td><td>woodcombinehoe</td><td>Wooden Hoe (glowing)</td><td>Right-click dirt/grass: till 3x3 area<br>Right-click soil: sow 3x3 area<br>Right-click other: open seed bag<br>Left-click plants: harvest 3x3 area<br>Left-click leaves: break 3x3x3 area</td></tr>
 </tbody></table>
-  
-                    
-                </div>
