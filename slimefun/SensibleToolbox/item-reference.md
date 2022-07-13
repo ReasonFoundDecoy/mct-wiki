@@ -1,7 +1,7 @@
 # Item Reference
 <ul><li>The <strong>Item Name</strong> is the tooltip display name of the item when in an inventory
 </li><li>The <strong>Item ID</strong> is the internal, short, name of the item.  This is used in several places:
-<ul><li>The <strong>stb.{action}.{item-id}</strong> <a href="https://dev.bukkit.org/projects/sensible-toolbox/pages/permissions" rel="nofollow">permission</a> nodes
+<ul><li>The <strong>stb.{action}.{item-id}</strong> <a href="https://reasonfounddecoy.gitbook.io/mctantrum-wiki/slimefun/addons/sensibletoolbox/permissions" rel="nofollow">permission</a> nodes
 </li><li>The <strong>items_enabled.{item-id}</strong> <a href="https://reasonfounddecoy.gitbook.io/mctantrum-wiki/slimefun/addons/sensibletoolbox/configuration" rel="nofollow">Configuration</a> settings
 </li><li>The <strong>item_settings.{item-id}...</strong> <a href="https://reasonfounddecoy.gitbook.io/mctantrum-wiki/slimefun/addons/sensibletoolbox/configuration" rel="nofollow">Configuration</a> settings
 </li><li>The <code>/stb show -type {item-id}</code> command
