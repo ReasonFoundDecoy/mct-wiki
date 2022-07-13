@@ -13,12 +13,12 @@
 ### Setting an Item or Block's SCU (energy) Level
 <dl><dt>/stb charge &lt;new-charge-amount&gt;<br></dt>
 
-If you're holding a chargeable item or targeting a chargeable block, this command will let you set its SCU level directly to the given amount, without the need to connect it to an energy net or install an energy cell.  Free energy!  You can't set the charge to less than 0 or greater than the item's max charge (see the item tooltip or charge meter in the block's GUI to get the maximum charge level for the item/block).<br><br>See [Energy](slimefun/SensibleToolbox/Items/energy.md) for more information on how charge, or SCU, works.
+If you're holding a chargeable item or targeting a chargeable block, this command will let you set its SCU level directly to the given amount, without the need to connect it to an energy net or install an energy cell.  Free energy!  You can't set the charge to less than 0 or greater than the item's max charge (see the item tooltip or charge meter in the block's GUI to get the maximum charge level for the item/block).<br><br>See [Energy](../SensibleToolbox/Items/energy.md) for more information on how charge, or SCU, works.
 </dl>
 
 /stb charge \<new-charge-amount>\
-If you're holding a chargeable item or targeting a chargeable block, this command will let you set its SCU level directly to the given amount, without the need to connect it to an energy net or install an energy cell. Free energy! You can't set the charge to less than 0 or greater than the item's max charge (see the item tooltip or charge meter in the block's GUI to get the maximum charge level for the item/block).\
-\
+If you're holding a chargeable item or targeting a chargeable block, this command will let you set its SCU level directly to the given amount, without the need to connect it to an energy net or install an energy cell. Free energy! You can't set the charge to less than 0 or greater than the item's max charge (see the item tooltip or charge meter in the block's GUI to get the maximum charge level for the item/block).
+
 See [Energy](https://dev.bukkit.org/projects/sensible-toolbox/pages/items/energy) for more information on how charge, or SCU, works.
 
 ### Toggling Debugging
