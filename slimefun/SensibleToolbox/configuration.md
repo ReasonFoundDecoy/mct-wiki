@@ -2,7 +2,7 @@
 ## Overview
 
 Sensible Toolbox stores its configuration in <code>plugins/SensibleToolbox/config.yml</code>.
-Use the <code>/stb getcfg</code> and <code>/stb setcfg</code> [commands](../SensibleToolbox/commands.md) to show or modify configuration settings.  Editing the <code>config.yml</code> file while the server is running is not recommended at this time - there is no command to reload it other than a full server restart (a <code>/stb reload</code> command is planned, though).
+Use the <code>/stb getcfg</code> and <code>/stb setcfg</code> <a href="https://reasonfounddecoy.gitbook.io/mctantrum-wiki/slimefun/addons/sensibletoolbox/commands" rel="nofollow">commands</a> to show or modify configuration settings.  Editing the <code>config.yml</code> file while the server is running is not recommended at this time - there is no command to reload it other than a full server restart (a <code>/stb reload</code> command is planned, though).
 
 ## Settings
 The settings are:
