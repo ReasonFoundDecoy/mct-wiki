@@ -1,5 +1,3 @@
-# Sensible Toolbox (STB)
-
 # Access Control
 * Permission-based: each type of item has one permission node, and each type of block has four permission nodes which define the actions that players may take with them.
 
