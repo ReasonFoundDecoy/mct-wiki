@@ -16,9 +16,6 @@
 If you're holding a chargeable item or targeting a chargeable block, this command will let you set its SCU level directly to the given amount, without the need to connect it to an energy net or install an energy cell.  Free energy!  You can't set the charge to less than 0 or greater than the item's max charge (see the item tooltip or charge meter in the block's GUI to get the maximum charge level for the item/block).<br><br>See [Energy](../SensibleToolbox/Items/energy.md) for more information on how charge, or SCU, works.
 </dl>
 
-/stb charge \<new-charge-amount>\
-If you're holding a chargeable item or targeting a chargeable block, this command will let you set its SCU level directly to the given amount, without the need to connect it to an energy net or install an energy cell. Free energy! You can't set the charge to less than 0 or greater than the item's max charge (see the item tooltip or charge meter in the block's GUI to get the maximum charge level for the item/block).
-
 See [Energy](../SensibleToolbox/Items/energy.md) for more information on how charge, or SCU, works.
 
 ### Toggling Debugging
@@ -34,13 +31,6 @@ This command gives STB items directly to you or another player without the need 
 <br>If a player name is specified and that player is online, items will be given to that player instead.
 </dl>
 
-/stb give \<item-id> \[\<amount>] \[\<player-name>]\
-This command gives STB items directly to you or another player without the need to craft them. For a list of valid item ID's, see [Item Reference](../SensibleToolbox/item-reference.md). Note that Tab completion can be very helpful here.\
-\
-If an amount is specified, multiple items can be given.\
-\
-If a player name is specified and that player is online, items will be given to that player instead.
-
 ### Getting a Config Setting
 <dt>/stb getcfg [&lt;item&gt;]<br></dt>
 
@@ -53,17 +43,11 @@ This command lets you view the setting of the given [Configuration](../SensibleT
 This command lets you update the setting of a given [Configuration](../SensibleToolbox/configuration.md) item.
 </dl>
 
-/stb setcfg \<item> \<new-value>\
-This command lets you update the setting of a given [Configuration](../SensibleToolbox/configuration.md) item.
-
 ### Forcing a Save
 <dl><dt>/stb save<br></dt>
 
 This command forces an immediate save to database of all persisted data.  Data is normally saved every 30 seconds (but see the <strong>save_interval</strong> [Configuration](../SensibleToolbox/configuration.md) item), and when the server is stopped or reloaded, but you can use this command to force a save if necessary.
 </dl>
-
-/stb save\
-This command forces an immediate save to database of all persisted data. Data is normally saved every 30 seconds (but see the **save\_interval** [Configuration](../SensibleToolbox/configuration.md) item), and when the server is stopped or reloaded, but you can use this command to force a save if necessary.
 
 ### Displaying Known Blocks
 <dl><dt>/stb show [-w &lt;world-name&gt;] [-type &lt;item-id&gt;] [&lt;location&gt;]<br></dt>
@@ -74,17 +58,7 @@ This command allows listing of all known STB blocks in the world, and/or inspect
 <br>If a location is given (in the form X,Y,Z,WORLD), detailed information for the block at that location will be displayed.  If you are player (rather than on the console), you can also give "." as a location which is taken to mean "the block you are targeting".
 </dl>
 
-/stb show \[-w \<world-name>] \[-type \<item-id>] \[\<location>]\
-This command allows listing of all known STB blocks in the world, and/or inspection of the data stored on that block. The default action if no options are given is to list all known blocks in all worlds with their locations (location in the form X,Y,Z,WORLD)\
-\
-With the -w option, only blocks in the given world will be shown.\
-\
-With the -type option, only blocks of the given type will be shown. See [Item Reference](../SensibleToolbox/item-reference.md) for a list of all item and block types.\
-\
-If a location is given (in the form X,Y,Z,WORLD), detailed information for the block at that location will be displayed. If you are player (rather than on the console), you can also give "." as a location which is taken to mean "the block you are targeting".
-
 ## Player Commands
-
 ### Searching for Recipes
 
 /stb recipe \<string>\
@@ -95,9 +69,6 @@ If you're holding a Recipe Book, this will open the Recipe Book GUI, filtered to
 
 If you're holding an Ender Leash with a captured animal, this command allows you to rename the captured animal.  This comes with a level cost (unless you have the <strong>stb.commands.rename.free</strong> permission) - the default is 5 levels, but this is configurable via the <strong>rename_level cost</strong> [Configuration](../SensibleToolbox/configuration.md) item.
 </dl>
-
-/stb rename \<new-name>\
-If you're holding an Ender Leash with a captured animal, this command allows you to rename the captured animal. This comes with a level cost (unless you have the **stb.commands.rename.free** permission) - the default is 5 levels, but this is configurable via the **rename\_level cost** [Configuration](../SensibleToolbox/configuration.md) item.
 
 ### Adding a Friend
 
