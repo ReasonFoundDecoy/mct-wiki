@@ -4,7 +4,7 @@ Sensible Toolbox has some support for protecting blocks and inventories from gri
 ## Block Protection
 There are several possible methods of block protection, protecting blocks in the world from modification by various STB devices.  STB will make every attempt to honour any protection mechanism in place on the server.
 
-There is a [config](../configuration.md) setting - <strong>block_protection</strong> - to choose the active protection method.  Most methods require an additional plugin to be installed.
+There is a [config](../SensibleToolbox/configuration.md) setting - <strong>block_protection</strong> - to choose the active protection method.  Most methods require an additional plugin to be installed.
 
 <table><tbody><tr><th>Config setting</th><th>Required Plugin</th><th>Notes</th></tr>
 <tr><th>best</th><td><em>varies</em></td><td>Automatically choose the optimal method, depending on what plugin(s) are installed</td></tr>
@@ -17,9 +17,9 @@ There is a [config](../configuration.md) setting - <strong>block_protection</str
 The default setting is <strong>best</strong>: this will use WorldGuard or PreciousStones if either of those plugins are installed, and will fall back to Bukkit event firing otherwise.
 
 ## Inventory Protection
-There are also several methods of inventory protection.  Inventory protection protects vanilla inventory blocks from access by STB blocks such as the [Item Router](../Items/routing.md) and Advanced Recipe Book.  (STB blocks which hold inventories have their own access protection, which can be adjust in the GUI of most STB blocks).
+There are also several methods of inventory protection.  Inventory protection protects vanilla inventory blocks from access by STB blocks such as the [Item Router](../SensibleToolbox/Items/routing.md) and Advanced Recipe Book.  (STB blocks which hold inventories have their own access protection, which can be adjust in the GUI of most STB blocks).
 
-Again, there is a [config](slimefun/SensibleToolbox/configuration.md) setting - <strong>inventory_protection</strong> - to choose the active method:
+Again, there is a [config](../SensibleToolbox/configuration.md) setting - <strong>inventory_protection</strong> - to choose the active method:
 
 <table><tbody><tr><th>Config setting</th><th>Required Plugin</th><th>Notes</th></tr>
 <tr><th>best</th><td><em>varies</em></td><td>Automatically choose the best protection method</td></tr>
