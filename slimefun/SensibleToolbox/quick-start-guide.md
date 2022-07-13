@@ -16,12 +16,12 @@ Sensible Toolbox (hereafter referred to as STB) adds a ton of new functionality 
 ## The Recipe Book
 To get started, get yourself a Recipe Book.  Since STB adds many recipes, this item will make your life very much easier when trying to craft or obtain stuff.  Just get a book and a crafting table, and combine them (shapeless), to get the Recipe Book.  Hold it in your hand, and right-click.
 
-### ![](.gitbook/assets/WIP.png)
+#### ![Recipe Book](../../.gitbook/assets/WIP.png)
 The resulting popup window shows every single craftable item in the game, including furnace recipes.  The bottom row of the GUI window includes several buttons: in the bottom right are buttons to skip to the next and previous pages of recipes.  Bottom left is an indicator showing the recipe page you're on (a typical server will have around 9 pages, but it could be more if you've added other plugins which add recipes), as well as a toggle button to display all recipes, vanilla recipes only, or STB recipes only.
 
 Clicking on a craftable item will switch the book to displaying the recipe window for that item.  There could be multiple recipes for creating an item; in that case you'll see two buttons on the left and right-hand edges for cycling through the recipes.  Bottom right is a button to take you back to the item list.
 
-### ![](.gitbook/assets/WIP2.png)
+#### ![Recipe Book 2](../../.gitbook/assets/WIP.png)
 You can also click on items in the recipe window to drill further down (e.g. when viewing the recipe for a piston, you can click on one of the wood blocks to see how they're made).  In that case, a second button will appear in the bottom right to go back to the previous recipe.  You can drill as far down as you like, which could be many levels for some complex recipes.
 
 ### Recipe Searching

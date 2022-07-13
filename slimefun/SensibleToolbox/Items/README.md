@@ -19,7 +19,7 @@ See also the full item reference:
 ### Label Signs
 If you left-click the side of any STB block with a sign, that sign will be automatically attached to the block and set to display information about the block.  In most cases, that is just the block's name, but some blocks display more information (e.g. a BSU will display the item it's holding and the quantity, Ender Boxes display the configured ender frequency, Paint Cans display their paint colour and paint level, and as of v0.0.4, any chargeable machine will show is charge level as a pretty SCU meter).
 
-### ![](.gitbook/assets/common\WIP.png) Label Signs Image here
+#### ![Label Sign](../../../.gitbook/assets/WIP.png)
 
 Item signs are smart, in that if you break an STB block with one or more attached item signs, the signs will also automatically disappear and not drop as items.  The block remembers which signs are attached to which face, and when you place the block again, the signs will automatically reappear (assuming there is room to place them)!  To remove a sign, just break the sign itself.
 
@@ -36,7 +36,7 @@ Since most vanilla block materials have the same texture on all sides, this can 
 ### Item GUIs
 Many items and blocks can be configured by right-clicking them to pop up an inventory-based GUI.  There are some common controls found on most GUI's:
 
-### ![](.gitbook/assets/common\WIP.png) Smelter GUI Image here
+#### ![Smelter GUI](../../../.gitbook/assets/WIP.png)
 
 
 1. Redstone response button, represented by gunpowder/redstone dust/glowstone dust. Default is for the block to IGNORE any redstone signal affecting it.  You can also set the block to either require a signal (HIGH) or require no signal (LOW) to operate.  This can be useful if you want a machine to only process things when a lever is pulled, for example.  In <em>v0.0.4+</em>, there is also a PULSED mode, which not all blocks support; in this mode, the machine will carry out one operation per redstone pulse detected: an item router will process one item(stack) when a pulse is received, and a processing machine will pull one item into processing.  This could be useful to control item flow via an externally clocked signal, for example.
