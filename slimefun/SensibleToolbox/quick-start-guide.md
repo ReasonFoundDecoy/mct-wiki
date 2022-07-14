@@ -37,4 +37,4 @@ So, for example, you can fill a chest with cobblestone, wood, iron ingots and re
 
 ## Next Steps
 The <a href="https://www.youtube.com/watch?v=2bMbXNfBJwQ" rel="nofollow">video review of v0.0.1 by MusicTechnician</a> is well worth watching.
-After that, have a read of the reference sections for each part of STB: [Items](../SensibleToolbox/Items/README.md)
+After that, have a read of the reference sections for each part of STB: [Items](../Items/README.md)
