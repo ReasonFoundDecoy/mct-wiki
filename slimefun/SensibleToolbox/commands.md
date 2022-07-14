@@ -2,9 +2,9 @@
 
 ## Overview
 
-* The top-level command is `/stb`\
+* The top-level command is `/stb`
 
-* All commands are subcommands of `/stb`, e.g. `/stb getcfg`\
+* All commands are subcommands of `/stb`, e.g. `/stb getcfg`
 
 * Tab-completion is comprehensively supported - press Tab at any time during typing a command, and STB will attempt to complete the command or argument for you.
 
@@ -80,4 +80,4 @@ Use this command to add a player as a friend. Players who you trust as friends c
 ### Removing a Friend
 
 /stb unfriend \<player-name-or-id>\
-Use this command to remove a player as a friend. That player will no longer be able to access any of your Restricted mode STB blocks. The same syntax applies as for the `/stb friend` command.\
+Use this command to remove a player as a friend. That player will no longer be able to access any of your Restricted mode STB blocks. The same syntax applies as for the `/stb friend` command.

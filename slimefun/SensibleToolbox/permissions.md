@@ -22,10 +22,10 @@ STB will work with any superperms-supporting permissions plugin.  The following 
 <tr><td>stb.recipebook.freefab</td><td>Allows free fabrication of items via the recipe book</td><td>op</td></tr>
 </tbody></table>
 
-For full documentation of what each command does, see <a href="https://reasonfounddecoy.gitbook.io/mctantrum-wiki/slimefun/addons/sensibletoolbox/commands" rel="nofollow">Commands</a>.
+For full documentation of what each command does, see [Commands](../SensibleToolbox/commands.md).
 
 ## Item-Specific Nodes
-These nodes exists for every known item ID - see <a href="https://reasonfounddecoy.gitbook.io/mctantrum-wiki/slimefun/addons/sensibletoolbox/item-reference" rel="nofollow">Item Reference</a> for a full list of item IDs.
+These nodes exists for every known item ID - see [Item Reference](../SensibleToolbox/item-reference.md) for a full list of item IDs.
 
 <table><tbody><tr><th>Node</th><th>Description</th><th>Default</th></tr>
 <tr><td>stb.interact.{item-id}</td><td>Allows an item to be used (left- or right-clicking with the item in hand)</td><td>true</td></tr>
