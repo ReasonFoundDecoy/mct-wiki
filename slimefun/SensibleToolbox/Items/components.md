@@ -74,7 +74,7 @@ Energized Quartz' only use at the moment is for Crafting the Electrical Energize
 
 ![quartz-dust](../../../.gitbook/assets/WIP.png)
 
-This is made by grinding ordinary Nether Quartz in a [Masher](slimefun/SensibleToolbox/Items/machines.md).
+This is made by grinding ordinary Nether Quartz in a [Masher](../Items/machines.md).
 
 ### Silicon Wafer
 

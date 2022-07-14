@@ -7,7 +7,7 @@ This page is a work in progress. Information may not be accurate.
 #### ![enderstorage](../../../.gitbook/assets/WIP.png)
 Sensible Toolbox features a sophisticated Ender Storage system that is a huge improvement over the basic vanilla Ender Chest:
 * Storage frequencies: up to 1000 separate personal (per-player) inventories, plus a further 1000 global (common to all players) inventories.
-* Ender Box: looks like a vanilla Ender Chest, but can have its frequency tuned with the Ender Tuner.  The Ender Box can also be interacted with via an [item router](slimefun/SensibleToolbox/Items/routing.md).
+* Ender Box: looks like a vanilla Ender Chest, but can have its frequency tuned with the Ender Tuner.  The Ender Box can also be interacted with via an [item router](../Items/routing.md).
 * Ender Bag: basically a portable Ender Box, allowing access to inventories on the go.  Ender Bags can also be tuned with the Ender Tuner, or linked to an Ender Box by shift-right-clicking one with the Ender Bag in hand.  (The Ender Bag replaces the Bag of Holding from v0.0.1 alpha; if you have one of these in your inventory, you can place it in a crafting grid to get an Ender Bag).
 * Ender Tuner: this tool is used to tune the frequency and scope (global or personal) of Ender Boxes and Ender Bags.
 
@@ -31,11 +31,11 @@ To change the ender frequency or scope of a bag, use the Ender Tuner tool, descr
 #### ![enderbox-recipe](../../../.gitbook/assets/WIP.png)
 The Ender Box behaves (and looks) rather like a vanilla Ender Chest, but provides a 54-slot inventory and uses the same frequencies/inventories as the Ender Bag.
 
-It is also possible to interact with an Ender Box via the [item router](slimefun/SensibleToolbox/Items/routing.md) (but not with a vanilla hopper); this allows for some powerful functionality if you carry an Ender Bag on the same frequency with you - if you have an item router configured to pull items out of the box and into storage in your base, you can place items in the bag at any distance from your base and instantaneously "send them home".  When an item router tries to interact with an Ender Box on a personal frequency, the owner of the item router is used to determine whose ender inventory will be accessed.
+It is also possible to interact with an Ender Box via the [item router](../Items/routing.md) (but not with a vanilla hopper); this allows for some powerful functionality if you carry an Ender Bag on the same frequency with you - if you have an item router configured to pull items out of the box and into storage in your base, you can place items in the bag at any distance from your base and instantaneously "send them home".  When an item router tries to interact with an Ender Box on a personal frequency, the owner of the item router is used to determine whose ender inventory will be accessed.
 
 To change the ender frequency or scope of a box, use the Ender Tuner tool described below.
 
-It is useful to place a [label sign](slimefun/SensibleToolbox/Items) on Ender Boxes; this will distinguish them from vanilla ender chests, as well as displaying the box's current ender frequency and scope.
+It is useful to place a [label sign](../Items/README.md) on Ender Boxes; this will distinguish them from vanilla ender chests, as well as displaying the box's current ender frequency and scope.
 
 ## Ender Tuner
 #### ![endertuner-recipe](../../../.gitbook/assets/WIP2.png)

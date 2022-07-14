@@ -6,7 +6,7 @@ This page is a work in progress. Information may not be accurate.
 ## Overview
 #### ![energy-net-example](../../../.gitbook/assets/WIP.png)
 Some STB items and blocks require energy to operate; units of this energy are called <em>SCU</em> - Sensible Charge Units.  There are a couple of ways of charging an item or block:
-* Chargeable blocks usually have a slot for an [energy cell](slimefun/SensibleToolbox/Items) in their GUI; you can install a cell into the block to charge it.  Note that blocks usually also have a Charge Direction button next to the cell slot; make sure this is configured to send charge in the right direction.
+* Chargeable blocks usually have a slot for an [energy cell](https://reasonfounddecoy.gitbook.io/mctantrum-wiki/slimefun/addons/sensibletoolbox/items/energy#energy-cells) in their GUI; you can install a cell into the block to charge it.  Note that blocks usually also have a Charge Direction button next to the cell slot; make sure this is configured to send charge in the right direction.
 * Chargeable blocks can also be connected via <em>cables</em> to other blocks; some blocks supply charge (e.g. Heat Generator, Basic Solar Cell), some blocks demand charge (Smelter, Masher...), and some blocks can both supply <em>and</em> demand charge (Battery Box).
 * An energy cell can be used to charge certain items: with the item you want to charge in your hotbar, and the energy cell in your hand, press and hold the right mouse button, and charge will transfer from the cell to the item.
 
@@ -29,7 +29,7 @@ This basic energy cell can store up to 10,000 SCU, and can transfer its charge a
 
 ### 50K Energy Cell
 #### ![recipe-50k-cell](../../../.gitbook/assets/WIP.png)
-This second-tier energy cell can store up to 50,000 SCU, and can transfer its charge at a maximum of 500 SCU/tick.  Note that (as of v0.0.4) it requires [Energized Iron Ingots](slimefun/SensibleToolbox/Items/components.md) to craft.
+This second-tier energy cell can store up to 50,000 SCU, and can transfer its charge at a maximum of 500 SCU/tick.  Note that (as of v0.0.4) it requires [Energized Iron Ingots](../Items/components.md) to craft.
 
 ## Battery Boxes
 ### 10K Battery Box
@@ -68,7 +68,7 @@ Notes:
 * Coal blocks are slightly (3.7%) more efficient than the 9 lumps of coal used to create them (the SCU/tick is the same, but they burn a little longer).
 * The Heat Engine has an internal storage cell of 5000 SCU, and can transfer its charge at a maximum of 50 SCU/tick.
 * If the Heat Engine's internal cell is more than 75% full, the engine's burn rate is progressively reduced to conserve fuel.
-* If you install a [Regulator Upgrade](slimefun/SensibleToolbox/Items/machines.md) in a Heat Engine, it will only start burning a fuel item if there is definitely enough room in its internal SCU buffer to store the SCU that would be generated; this can save a lot of fuel in the long run.
+* If you install a [Regulator Upgrade](../Items/machines.md) in a Heat Engine, it will only start burning a fuel item if there is definitely enough room in its internal SCU buffer to store the SCU that would be generated; this can save a lot of fuel in the long run.
 
 ### Bio Engine
 #### ![recipe-bio-engine](../../../.gitbook/assets/WIP2.png)
@@ -113,7 +113,7 @@ This generator produces a steady trickle of up to only 0.5 SCU/tick.  It has an 
 
 ### Dense Solar
 #### ![recipe-dense-solar](../../../.gitbook/assets/WIP.png)
-Eight Basic Solars and an [Integrated Circuit](slimefun/SensibleToolbox/Items/components.md) are required to craft.
+Eight Basic Solars and an [Integrated Circuit](../Items/components.md) are required to craft.
 
 This tier 2 generator produces a steady trickle of up to 4.0 SCU/tick.  It has an internal storage cell of 240 SCU, and can transfer energy at a maximum of 12 SCU/tick.  <em>Added in v0.0.4</em>
 
@@ -131,16 +131,16 @@ Solars require sunlight to run on.  There needs to be clear view of the sky (gla
 As of v0.0.4, Solars require a PV cell to be installed, which must be crafted separately:
 
 #### ![recipe-pv-cell](../../../.gitbook/assets/WIP2.png)
-Note that a [Silicon Wafer](slimefun/SensibleToolbox/Items/components.md) is required to craft.
+Note that a [Silicon Wafer](../Items/components.md) is required to craft.
 
 A PV cell is fairly long-lived: it provides 180 (real) minutes of power generation (note that PV cell lifetime is only consumed when power is actively being generated).  Once its lifetime is over, a new PV cell must be crafted.
 
-It should be noted that [Item Routers](slimefun/SensibleToolbox/Items/routing.md) can be used to insert and extract PV cells to/from the Solar, adding automation possibilities...
+It should be noted that [Item Routers](../Items/routing.md) can be used to insert and extract PV cells to/from the Solar, adding automation possibilities...
 
 ## Consumers
 There are several different types of charge consumer, and they are documented on their own pages:
-* See [Machines](slimefun/SensibleToolbox/Items/machines.md) for a list of the different processing machines
-* See [Items/Storage](slimefun/SensibleToolbox/Items/storage.md) for a description of the HSU (HyperStorage Unit), which needs a small amount of energy to operate
+* See [Machines](../Items/machines.md) for a list of the different processing machines
+* See [Items/Storage](../Items/storage.md) for a description of the HSU (HyperStorage Unit), which needs a small amount of energy to operate
 
 ## Utilities
 ### Power Monitor

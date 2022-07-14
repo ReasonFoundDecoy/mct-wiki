@@ -7,10 +7,10 @@ This page is a work in progress. Information may not be accurate.
 The Multibuilder is a powerful dual-purpose tool which takes a lot of the tedium out of large-scale construction (at least when you don't have access to creative mode or plugins like WorldEdit!)
 
 #### ![recipe-multibuilder](../../../.gitbook/assets/WIP.png)
-<i>Note that as of v0.0.3, the Multibuilder requires an [Integrated Circuit](slimefun/SensibleToolbox/Items/components.md) to craft.</i>
+<i>Note that as of v0.0.3, the Multibuilder requires an [Integrated Circuit](../Items/components.md) to craft.</i>
 
 The Multibuilder has two modes <strong>Build</strong> and <strong>Swap</strong>; to switch between them, hold Shift and roll the mouse wheel.
-The Multibuilder requires [power](slimefun/SensibleToolbox/Items/energy.md) to operate.  A newly-crafted Multibuilder has no charge - to charge it, get a charged Energy Cell, and with the Multibuilder on your hotbar, hold the Energy Cell in your hand and press & hold the right mouse button.  The Multibuilder will slowly charge up (you don't need to charge it to full to use it).
+The Multibuilder requires [power](../Items/energy.md) to operate.  A newly-crafted Multibuilder has no charge - to charge it, get a charged Energy Cell, and with the Multibuilder on your hotbar, hold the Energy Cell in your hand and press & hold the right mouse button.  The Multibuilder will slowly charge up (you don't need to charge it to full to use it).
 
 <i>A future release of STB will add a Charging Station where chargeable items can be inserted and left to charge unattended</i>
 
@@ -41,7 +41,7 @@ Here, this stone brick wall is being swapped for a wood plank wall.
 You must have sufficient power in the tool and sufficient materials in your inventory.
 
 ### <u>Power Consumption</u>
-The Multibuilder requires a base 30 SCU per block placed or swapped, but this can be modified with the <strong>multibuilder.charge_per_op</strong> [Configuration](slimefun/SensibleToolbox/configuration.md) setting.
+The Multibuilder requires a base 30 SCU per block placed or swapped, but this can be modified with the <strong>multibuilder.charge_per_op</strong> [Configuration](../configuration.md) setting.
 
 ### <u>Enchantments</u>
 The Multibuilder can be enchanted, and the following enchantments have useful effects:
@@ -76,10 +76,10 @@ The Auto Builder GUI:
 Some other important things to note:
 * The Auto Builder has a max charge of 20,000 SCU and a max transfer rate of 50 SCU/t.
 * It will place or break up to one block per tick.
-* Placing a block costs 30 SCU (configurable: see the <strong>item_settings.autobuild.scu_per_op</strong> [Configuration](slimefun/SensibleToolbox/configuration.md) setting).
+* Placing a block costs 30 SCU (configurable: see the <strong>item_settings.autobuild.scu_per_op</strong> [Configuration](../configuration.md) setting).
 * Breaking a block has a variable cost: 30 SCU multiplied by the block's hardness.  The hardness for blocks [can found here](https://minecraft.fandom.com/wiki/Breaking#Blocks_by_hardness).  As an example, breaking a dirt block costs only 15 SCU, but breaking an obsidian block costs a whopping 1500 SCU!  Blocks such as bedrock and ender portal blocks cannot be broken by the Auto Builder.
 * If the Auto Builder runs out of inventory in a placing mode, you can add new blocks and press the Start button to resume from the same place.
-* The Auto Builder will respect any block protection: see [Protection](slimefun/SensibleToolbox/protection.md) for more information.
+* The Auto Builder will respect any block protection: see [Protection](../protection.md) for more information.
 * The Auto Builder must be placed outside the build area, but not more than 5 blocks from the closest edge of the build area.
 
 ### Land Markers

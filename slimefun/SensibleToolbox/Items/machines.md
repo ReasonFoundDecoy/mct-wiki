@@ -8,11 +8,11 @@ This page is a work in progress. Information may not be accurate.
 
 ### Overview
 
-Most machines require [energy](slimefun/SensibleToolbox/Items/energy.md), in the form of SCU to run. Machines tend to have a fairly standard look and feel to the GUI. This is an example of a Smelter GUI, currently processing some iron dust into iron ingots. (Iron dust is an STB item made by processing iron ore in the Masher).
+Most machines require [energy](../Items/energy.md), in the form of SCU to run. Machines tend to have a fairly standard look and feel to the GUI. This is an example of a Smelter GUI, currently processing some iron dust into iron ingots. (Iron dust is an STB item made by processing iron ore in the Masher).
 
 ![machine-gui](../../../.gitbook/assets/WIP.png)
 
-1. Input slot: you can place items here manually, or move them in with an [Item Router](slimefun/SensibleToolbox/Items/routing.md).
+1. Input slot: you can place items here manually, or move them in with an [Item Router](../Items/routing.md).
 2. Processing indicator: this shows the item being processed and a progress indicator above it (the icon used for the progress indicator depends on the machine)
 3. Output slot: finished items go here and can be extracted manually, with an Ejector Upgrade (see below), or with an Item Router.
 4. These are the usual Redstone, Public/Private and Charge Meter slots found in most blocks and machines.
@@ -124,7 +124,7 @@ You can install multiple speed upgrades in a machine; each upgrade increases the
 
 If you install an ejector upgrade, the machine will automatically eject finished items. You must configure an ejector upgrade's direction first; to do this, left-click any block face with the ejector in hand. E.g. clicking the bottom face of a ceiling block _above_ you will configure the ejector to eject items to the inventory _above_. If there isn't an inventory in the configured direction, items will be ejected onto the floor. You can also right-click the Ejector Upgrade while holding it to open a GUI where the direction can be configured. Use whichever method is most convenient.
 
-Note: an [Item Router](slimefun/SensibleToolbox/Items/routing.md) is another way of pulling finished items from a machine; use whichever method is most suitable for the task in hand.
+Note: an [Item Router](../Items/routing.md) is another way of pulling finished items from a machine; use whichever method is most suitable for the task in hand.
 
 ### Regulator Upgrade
 
@@ -132,14 +132,14 @@ Note: an [Item Router](slimefun/SensibleToolbox/Items/routing.md) is another way
 
 Regulator upgrades are somewhat expensive to craft, but provide efficiency improvements that are very worthwhile in the long run. Regulators behave differently depending on what they're inserted into:
 
-* A Regulator Upgrade in a [Heat Engine](slimefun/SensibleToolbox/Items/energy.md) will ensure that fuel is only pulled into the burner if there is definitely enough space to store the resulting SCU. E.g. if there is coal (1800 SCU) in the input slot, it will not be pulled into the burner if the Heat Engine's internal charge is over 3200 SCU (since its maximum storage is 5000 SCU). This can greatly improve fuel efficiency.
+* A Regulator Upgrade in a [Heat Engine](../Items/energy.md) will ensure that fuel is only pulled into the burner if there is definitely enough space to store the resulting SCU. E.g. if there is coal (1800 SCU) in the input slot, it will not be pulled into the burner if the Heat Engine's internal charge is over 3200 SCU (since its maximum storage is 5000 SCU). This can greatly improve fuel efficiency.
 * A Regulator Upgrade in any machine (smelter, masher, sawmill...) will slightly mitigate the inefficiency introduced by adding Speed Upgrades; each upgrade will reduce the power multiplier by 0.1. For example, two Speed Upgrades cause a power multiplier of 2.56, but adding three Regulator Upgrades reduces this to 2.26. Regulator Upgrades will not reduce the power multiplier below 1.0, so are only useful in conjunction with Speed Upgrades.
 
 ### Thoroughness Upgrade
 
 ![recipe-thoroughness](../../../.gitbook/assets/WIP.png)
 
-Thoroughness Upgrades require a tier 2 [Integrated Circuit](slimefun/SensibleToolbox/Items/components.md) to craft. A Thoroughness Upgrade slows a machine down (speed x 0.7) and increases its power consumption (SCU x 1.6). So what's the point? Each upgrade adds a small chance (+8%) for output boosting!
+Thoroughness Upgrades require a tier 2 [Integrated Circuit](../Items/components.md) to craft. A Thoroughness Upgrade slows a machine down (speed x 0.7) and increases its power consumption (SCU x 1.6). So what's the point? Each upgrade adds a small chance (+8%) for output boosting!
 
 | Upgrades | Processing Speed | Processing Time | Power Requirement |
 | -------- | ---------------- | --------------- | ----------------- |

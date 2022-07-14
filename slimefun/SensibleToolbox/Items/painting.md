@@ -28,9 +28,9 @@ To mix some paint, place a paint can down, and right-click it:
 Other notes:
 * The paint can can hold up to 200 paint.
 * If there is already paint in the can, and you mix new paint which can combine with the existing paint, it will be mixed.  E.g. blue paint and red paint will make purple paint.  If the colours don't combine, the old paint will be discarded.
-* 25 paint is made per dye used, which makes this a very efficient way of colouring things.  That value is configurable via the <strong>paint_per_dye</strong> [Configuration](slimefun/SensibleToolbox/configuration.md) setting.
+* 25 paint is made per dye used, which makes this a very efficient way of colouring things.  That value is configurable via the <strong>paint_per_dye</strong> [Configuration](../configuration.md) setting.
 * Paint cans will keep their paint if broken and placed elsewhere.
-* [Label signs](slimefun/SensibleToolbox/Items/README.md) are really useful to keep track of how much paint is in a can.
+* [Label signs](../Items/README.md) are really useful to keep track of how much paint is in a can.
 
 ## Paint Brush
 #### ![recipe-paint-brush](../../../.gitbook/assets/WIP.png)

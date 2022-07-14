@@ -15,7 +15,7 @@ The sleep time is used to "dampen" the updates - after a pulse, the block will i
 ## Elevator
 #### ![Elevator](../../../.gitbook/assets/WIP2.png)
 This useful item allows quick and easy vertical travel in both directions.  Place elevator blocks directly above other elevator blocks with clear space in between (it is OK to put "passable" blocks like carpets on top of an elevator).  Then, while standing on an elevator, press Space to warp up to the next elevator above, and Shift to warp down to the next elevator below.
-Elevators can be coloured by right-clicking them with a dye or an STB [Paint Brush](slimefun/SensibleToolbox/Items/painting.md); only elevators of the same colour can be warped between.
+Elevators can be coloured by right-clicking them with a dye or an STB [Paint Brush](../Items/painting.md); only elevators of the same colour can be warped between.
 
 ## Ender Leash
 #### ![Ender Leash](../../../.gitbook/assets/WIP.png)
@@ -24,7 +24,7 @@ Special data on the animal (e.g. sheep colour, horse colour/style, animal names)
 
 ## Recipe Book
 #### ![Recipe Book](../../../.gitbook/assets/WIP2.png)
-See the [Quick Start Guide](slimefun/SensibleToolbox/quick-start-guide.md) for a detailed description of the recipe book.
+See the [Quick Start Guide](../quick-start-guide.md) for a detailed description of the recipe book.
 
 ## Redstone Clock
 #### ![Redstone Clock](../../../.gitbook/assets/WIP.png)
@@ -43,4 +43,4 @@ This item allows for easy measurement of the distance between two blocks.  Shift
 
 ## Trash Can
 #### ![Trash Can](../../../.gitbook/assets/WIP2.png)
-This item is a convenient way to destroy items without the need for a dangerous lava pool or cactus plant.  It's also possible to pipe items into it with a hopper or STB [Item Router](slimefun/SensibleToolbox/Items/routing.md).  Any items which enter it will be lost forever!
+This item is a convenient way to destroy items without the need for a dangerous lava pool or cactus plant.  It's also possible to pipe items into it with a hopper or STB [Item Router](../Items/routing.md).  Any items which enter it will be lost forever!

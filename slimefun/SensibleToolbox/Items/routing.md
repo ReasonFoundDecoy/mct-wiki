@@ -79,7 +79,7 @@ This more powerful (and expensive!) version of the Sender Module can send items 
 
 This even more powerful (and yes, expensive) version of the Sender Module can send items wirelessly to any other Item Router with an installed Receiver module with no line of sight or distance limitation at all.  It can even send items across worlds!  The Hypersender is configured in the same way as the Advanced Sender; left-click on an Item Router with an installed Receiver module. 
 
-Crafting the Hypersender Module requires an Advanced Sender Module, plus two Energized [Gold Ingots](slimefun/SensibleToolbox/Items/components.md) and an [Integrated Circuit](slimefun/SensibleToolbox/Items/components.md).
+Crafting the Hypersender Module requires an Advanced Sender Module, plus two [Energized Gold Ingots](../Items/components.md) and an [Integrated Circuit](../Items/components.md).
 
 ### <u>Distributor Module</u>
 #### ![recipe-distributor-module](../../../.gitbook/assets/WIP.png)
