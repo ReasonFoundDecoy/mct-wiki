@@ -97,7 +97,7 @@ The InstaCure item will sober you instantly. This item will be made more widely 
 
 ## Recipes
 
-The following document shows the exact ingredients and recipe required for each possible brew. Please keep in mind that Brewery is no longer compatible with Exotic Garden, so any recipes containing an Exotic Garden item cannot be brewed anymore.
+The following document shows the exact ingredients and recipe required for each possible brew.
 
 Note that there are 2 sheets at the bottom of the spreadsheet, 1 for Brewery recipes, and 1 for MCTantrum (custom made) brews.
 

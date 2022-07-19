@@ -4,7 +4,7 @@ The frequency of events typically depends on the amount of players, especially n
 
 Occasionally we will have surprise events but mostly they are scheduled and announced via discord and in game.
 
-XP parties and Money parties are help at the Event Hub. You can get there by warping or walking south at spawn.
+XP parties and Money parties are held at the Event Hub. You can get there by warping or walking south at spawn.
 
 ## XP Party
 
