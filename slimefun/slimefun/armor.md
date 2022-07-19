@@ -32,7 +32,7 @@
 
 **Description:** A pair of iron boots that gives Protection V and Unbreaking V
 
-### ![](../../.gitbook/assets/reinforced\_helmet.gif) Reinforced Helmet
+### ![](<../../.gitbook/assets/reinforced\_helmet (1).gif>) Reinforced Helmet
 
 **XP Cost:** 26 Levels
 
@@ -40,7 +40,7 @@
 
 **Description:** An iron helmet that gives Protection IX and Unbreaking IX
 
-### ![](<../../.gitbook/assets/reinforced\_chestplate (1).gif>) Reinforced Chestplate
+### ![](<../../.gitbook/assets/reinforced\_chestplate (1) (1).gif>) Reinforced Chestplate
 
 **XP Cost:** 26 Levels
 
@@ -48,7 +48,7 @@
 
 **Description:** An iron chestplate that gives Protection IX and Unbreaking IX
 
-### ![](<../../.gitbook/assets/reinforced\_leggings (1).gif>) Reinforced Leggings
+### ![](<../../.gitbook/assets/reinforced\_leggings (1) (1).gif>) Reinforced Leggings
 
 **XP Cost:** 26 Levels
 
@@ -56,7 +56,7 @@
 
 **Description:** A pair of iron leggings that gives Protection IX and Unbreaking IX
 
-### ![](../../.gitbook/assets/reinforced\_boots.gif) Reinforced Boots
+### ![](<../../.gitbook/assets/reinforced\_boots (1).gif>) Reinforced Boots
 
 **XP Cost:** 26 Levels
 
@@ -128,7 +128,7 @@
 
 **Description:** A pair of chainmail boots
 
-### ![](<../../.gitbook/assets/gilded\_iron\_helmet (1).gif>) Gilded Iron Helmet
+### ![](<../../.gitbook/assets/gilded\_iron\_helmet (1) (1).gif>) Gilded Iron Helmet
 
 **XP Cost:** 16 Levels
 
@@ -144,7 +144,7 @@
 
 **Description:** An iron helmet that gives Protection VIII and Unbreaking VI
 
-### ![](<../../.gitbook/assets/gilded\_iron\_leggings (1).gif>) Gilded Iron Leggings
+### ![](<../../.gitbook/assets/gilded\_iron\_leggings (1) (1).gif>) Gilded Iron Leggings
 
 **XP Cost:** 16 Levels
 
@@ -152,7 +152,7 @@
 
 **Description:** A pair of iron leggings that gives Protection VIII and Unbreaking VI
 
-### ![](<../../.gitbook/assets/gilded\_iron\_boots (1).gif>) Gilded Iron Boots
+### ![](<../../.gitbook/assets/gilded\_iron\_boots (1) (1).gif>) Gilded Iron Boots
 
 **XP Cost:** 16 Levels
 
@@ -192,7 +192,7 @@
 
 **Description:** A pair of leather boots. Full set effects: Radiation immunity and Bee sting protection
 
-### ![](../../.gitbook/assets/gilded\_iron\_helmet.gif) Golden Helmet (12-Carat)
+### ![](<../../.gitbook/assets/gilded\_iron\_helmet (1).gif>) Golden Helmet (12-Carat)
 
 **XP Cost:** 13 Levels
 
@@ -208,7 +208,7 @@
 
 **Description:** A gold chestplate that gives Unbreaking X.
 
-### ![](../../.gitbook/assets/gilded\_iron\_leggings.gif) Golden Leggings (12-Carat)
+### ![](<../../.gitbook/assets/gilded\_iron\_leggings (1).gif>) Golden Leggings (12-Carat)
 
 **XP Cost:** 13 Levels
 
@@ -216,7 +216,7 @@
 
 **Description:** A pair of gold leggings that gives Unbreaking X.
 
-### ![](../../.gitbook/assets/gilded\_iron\_boots.gif) Golden Boots (12-Carat)
+### ![](<../../.gitbook/assets/gilded\_iron\_boots (1).gif>) Golden Boots (12-Carat)
 
 **XP Cost:** 13 Levels
 

@@ -1,6 +1,6 @@
 # Tantrum Bow
 
-![](<../../.gitbook/assets/Polished Longbow.gif>)
+![](<../../.gitbook/assets/Polished Longbow (2).gif>)
 
 Tantrum bow is a bow with 9 enchantments: 5 vanilla enchants and 4 AE enchants.
 

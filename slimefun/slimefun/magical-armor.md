@@ -96,7 +96,7 @@
 
 **Description:** Shining like the sun. When wearing any piece of the Glowstone Set, you gain Night Vision I.
 
-### ![](<../../.gitbook/assets/reinforced\_helmet (1).gif>) Slime Helmet
+### ![](<../../.gitbook/assets/reinforced\_helmet (1) (1).gif>) Slime Helmet
 
 **XP Cost:** 27 Levels
 
@@ -104,7 +104,7 @@
 
 **Description:** Bouncy feeling. An iron helmet that gives Protection II, Unbreaking IV, and is Reinforced.
 
-### ![](../../.gitbook/assets/reinforced\_chestplate.gif) Slime Chestplate
+### ![](<../../.gitbook/assets/reinforced\_chestplate (1).gif>) Slime Chestplate
 
 **XP Cost:** 27 Levels
 
@@ -112,7 +112,7 @@
 
 **Description:** Bouncy feeling. An iron chestplate that gives Protection II, Unbreaking IV, and is Reinforced.
 
-### ![](../../.gitbook/assets/reinforced\_leggings.gif) Slime Leggings
+### ![](<../../.gitbook/assets/reinforced\_leggings (1).gif>) Slime Leggings
 
 **XP Cost:** 27 Levels
 
@@ -120,7 +120,7 @@
 
 **Description:** Bouncy feeling. A pair of iron leggings that give Protection II, Unbreaking IV, and is Reinforced. When wearing, you gain Speed III.
 
-### ![](<../../.gitbook/assets/reinforced\_boots (1).gif>) Slime Boots
+### ![](<../../.gitbook/assets/reinforced\_boots (1) (1).gif>) Slime Boots
 
 **XP Cost:** 27 Levels
 

@@ -32,4 +32,4 @@ Made by fusing a Neptune's Bounty with a Pristine Gladius and adding more enchan
 
 ![](../../../.gitbook/assets/neptunes\_bounty.png)
 
-![](<../../../.gitbook/assets/azgos sword (1) (1) (1).png>)
+![](<../../../.gitbook/assets/azgos sword (1) (1) (1) (1).png>)

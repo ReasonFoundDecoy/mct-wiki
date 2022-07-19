@@ -1,6 +1,6 @@
 # Polished Wings
 
-![](<../../.gitbook/assets/Polished Wings.gif>)
+![](<../../.gitbook/assets/Polished Wings (1).gif>)
 
 Polished Wings is an elytra with 12 enchantments: 3 vanilla enchants and 9 AE enchants. It has 2 more enchants than its predecessor, Tantrum Wings.
 
