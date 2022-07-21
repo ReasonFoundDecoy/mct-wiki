@@ -20,6 +20,8 @@
     * [Axes](general/server-resource-pack/calamity/axes.md)
     * [Pickaxes](general/server-resource-pack/calamity/pickaxes.md)
     * [Fishing Rods](general/server-resource-pack/calamity/fishing-rods.md)
+    * [Bows](general/server-resource-pack/calamity/bows.md)
+    * [Crossbows](general/server-resource-pack/calamity/crossbows.md)
   * [Pokemon](general/server-resource-pack/pokemon.md)
   * [Slimefun Textures](general/server-resource-pack/slimefun-textures.md)
 * [Commands](general/commands/README.md)
