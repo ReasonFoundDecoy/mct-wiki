@@ -22,3 +22,7 @@ Contents are as follows:
 * 16x Squid Spawn Egg
 * 16x Phantom Spawn Egg
 * 16x Glow Squid Spawn Egg
+* 16x Shulker Spawn Egg
+* 2x Axolotl Spawn Egg
+* 1x Allay Spawn Egg
+* 1x Frog Spawn Egg

@@ -39,5 +39,6 @@
 * You can sit on all slabs and stairs by right-clicking them.
 * You start off with 100 claim blocks and earn 100 more per hour of playtime.
 * It is good practice to name your tools, armor, or special items if they have default names. This is because clearlagg will **not** clear items with custom names.
+* Press `F3 + H` to see advanced tooltips like technical item name and amount of NBT tags.
 
 </details>

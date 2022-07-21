@@ -6,7 +6,9 @@ description: Enchants are not removeable from these items.
 
 ## Upgrading from Tier 2 to Tier 3
 
-All Tier 2 items can be upgraded to their Tier 3 Pristine form as long as they haven't been altered in any way. To upgrade, warp to Info Island and meet the 3 blacksmiths that reside in the center. The Armorer, Weaponsmith, and Toolsmith each have their own quests pertaining to the item being upgraded. You'll need your unaltered Polished item and a Pristine Token to upgrade. Pristine Tokens can be purchased from the server shop for $20,000,000.
+All Tier 2 items can be upgraded to their Tier 3 Pristine form as long as they haven't been altered in any way. To upgrade, warp to Info Island and meet the 4 blacksmiths that reside in the center. The Armorer, Weaponsmith, and Toolsmith each have their own quests pertaining to the item being upgraded. You'll need your unaltered Polished item and a Pristine Token to upgrade. Pristine Tokens can be purchased from the server shop for $20,000,000.
+
+Polished Recurve Crossbow --> Pristine Compound Crossbow has its own NPC: Crossbow Guy.
 
 {% hint style="danger" %}
 <mark style="color:red;">**USE CAUTION**</mark> when dealing with these NPCs. Do not click on a quest they're offering if you are not absolutely 100% ready to take it. These NPCs **WILL** take your corresponding Tier 3 item and/or Pristine Token that you're carrying. Canceling the quest will not return your item(s), they will be gone forever.&#x20;

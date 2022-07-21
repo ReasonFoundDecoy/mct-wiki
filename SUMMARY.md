@@ -73,6 +73,7 @@
   * [Bobby the Rat](tantrum-gear-progression/tier-1-tantrum/bobby-the-rat.md)
   * [Tantrum Blade](tantrum-gear-progression/tier-1-tantrum/tantrum-blade.md)
   * [Tantrum Bow](tantrum-gear-progression/tier-1-tantrum/tantrum-bow.md)
+  * [Tantrum Crossbow](tantrum-gear-progression/tier-1-tantrum/tantrum-bow-1.md)
   * [Tantrum Trident](tantrum-gear-progression/tier-1-tantrum/tantrum-trident.md)
   * [Tantrum Pick](tantrum-gear-progression/tier-1-tantrum/tantrum-pick.md)
   * [Tantrum Shovel](tantrum-gear-progression/tier-1-tantrum/tantrum-shovel.md)
@@ -87,6 +88,7 @@
   * [Polished Battleaxe](tantrum-gear-progression/tier-2-polished/polished-battleaxe.md)
   * [Polished Claymore](tantrum-gear-progression/tier-2-polished/polished-claymore.md)
   * [Polished Longbow](tantrum-gear-progression/tier-2-polished/polished-longbow.md)
+  * [Polished Recurve Crossbow](tantrum-gear-progression/tier-2-polished/tantrum-bow.md)
   * [Polished Javelin](tantrum-gear-progression/tier-2-polished/polished-javelin.md)
   * [Polished Earth-Grinder](tantrum-gear-progression/tier-2-polished/polished-earth-grinder.md)
   * [Polished Spade](tantrum-gear-progression/tier-2-polished/polished-spade.md)
@@ -101,6 +103,7 @@
   * [Pristine Broadaxe](tantrum-gear-progression/tier-3-pristine/pristine-broadaxe.md)
   * [Pristine Gladius](tantrum-gear-progression/tier-3-pristine/pristine-gladius.md)
   * [Pristine Compound Bow](tantrum-gear-progression/tier-3-pristine/pristine-compound-bow.md)
+  * [Pristine Compound Crossbow](tantrum-gear-progression/tier-3-pristine/tantrum-bow.md)
   * [Pristine Pikestaff](tantrum-gear-progression/tier-3-pristine/pristine-pikestaff.md)
   * [Pristine Terraformer](tantrum-gear-progression/tier-3-pristine/pristine-terraformer.md)
   * [Pristine Excavator](tantrum-gear-progression/tier-3-pristine/pristine-excavator.md)
@@ -129,7 +132,7 @@
 * [Tokens and Tokenshop](economy/tokens-and-token-shop/README.md)
   * [Charms](economy/tokens-and-token-shop/charms.md)
   * [AE Items](economy/tokens-and-token-shop/ae-items.md)
-  * [Custom Gear Vouchers](economy/tokens-and-token-shop/custom-gear-vouchers.md)
+  * [Calamity Vouchers](economy/tokens-and-token-shop/custom-gear-vouchers.md)
   * [₽okedollars](economy/tokens-and-token-shop/rubokedollars.md)
 
 ## 💡 Things to Do

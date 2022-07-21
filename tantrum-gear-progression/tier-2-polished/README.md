@@ -13,3 +13,7 @@ Each item can be upgraded to Tier 2 as long as it hasn't been altered. To upgrad
 {% hint style="info" %}
 If you plan on upgrading again to Tier 3, you still **should not alter** these items in any way, shape, or form. Utilize mending for repairs, do not repair them in an anvil.
 {% endhint %}
+
+{% hint style="info" %}
+If you find that you cannot upgrade a newly obtained Tantrum Crossbow (tier 1 or tier 2), try shooting it once. Shooting a crossbow adds an NBT tag which is more compatible with upgrading.
+{% endhint %}

@@ -4,7 +4,7 @@ description: Enchants are not removeable from these items.
 
 # Tier 1 - Tantrum
 
-The progression path for Tantrum gear starts at the Tantrum Crate. To open the crate, you must buy a Tantrum Crate Key from the server shop. The cost of the Key is $750,000. There are 12 items in the crate:
+The progression path for Tantrum gear starts at the Tantrum Crate. To open the crate, you must buy a Tantrum Crate Key from the server shop. The cost of the Key is $750,000. There are 13 items in the crate:
 
 * Tantrum Coif
 * Tantrum Plate
@@ -13,6 +13,7 @@ The progression path for Tantrum gear starts at the Tantrum Crate. To open the c
 * Bobby the Rat
 * Tantrum Blade
 * Tantrum Bow
+* Tantrum Crossbow
 * Tantrum Trident
 * Tantrum Pick
 * Tantrum Shovel
