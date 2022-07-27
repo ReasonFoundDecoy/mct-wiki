@@ -40,20 +40,4 @@ Please feel free to DM Decoy on discord if you have any questions, concerns, or 
 
 (reason\_found\_decoy#1762)
 
-| Noteworthy Aspects:               | Slimefun Addons:                               |
-| --------------------------------- | ---------------------------------------------- |
-| :dollar: Economy                  | :desktop: Networks                             |
-| :beers: Brewery                   | :magic\_wand: CrystamaeHistoria                |
-| :fireworks: AdvancedEnchantments  | :package: DankTech2                            |
-| :shopping\_cart: Dynamic Shop     | :pick: SlimeTinker                             |
-| :hammer\_pick: McMMO              | :ocean: Netheopoiesis                          |
-| :placard: Sign Shop               | :inbox\_tray: SimpleStorage                    |
-| :coin: Token Shop                 | :toolbox: SensibleToolbox                      |
-| :headstone: Keep Inventory        | :infinity: InfinityExpansion                   |
-| :crossed\_swords: Custom Spawners | :sparkler: LiteXpansion                        |
-| :trophy: Massive Rank Chain       | :zap: FluffyMachines                           |
-| :tent: Land Claims                | :rat: SlimeCustomizer                          |
-| :map: DynMap                      | :school\_satchel: DyedBackpacks                |
-| :briefcase: Jobs                  | :game\_die: LuckyBlocks                        |
-| :tickets: Auction House           | :cherries: ExoticGarden                        |
-| :dizzy\_face: HeadsDB             | :diamond\_shape\_with\_a\_dot\_inside: Supreme |
+![](.gitbook/assets/advert.gif)
