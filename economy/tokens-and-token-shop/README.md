@@ -8,4 +8,4 @@ You may consider buying or selling items for tokens instead of money. The only w
 
 ## Tokenshop <mark style="color:blue;">**(/tokenshop)**</mark>, <mark style="color:blue;">**/warp Tokenshop**</mark>
 
-There are various types of currencies you can buy with your tokens by doing <mark style="color:blue;">**/tokenshop**</mark>. Use your currencies at <mark style="color:blue;">**/warp Tokenshop**</mark>, <mark style="color:blue;">**/warp**</mark> [<mark style="color:blue;">**FalloutShelter**</mark>](../../general/server-resource-pack/calamity/), or at the [Pokemon](../../general/server-resource-pack/pokemon.md) store outside of spawn!
+There are various types of currencies you can buy with your tokens by doing <mark style="color:blue;">**/tokenshop**</mark>. Use your currencies at <mark style="color:blue;">**/warp Tokenshop**</mark>, <mark style="color:blue;">**/warp**</mark> [<mark style="color:blue;">**FalloutShelter**</mark>](../../general/server-resource-pack/calamity/), or at the [Pokemon](../../general/server-resource-pack/pokemon/) store outside of spawn!

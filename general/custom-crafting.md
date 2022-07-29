@@ -306,7 +306,7 @@ Here you will find all recipes for [craftable resource pack](server-resource-pac
 
 ## Pokemon Recipes
 
-This category contains all recipes that involve anything [Pokemon](server-resource-pack/pokemon.md) related, such as Pokeballs, eggs from breeding, and Unowns. We will be adding more recipes here as needed when new generations of Pokemon are released.
+This category contains all recipes that involve anything [Pokemon](server-resource-pack/pokemon/) related, such as Pokeballs, eggs from breeding, and Unowns. We will be adding more recipes here as needed when new generations of Pokemon are released.
 
 ### Recipes
 
